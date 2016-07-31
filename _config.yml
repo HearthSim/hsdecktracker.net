@@ -12,7 +12,7 @@ vars:
   links:
     github: HearthSim/Hearthstone-Deck-Tracker
     twitter: HSDeckTracker
-    download: "https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/latest"
+    download: "https://github.com/HearthSim/HDT-Releases/releases/download/v1.0.4/HDT-Installer.exe"
 
 
 # Syntax highlighting
