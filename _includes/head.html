@@ -18,3 +18,17 @@
 	<meta property="og:description" content="{{ site.vars.description }}">
 {% endif %}
 {% if site.vars.google_analytics %}{% include analytics.html %}{% endif %}
+{% if page.fetch_download %}
+	<script src="{{ site.baseurl }}/static/scripts/fetch-download.js"></script>
+	<script>
+		fetchDownload("{{ page.fetch_download.repository }}", "{{ page.fetch_download.binary }}", function(url) {
+			if(!url) {
+					return;
+			}
+			window.location = url;
+			{% if page.fetch_download.target %}
+				document.getElementById("{{ page.fetch_download.target }}").setAttribute("href", url);
+			{% endif %}
+		}, false);
+	</script>
+{% endif %}
