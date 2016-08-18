@@ -4,13 +4,12 @@
 
 [![]({{site.baseurl}}/media/hdt-banner.png)]({{site.baseurl}}/media/hdt-banner-full.jpg)
 
-Track the cards left in your deck, cards played by your opponent and much more.
+Track the cards left in your deck, cards played by your opponent, statistics and much more.
 
 ----
 
-## Deck manager, statistics & more
+## Online replays ([Beta only](/download-hsreplay/?ref=feature))
 
-[![]({{site.baseurl}}/media/hdt-banner2.png)]({{site.baseurl}}/media/hdt-banner2-full.png)
+[![]({{site.baseurl}}/media/joust.jpg)](https://hsreplay.net/replay/vZEz7JoNnfgVo34HJUHhEF)
 
-Keep track of your wins!
-Easily import decks from the web and automatically exporting them to the game.
+Save your replays online, view your games from anywhere and share them with your friends.
