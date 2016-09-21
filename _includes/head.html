@@ -29,6 +29,6 @@
 			{% if page.fetch_download.target %}
 				document.getElementById("{{ page.fetch_download.target }}").setAttribute("href", url);
 			{% endif %}
-		}, false);
+		}, {{ page.fetch_download.prereleases|default:false }});
 	</script>
 {% endif %}
