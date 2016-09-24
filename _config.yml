@@ -34,6 +34,7 @@ sass:
 gems:
   - jekyll-mentions # @-mentions
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-redirect-from
 
 
 exclude:
