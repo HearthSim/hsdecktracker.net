@@ -1,1 +1,30 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/Hearthsim/HSTracker</link><item><title>0.18.1.1274</title><pubDate>2016-10-18T20:00:43+00:00</pubDate><sparkle:releaseNotesLink>https://github.com/HearthSim/HSTracker/releases/tag/0.18.1.1274</sparkle:releaseNotesLink><enclosure length="81103964" sparkle:shortVersionString="0.18.1.1274" sparkle:version="1274" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.1.1274/HSTracker.app.zip" /></item><item><title>0.18.0.1243</title><pubDate>2016-10-08T19:55:16+00:00</pubDate><sparkle:releaseNotesLink>https://github.com/HearthSim/HSTracker/releases/tag/0.18.0.1243</sparkle:releaseNotesLink><enclosure length="82165659" sparkle:shortVersionString="0.18.0.1243" sparkle:version="1243" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.0.1243/HSTracker.app.zip" /></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/Hearthsim/HSTracker</link><item><title>0.18.1.1274</title><pubDate>2016-10-18T20:00:43+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correct a crash happening on opening Update panel on Preferences&lt;/li&gt;
+&lt;li&gt;Prince Malchezaar is no more shown too early&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Import decks from https://tempostorm.com, http://www.hearthstoneheroes.de and http://www.hearthstonetopdeck.com&lt;/li&gt;
+&lt;li&gt;Add a tiny size for trackers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Get the Hearthstone build number from Hearthstone file to improve HSReplay &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Internal&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HSTracker have been converted to swift 2.3&lt;/li&gt;
+&lt;li&gt;HSTracker now only use PowerTaskList log to track your game&lt;/li&gt;
+&lt;/ul&gt;</description><enclosure length="81103964" sparkle:shortVersionString="0.18.1.1274" sparkle:version="1274" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.1.1274/HSTracker.app.zip" /></item><item><title>0.18.0.1243</title><pubDate>2016-10-08T19:55:16+00:00</pubDate><description>&lt;ul&gt;
+&lt;li&gt;HSTracker now synchronize your games with &lt;strong&gt;HSReplay.net&lt;/strong&gt; ! Enjoy your replays now !&lt;/li&gt;
+&lt;li&gt;You can play with Hearthstone on &lt;strong&gt;fullscreen&lt;/strong&gt; !&lt;/li&gt;
+&lt;li&gt;HSTracker use its own notifications, they should not appear under decklist anymore&lt;/li&gt;
+&lt;li&gt;Trackers should not disappear again when they &#171;&#160;auto-position trackers&#160;&#187; is checked&lt;/li&gt;
+&lt;li&gt;Support for importing decks from http://www.hearthstonetopdeck.com&lt;/li&gt;
+&lt;li&gt;Add a &lt;strong&gt;graveyard&lt;/strong&gt; and &lt;strong&gt;minion count&lt;/strong&gt; in the trackers&lt;/li&gt;
+&lt;li&gt;Add an option to &lt;strong&gt;export your deck&lt;/strong&gt; to Hearthstone (This is a BETA feature !)&lt;/li&gt;
+&lt;li&gt;You can now &lt;strong&gt;change your deck&lt;/strong&gt; with a right click on the &lt;strong&gt;dock icon&lt;/strong&gt; !&lt;/li&gt;
+&lt;li&gt;Add a huge size for trackers&lt;/li&gt;
+&lt;li&gt;Minor bugfixes&lt;/li&gt;
+&lt;/ul&gt;</description><enclosure length="82165659" sparkle:shortVersionString="0.18.0.1243" sparkle:version="1243" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.0.1243/HSTracker.app.zip" /></item></channel></rss>
