@@ -8,7 +8,7 @@ AppCast is a RSS2.0-based spec for publishing application versions
 
 from xml.etree import ElementTree
 from dateutil.parser import parse as parse_datetime
-
+import markdown
 
 class Channel:
 	tag_name = "channel"
@@ -82,7 +82,6 @@ class AppCastItem(Item):
 		self.url = ""
 		self.length = 0
 		self.type = "application/octet-stream"
-		self.release_notes_link = ""
 
 	def to_xml(self):
 		ret = super().to_xml()
@@ -92,11 +91,7 @@ class AppCastItem(Item):
 			minver.text = self.minimum_system_version
 			ret.append(minver)
 
-		if self.release_notes_link:
-			link = ElementTree.Element("sparkle:releaseNotesLink")
-			link.text = self.release_notes_link
-			ret.append(link)
-		elif self.description:
+		if self.description:
 			description = ElementTree.Element("description")
 			description.text = self.description
 			ret.append(description)
@@ -123,13 +118,12 @@ def item_from_github(release):
 		return
 
 	title = release["name"]
-	description = release["body"]
+	description = markdown.markdown(release["body"])
 	date = parse_datetime(release["published_at"])
 
 	item = AppCastItem(title, description, date)
 	item.short_version_string = version
 	item.version = version.rpartition(".")[2]
-	item.release_notes_link = release["html_url"]
 
 	asset = release["assets"][0]
 	item.url = asset["browser_download_url"]
