@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.18.2.1326</title><pubDate>2016-10-31T15:15:00+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.18.3.1327</title><pubDate>2016-10-31T16:15:58+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correct a crash when saving an arena deck&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do you want to help HSTracker ? &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img alt="PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" /&gt;&lt;/a&gt;&lt;/p&gt;</description><enclosure length="85674425" sparkle:shortVersionString="0.18.3.1327" sparkle:version="1327" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.3.1327/HSTracker.app.zip" /></item><item><title>0.18.2.1326</title><pubDate>2016-10-31T15:15:00+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;HSTracker now show his status on the dock icon&lt;/li&gt;
 &lt;/ul&gt;
