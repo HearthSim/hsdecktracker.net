@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.18.3.1340</title><pubDate>2016-11-07T21:39:04+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.18.4.1340</title><pubDate>2016-11-07T21:39:04+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Arena deck will now appear correctly as arena deck on HsReplay&lt;/li&gt;
 &lt;li&gt;Add an option to auto archive arena decks on run end&lt;/li&gt;
@@ -16,7 +16,7 @@
 &lt;ul&gt;
 &lt;li&gt;Hearthstats and Track-o-Bot login/logout is now done from settings (use &lt;em&gt;&#8984;,&lt;/em&gt; to open them)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Do you want to help HSTracker ? Consider donating &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img alt="PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" /&gt;&lt;/a&gt;&lt;/p&gt;</description><enclosure length="85967650" sparkle:shortVersionString="0.18.3.1340" sparkle:version="1340" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.3.1340/HSTracker.app.zip" /></item><item><title>0.18.3.1327</title><pubDate>2016-10-31T16:15:58+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;p&gt;Do you want to help HSTracker ? Consider donating &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img alt="PayPal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" /&gt;&lt;/a&gt;&lt;/p&gt;</description><enclosure length="85967650" sparkle:shortVersionString="0.18.4.1340" sparkle:version="1340" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.18.4.1340/HSTracker.app.zip" /></item><item><title>0.18.3.1327</title><pubDate>2016-10-31T16:15:58+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Correct a crash when saving an arena deck&lt;/li&gt;
 &lt;/ul&gt;
