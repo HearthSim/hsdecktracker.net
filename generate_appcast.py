@@ -114,7 +114,7 @@ def item_from_github(release):
 
 	version = release["tag_name"]
 	# version must be formatted as x.y.z.build
-	if version.count(".") != 3:
+	if version.count(".") < 2:
 		return
 
 	title = release["name"]
@@ -123,7 +123,7 @@ def item_from_github(release):
 
 	item = AppCastItem(title, description, date)
 	item.short_version_string = version
-	item.version = version.rpartition(".")[2]
+	item.version = version.rpartition(".")[-1]
 
 	asset = release["assets"][0]
 	item.url = asset["browser_download_url"]
