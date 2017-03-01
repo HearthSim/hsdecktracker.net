@@ -1,10 +1,23 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.19.1</title><pubDate>2017-02-21T20:29:06+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.19.2</title><pubDate>2017-03-01T17:07:41+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HSTracker is now localized in korean&lt;/li&gt;
+&lt;li&gt;There's an arena helper available when you craft your arena deck&lt;/li&gt;
+&lt;li&gt;Add an option to hide all trackers when not in game&lt;/li&gt;
+&lt;li&gt;Updated for patch 7.1.0.17720&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where HSTracker was using a lot of memory and cpu&lt;/li&gt;
+&lt;li&gt;Fixed an issue where HSTracker was not saving all informations in statistics&lt;/li&gt;
+&lt;li&gt;Fixed an issue where HSTracker was not uploading correctly to HsReplay&lt;/li&gt;
+&lt;li&gt;Decks imported from Hearthstone are now visible in deck menu and dock menu&lt;/li&gt;
+&lt;/ul&gt;</description><enclosure length="33728614" sparkle:shortVersionString="0.19.2" sparkle:version="2" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.2/HSTracker.app.zip" /></item><item><title>0.19.1</title><pubDate>2017-02-21T20:29:06+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Fixed an issue where the opponent tracker should remain empty until the end of the game&lt;/li&gt;
 &lt;li&gt;Fixed an issue that caused an invalid mirror state caused by the game crashing at startup&lt;/li&gt;
 &lt;li&gt;Fixed an issue where HSTracker was using a lot of memory&lt;/li&gt;
 &lt;li&gt;Fixed a crash when exporting to hearthstone&lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="33779247" sparkle:shortVersionString="0.19.1" sparkle:version="1470" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.1/HSTracker.app.zip" /></item><item><title>0.19</title><pubDate>2017-02-09T08:01:28+00:00</pubDate><description>&lt;h2&gt;Breaking change&lt;/h2&gt;
+&lt;/ul&gt;</description><enclosure length="33779247" sparkle:shortVersionString="0.19.1" sparkle:version="1" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.1/HSTracker.app.zip" /></item><item><title>0.19</title><pubDate>2017-02-09T08:01:28+00:00</pubDate><description>&lt;h2&gt;Breaking change&lt;/h2&gt;
 &lt;p&gt;HearthStats has not been updated for Mean Streets of Gadgetzan and will likely remain unmaintained.
 Syncing causes your local decks to lose their MSG cards. HearthStats support is now disabled for all users.&lt;/p&gt;
 &lt;p&gt;We are very sorry about the inconvenience and are working on a much improved replacement system!&lt;/p&gt;
@@ -184,11 +197,4 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 &lt;li&gt;Add an option to rebuild card database (menu HSTracker -&amp;gt; rebuild card database)&lt;/li&gt;
 &lt;li&gt;Fix : brawl is now correctly detected&lt;/li&gt;
 &lt;li&gt;Support TGT&lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="19518411" sparkle:shortVersionString="0.12.292" sparkle:version="292" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.292/HSTracker.pkg" /></item><item><title>0.11.4</title><pubDate>2015-07-15T12:16:08+00:00</pubDate><description>&lt;ul&gt;
-&lt;li&gt;Correct the save button on "non-full" decks&lt;/li&gt;
-&lt;li&gt;The timer is now correctly hidden on HSTracker start when show_timer is not checked&lt;/li&gt;
-&lt;li&gt;Add an option to hide the opponent tracker&lt;/li&gt;
-&lt;li&gt;Correct a crash when importing hearthstats decks&lt;/li&gt;
-&lt;li&gt;Correct an error with the deck selection from menu&lt;/li&gt;
-&lt;li&gt;Correct scroll on 10.8 and 10.9&lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="16725504" sparkle:shortVersionString="0.11.264" sparkle:version="264" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.11.264/HSTracker.dmg" /></item></channel></rss>
+&lt;/ul&gt;</description><enclosure length="19518411" sparkle:shortVersionString="0.12.292" sparkle:version="292" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.292/HSTracker.pkg" /></item></channel></rss>
