@@ -1,4 +1,9 @@
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.19.2</title><pubDate>2017-03-01T17:07:41+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>HSTracker</title><link>https://github.com/HearthSim/HSTracker</link><item><title>0.19.3</title><pubDate>2017-03-05T14:37:12+00:00</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where HSTracker was using a lot of memory and cpu (eventually ?)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where HSTracker was sending bad log lines to HsReplay&lt;/li&gt;
+&lt;li&gt;Fixed an issue where some UI parts were not visible on fullscreen mode &lt;/li&gt;
+&lt;/ul&gt;</description><enclosure length="33782523" sparkle:shortVersionString="0.19.3" sparkle:version="3" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.3/HSTracker.app.zip" /></item><item><title>0.19.2</title><pubDate>2017-03-01T17:07:41+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;HSTracker is now localized in korean&lt;/li&gt;
 &lt;li&gt;There's an arena helper available when you craft your arena deck&lt;/li&gt;
@@ -191,10 +196,4 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 &lt;li&gt;Add HockeyApp to help getting error message. Please always accept to send the crash logs !&lt;/li&gt;
 &lt;/ul&gt;</description><enclosure length="18877986" sparkle:shortVersionString="0.12.300" sparkle:version="300" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.300/HSTracker.dmg" /></item><item><title>0.12.1</title><pubDate>2015-08-19T22:41:45+00:00</pubDate><description>&lt;ul&gt;
 &lt;li&gt;Bugfixes !&lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="19518414" sparkle:shortVersionString="0.12.297" sparkle:version="297" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.297/HSTracker.pkg" /></item><item><title>0.12</title><pubDate>2015-08-19T18:20:57+00:00</pubDate><description>&lt;ul&gt;
-&lt;li&gt;Fix : should run correctly on 10.8&lt;/li&gt;
-&lt;li&gt;Fix : upload on HearthStats&lt;/li&gt;
-&lt;li&gt;Add an option to rebuild card database (menu HSTracker -&amp;gt; rebuild card database)&lt;/li&gt;
-&lt;li&gt;Fix : brawl is now correctly detected&lt;/li&gt;
-&lt;li&gt;Support TGT&lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="19518411" sparkle:shortVersionString="0.12.292" sparkle:version="292" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.292/HSTracker.pkg" /></item></channel></rss>
+&lt;/ul&gt;</description><enclosure length="19518414" sparkle:shortVersionString="0.12.297" sparkle:version="297" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/0.12.297/HSTracker.pkg" /></item></channel></rss>
