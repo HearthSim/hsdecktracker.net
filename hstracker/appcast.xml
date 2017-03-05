@@ -3,7 +3,7 @@
 &lt;li&gt;Fixed an issue where HSTracker was using a lot of memory and cpu (eventually ?)&lt;/li&gt;
 &lt;li&gt;Fixed an issue where HSTracker was sending bad log lines to HsReplay&lt;/li&gt;
 &lt;li&gt;Fixed an issue where some UI parts were not visible on fullscreen mode &lt;/li&gt;
-&lt;/ul&gt;</description><enclosure length="33782523" sparkle:shortVersionString="0.19.3" sparkle:version="3" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.3/HSTracker.app.zip" /></item><item><title>0.19.2</title><pubDate>2017-03-01T17:07:41+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;/ul&gt;</description><enclosure length="33782523" sparkle:shortVersionString="0.19.3" sparkle:version="1500" type="application/zip" url="https://github.com/HearthSim/HSTracker/releases/download/0.19.3/HSTracker.app.zip" /></item><item><title>0.19.2</title><pubDate>2017-03-01T17:07:41+00:00</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;HSTracker is now localized in korean&lt;/li&gt;
 &lt;li&gt;There's an arena helper available when you craft your arena deck&lt;/li&gt;
