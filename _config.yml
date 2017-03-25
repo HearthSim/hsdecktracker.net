@@ -10,9 +10,10 @@ vars:
   google_analytics: "UA-68659282-1"
 
   links:
+    download: /download/
+    discord: hearthsim
     github: HearthSim/Hearthstone-Deck-Tracker
     twitter: HSDeckTracker
-    download: /download/
 
 
 # Syntax highlighting
