@@ -15,7 +15,6 @@ vars:
     github: HearthSim/Hearthstone-Deck-Tracker
     twitter: HSDeckTracker
 
-
 # Syntax highlighting
 markdown: kramdown
 kramdown:
@@ -30,16 +29,9 @@ kramdown:
 sass:
   style: :compressed
 
-
-# Plug-ins
-gems:
-  - jekyll-mentions # @-mentions
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-redirect-from
-
-
 exclude:
   - LICENSE
   - README.md
   - CNAME
   - generate_appcast.py
+  - vendor/
