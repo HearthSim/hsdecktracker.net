@@ -3,18 +3,13 @@ sudo: false
 language: ruby
 rvm: "2.4.0"
 
-cache:
-  directories:
-    - $HOME/.gem
-    - $HOME/.rvm/gems
-
 cache: bundler
 
 install:
-  - gem install github-pages s3_website
+  - bundle install
 
 script:
-  - jekyll build
+  - bundle exec jekyll build
 
 after_success: '[[ "$TRAVIS_PULL_REQUEST" = "false" ]] && s3_website push'
 
