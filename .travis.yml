@@ -1,0 +1,19 @@
+# https://travis-ci.org/HearthSim/hsdecktracker.net
+sudo: false
+language: ruby
+rvm: "2.4.0"
+
+cache: bundler
+
+install:
+  - bundle install
+
+script:
+  - bundle exec jekyll build
+
+after_success: '[[ "$TRAVIS_PULL_REQUEST" = "false" ]] && s3_website push'
+
+notifications:
+  email:
+    on_failure: always
+    on_success: change
