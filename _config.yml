@@ -10,10 +10,10 @@ vars:
   google_analytics: "UA-68659282-1"
 
   links:
+    download: /download/
+    discord: hearthsim
     github: HearthSim/Hearthstone-Deck-Tracker
     twitter: HSDeckTracker
-    download: /download/
-
 
 # Syntax highlighting
 markdown: kramdown
@@ -29,16 +29,9 @@ kramdown:
 sass:
   style: :compressed
 
-
-# Plug-ins
-gems:
-  - jekyll-mentions # @-mentions
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-redirect-from
-
-
 exclude:
   - LICENSE
   - README.md
   - CNAME
   - generate_appcast.py
+  - vendor/
