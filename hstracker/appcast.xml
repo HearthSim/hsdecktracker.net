@@ -5,303 +5,303 @@
   <item>
     <title>0.20</title>
     <pubDate>2017-04-05T06:35:34Z</pubDate>
-    <description>&lt;h2&gt;New:&lt;/h2&gt;
+    <description><![CDATA[<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Update to Journey to UnGoro&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Update to Journey to UnGoro</li>
+</ul>
 
-&lt;p&gt;Do you want to help HSTracker ? Consider donating &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.20/HSTracker.app.zip" type="application/zip" length="47496544" sparkle:shortVersionString="0.20" sparkle:version="1522"/>
   </item>
   <item>
     <title>0.19.3</title>
     <pubDate>2017-03-05T14:37:12Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue where HSTracker was using a lot of memory and cpu (eventually ?)&lt;/li&gt;
-&lt;li&gt;Fixed an issue where HSTracker was sending bad log lines to HsReplay&lt;/li&gt;
-&lt;li&gt;Fixed an issue where some UI parts were not visible on fullscreen mode &lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>Fixed an issue where HSTracker was using a lot of memory and cpu (eventually ?)</li>
+<li>Fixed an issue where HSTracker was sending bad log lines to HsReplay</li>
+<li>Fixed an issue where some UI parts were not visible on fullscreen mode </li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.19.3/HSTracker.app.zip" type="application/zip" length="33782523" sparkle:shortVersionString="0.19.3" sparkle:version="1500"/>
   </item>
   <item>
     <title>0.19.2</title>
     <pubDate>2017-03-01T17:07:41Z</pubDate>
-    <description>&lt;h2&gt;New:&lt;/h2&gt;
+    <description><![CDATA[<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;HSTracker is now localized in korean&lt;/li&gt;
-&lt;li&gt;There&amp;#39;s an arena helper available when you craft your arena deck&lt;/li&gt;
-&lt;li&gt;Add an option to hide all trackers when not in game&lt;/li&gt;
-&lt;li&gt;Updated for patch 7.1.0.17720&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>HSTracker is now localized in korean</li>
+<li>There&#39;s an arena helper available when you craft your arena deck</li>
+<li>Add an option to hide all trackers when not in game</li>
+<li>Updated for patch 7.1.0.17720</li>
+</ul>
 
-&lt;h2&gt;Fixes:&lt;/h2&gt;
+<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue where HSTracker was using a lot of memory and cpu&lt;/li&gt;
-&lt;li&gt;Fixed an issue where HSTracker was not saving all informations in statistics&lt;/li&gt;
-&lt;li&gt;Fixed an issue where HSTracker was not uploading correctly to HsReplay&lt;/li&gt;
-&lt;li&gt;Decks imported from Hearthstone are now visible in deck menu and dock menu&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>Fixed an issue where HSTracker was using a lot of memory and cpu</li>
+<li>Fixed an issue where HSTracker was not saving all informations in statistics</li>
+<li>Fixed an issue where HSTracker was not uploading correctly to HsReplay</li>
+<li>Decks imported from Hearthstone are now visible in deck menu and dock menu</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.19.2/HSTracker.app.zip" type="application/zip" length="33728614" sparkle:shortVersionString="0.19.2" sparkle:version="1491"/>
   </item>
   <item>
     <title>0.19.1</title>
     <pubDate>2017-02-21T20:29:06Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Fixed an issue where the opponent tracker should remain empty until the end of the game&lt;/li&gt;
-&lt;li&gt;Fixed an issue that caused an invalid mirror state caused by the game crashing at startup&lt;/li&gt;
-&lt;li&gt;Fixed an issue where HSTracker was using a lot of memory&lt;/li&gt;
-&lt;li&gt;Fixed a crash when exporting to hearthstone&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>Fixed an issue where the opponent tracker should remain empty until the end of the game</li>
+<li>Fixed an issue that caused an invalid mirror state caused by the game crashing at startup</li>
+<li>Fixed an issue where HSTracker was using a lot of memory</li>
+<li>Fixed a crash when exporting to hearthstone</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.19.1/HSTracker.app.zip" type="application/zip" length="33779247" sparkle:shortVersionString="0.19.1" sparkle:version="1470"/>
   </item>
   <item>
     <title>0.19</title>
     <pubDate>2017-02-09T08:01:28Z</pubDate>
-    <description>&lt;h2&gt;Breaking change&lt;/h2&gt;
+    <description><![CDATA[<h2>Breaking change</h2>
 
-&lt;p&gt;HearthStats has not been updated for Mean Streets of Gadgetzan and will likely remain unmaintained.
-Syncing causes your local decks to lose their MSG cards. HearthStats support is now disabled for all users.&lt;/p&gt;
+<p>HearthStats has not been updated for Mean Streets of Gadgetzan and will likely remain unmaintained.
+Syncing causes your local decks to lose their MSG cards. HearthStats support is now disabled for all users.</p>
 
-&lt;p&gt;We are very sorry about the inconvenience and are working on a much improved replacement system!&lt;/p&gt;
+<p>We are very sorry about the inconvenience and are working on a much improved replacement system!</p>
 
-&lt;h2&gt;Breaking change 2&lt;/h2&gt;
+<h2>Breaking change 2</h2>
 
-&lt;p&gt;Starting from this version, HSTracker is signed with my Apple developper account. You have to download manually this version from &lt;a href="https://hsdecktracker.net/hstracker/download/"&gt;hsdecktracker.net&lt;/a&gt; since the update system will not allow this signature change.&lt;/p&gt;
+<p>Starting from this version, HSTracker is signed with my Apple developper account. You have to download manually this version from <a href="https://hsdecktracker.net/hstracker/download/">hsdecktracker.net</a> since the update system will not allow this signature change.</p>
 
-&lt;h2&gt;Breaking change 3&lt;/h2&gt;
+<h2>Breaking change 3</h2>
 
-&lt;p&gt;HSTracker now use a new system to improve your tracking. It allows HSTracker to auto-import decks from Hearthstone, detect ranks, game modes, ...
-You will be asked to authorize HSTracker to read the memory of Hearthstone. There&amp;#39;s no other modification done to your system.
-&lt;em&gt;Please note&lt;/em&gt; that this version will delete your statistics, this is due to a big modification of the statistic system.&lt;/p&gt;
+<p>HSTracker now use a new system to improve your tracking. It allows HSTracker to auto-import decks from Hearthstone, detect ranks, game modes, ...
+You will be asked to authorize HSTracker to read the memory of Hearthstone. There&#39;s no other modification done to your system.
+<em>Please note</em> that this version will delete your statistics, this is due to a big modification of the statistic system.</p>
 
-&lt;h2&gt;Changes:&lt;/h2&gt;
+<h2>Changes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Improve the &amp;quot;new deck&amp;quot; window&lt;/li&gt;
-&lt;li&gt;Improve the tracker &amp;quot;refresh&amp;quot;&lt;/li&gt;
-&lt;li&gt;Add a option to fully reset your HSReplay account&lt;/li&gt;
-&lt;li&gt;Better support for MSG cards&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Improve the &quot;new deck&quot; window</li>
+<li>Improve the tracker &quot;refresh&quot;</li>
+<li>Add a option to fully reset your HSReplay account</li>
+<li>Better support for MSG cards</li>
+</ul>
 
-&lt;h2&gt;New:&lt;/h2&gt;
+<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Add a jade counter&lt;/li&gt;
-&lt;li&gt;New way to get your data, which allows to get &lt;/li&gt;
-&lt;li&gt;Decks imported from Hearthstone for all game modes (arena, brawl, constructed)&lt;/li&gt;
-&lt;li&gt;Format (wild/standard)&lt;/li&gt;
-&lt;li&gt;Correct rank&lt;/li&gt;
-&lt;li&gt;Arena draft choice (which allows something like arena helper) (NOT in this version, planned for future release)&lt;/li&gt;
-&lt;li&gt;Arena reward tracking (NOT in this version, planned for future release)&lt;/li&gt;
-&lt;li&gt;Collection manager (we know the cards you have)&lt;/li&gt;
-&lt;li&gt;Pack opening, end season rewards, ... (NOT in this version, planned for future release)&lt;/li&gt;
-&lt;li&gt;Add an option to prefer golden cards when exporting a deck to Hearthstone&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Add a jade counter</li>
+<li>New way to get your data, which allows to get </li>
+<li>Decks imported from Hearthstone for all game modes (arena, brawl, constructed)</li>
+<li>Format (wild/standard)</li>
+<li>Correct rank</li>
+<li>Arena draft choice (which allows something like arena helper) (NOT in this version, planned for future release)</li>
+<li>Arena reward tracking (NOT in this version, planned for future release)</li>
+<li>Collection manager (we know the cards you have)</li>
+<li>Pack opening, end season rewards, ... (NOT in this version, planned for future release)</li>
+<li>Add an option to prefer golden cards when exporting a deck to Hearthstone</li>
+</ul>
 
-&lt;h2&gt;Fixes:&lt;/h2&gt;
+<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;The &amp;quot;Use deck&amp;quot; in the deck manager is working again&lt;/li&gt;
-&lt;li&gt;The new way we get data should correct a lot of issues&lt;/li&gt;
-&lt;li&gt;Statistics are now correctly saved again&lt;/li&gt;
-&lt;li&gt;Better support of HsReplay&lt;/li&gt;
-&lt;li&gt;Improve log reading speed&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>The &quot;Use deck&quot; in the deck manager is working again</li>
+<li>The new way we get data should correct a lot of issues</li>
+<li>Statistics are now correctly saved again</li>
+<li>Better support of HsReplay</li>
+<li>Improve log reading speed</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.19/HSTracker.app.zip" type="application/zip" length="33783757" sparkle:shortVersionString="0.19" sparkle:version="1462"/>
   </item>
   <item>
     <title>0.18.5.1367</title>
     <pubDate>2016-12-01T20:00:07Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;HSTracker now correctly save the opponent deck on game end&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>HSTracker now correctly save the opponent deck on game end</li>
+</ul>
 
-&lt;h2&gt;New:&lt;/h2&gt;
+<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Add a visual effect when you add a card in the deck manager&lt;/li&gt;
-&lt;li&gt;Add a right-click menu on the deck manager&lt;/li&gt;
-&lt;li&gt;Support for &lt;em&gt;Mean Streets of Gadgetzan&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Add the chance to top deck a card (when you hover a card in your tracker)&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Add a visual effect when you add a card in the deck manager</li>
+<li>Add a right-click menu on the deck manager</li>
+<li>Support for <em>Mean Streets of Gadgetzan</em></li>
+<li>Add the chance to top deck a card (when you hover a card in your tracker)</li>
+</ul>
 
-&lt;h2&gt;Changes:&lt;/h2&gt;
+<h2>Changes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Due to some problem with card images, the deck manager and the hovering on the tracker now show a tooltip of the card. I&amp;#39;m still trying to fix the issue, but in the meantime...&lt;/li&gt;
-&lt;li&gt;Tiles (little cards image) are now downloaded. It can take sometime the first time you show a card for the image to be downloaded.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>Due to some problem with card images, the deck manager and the hovering on the tracker now show a tooltip of the card. I&#39;m still trying to fix the issue, but in the meantime...</li>
+<li>Tiles (little cards image) are now downloaded. It can take sometime the first time you show a card for the image to be downloaded.</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.5.1367/HSTracker.app.zip" type="application/zip" length="67965595" sparkle:shortVersionString="0.18.5.1367" sparkle:version="1367"/>
   </item>
   <item>
     <title>0.18.4.1340</title>
     <pubDate>2016-11-07T21:39:04Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Arena deck will now appear correctly as arena deck on HsReplay&lt;/li&gt;
-&lt;li&gt;Add an option to auto archive arena decks on run end&lt;/li&gt;
-&lt;li&gt;You should no more be asked to save your arena deck once it&amp;#39;s saved&lt;/li&gt;
-&lt;li&gt;Statistics are now correctly shown for arena decks&lt;/li&gt;
-&lt;li&gt;Add an icon in the deck manager when a deck is marked as arena&lt;/li&gt;
-&lt;li&gt;Add an icon in the deck manager on arena deck when the run is finished&lt;/li&gt;
-&lt;li&gt;Arena deck imported by HSTracker are now correctly marked as &amp;quot;arena deck&amp;quot;&lt;/li&gt;
-&lt;li&gt;Correct an issue where HSTracker was not visible with fullscreen Hearthstone&lt;/li&gt;
-&lt;li&gt;Hearthstats decks are fetched correctly now &lt;/li&gt;
-&lt;li&gt;Correct the build number from Hearthstone&lt;/li&gt;
-&lt;li&gt;Multiple crashes fixes&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Arena deck will now appear correctly as arena deck on HsReplay</li>
+<li>Add an option to auto archive arena decks on run end</li>
+<li>You should no more be asked to save your arena deck once it&#39;s saved</li>
+<li>Statistics are now correctly shown for arena decks</li>
+<li>Add an icon in the deck manager when a deck is marked as arena</li>
+<li>Add an icon in the deck manager on arena deck when the run is finished</li>
+<li>Arena deck imported by HSTracker are now correctly marked as &quot;arena deck&quot;</li>
+<li>Correct an issue where HSTracker was not visible with fullscreen Hearthstone</li>
+<li>Hearthstats decks are fetched correctly now </li>
+<li>Correct the build number from Hearthstone</li>
+<li>Multiple crashes fixes</li>
+</ul>
 
-&lt;h2&gt;Changes:&lt;/h2&gt;
+<h2>Changes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Hearthstats and Track-o-Bot login/logout is now done from settings (use &lt;em&gt;&#x2318;,&lt;/em&gt; to open them)&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Hearthstats and Track-o-Bot login/logout is now done from settings (use <em>⌘,</em> to open them)</li>
+</ul>
 
-&lt;p&gt;Do you want to help HSTracker ? Consider donating &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.4.1340/HSTracker.app.zip" type="application/zip" length="85967650" sparkle:shortVersionString="0.18.4.1340" sparkle:version="1340"/>
   </item>
   <item>
     <title>0.18.3.1327</title>
     <pubDate>2016-10-31T16:15:58Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Correct a crash when saving an arena deck&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Correct a crash when saving an arena deck</li>
+</ul>
 
-&lt;p&gt;Do you want to help HSTracker ? &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.3.1327/HSTracker.app.zip" type="application/zip" length="85674425" sparkle:shortVersionString="0.18.3.1327" sparkle:version="1328"/>
   </item>
   <item>
     <title>0.18.2.1326</title>
     <pubDate>2016-10-31T15:15:00Z</pubDate>
-    <description>&lt;h2&gt;New:&lt;/h2&gt;
+    <description><![CDATA[<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;HSTracker now show his status on the dock icon&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>HSTracker now show his status on the dock icon</li>
+</ul>
 
-&lt;h2&gt;Fixes:&lt;/h2&gt;
+<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Effigy is now removed correctly from secret helper&lt;/li&gt;
-&lt;li&gt;Export to Hearthstone should pick the correct card now (ie: C&amp;#39;Thun) and the second card if the first is not available&lt;/li&gt;
-&lt;li&gt;Hearthhead import works with their new website&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Effigy is now removed correctly from secret helper</li>
+<li>Export to Hearthstone should pick the correct card now (ie: C&#39;Thun) and the second card if the first is not available</li>
+<li>Hearthhead import works with their new website</li>
+</ul>
 
-&lt;h2&gt;Internal&lt;/h2&gt;
+<h2>Internal</h2>
 
-&lt;ul&gt;
-&lt;li&gt;HSTracker have been converted to swift 3&lt;/li&gt;
-&lt;li&gt;Complete refactor of all UI system for trackers.&lt;/li&gt;
-&lt;li&gt;Decks and statistics are now saved in a realm database. This should improve their stability.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>HSTracker have been converted to swift 3</li>
+<li>Complete refactor of all UI system for trackers.</li>
+<li>Decks and statistics are now saved in a realm database. This should improve their stability.</li>
+</ul>
 
-&lt;p&gt;Do you want to help HSTracker ? &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=bmichotte%40gmail%2ecom&amp;amp;lc=US&amp;amp;item_name=HSTracker&amp;amp;currency_code=EUR&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"&gt;&lt;img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.2.1326/HSTracker.app.zip" type="application/zip" length="85673184" sparkle:shortVersionString="0.18.2.1326" sparkle:version="1326"/>
   </item>
   <item>
     <title>0.18.1.1274</title>
     <pubDate>2016-10-18T20:00:43Z</pubDate>
-    <description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+    <description><![CDATA[<h2>Fixes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Correct a crash happening on opening Update panel on Preferences&lt;/li&gt;
-&lt;li&gt;Prince Malchezaar is no more shown too early&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Correct a crash happening on opening Update panel on Preferences</li>
+<li>Prince Malchezaar is no more shown too early</li>
+</ul>
 
-&lt;h2&gt;New:&lt;/h2&gt;
+<h2>New:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Import decks from &lt;a href="https://tempostorm.com"&gt;https://tempostorm.com&lt;/a&gt;, &lt;a href="http://www.hearthstoneheroes.de"&gt;http://www.hearthstoneheroes.de&lt;/a&gt; and &lt;a href="http://www.hearthstonetopdeck.com"&gt;http://www.hearthstonetopdeck.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a tiny size for trackers&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Import decks from <a href="https://tempostorm.com">https://tempostorm.com</a>, <a href="http://www.hearthstoneheroes.de">http://www.hearthstoneheroes.de</a> and <a href="http://www.hearthstonetopdeck.com">http://www.hearthstonetopdeck.com</a></li>
+<li>Add a tiny size for trackers</li>
+</ul>
 
-&lt;h2&gt;Changes:&lt;/h2&gt;
+<h2>Changes:</h2>
 
-&lt;ul&gt;
-&lt;li&gt;Get the Hearthstone build number from Hearthstone file to improve HSReplay &lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>Get the Hearthstone build number from Hearthstone file to improve HSReplay </li>
+</ul>
 
-&lt;h2&gt;Internal&lt;/h2&gt;
+<h2>Internal</h2>
 
-&lt;ul&gt;
-&lt;li&gt;HSTracker have been converted to swift 2.3&lt;/li&gt;
-&lt;li&gt;HSTracker now only use PowerTaskList log to track your game&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>HSTracker have been converted to swift 2.3</li>
+<li>HSTracker now only use PowerTaskList log to track your game</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.1.1274/HSTracker.app.zip" type="application/zip" length="81103964" sparkle:shortVersionString="0.18.1.1274" sparkle:version="1274"/>
   </item>
   <item>
     <title>0.18.0.1243</title>
     <pubDate>2016-10-08T19:55:16Z</pubDate>
-    <description>&lt;ul&gt;
-&lt;li&gt;HSTracker now synchronize your games with &lt;strong&gt;HSReplay.net&lt;/strong&gt; ! Enjoy your replays now !&lt;/li&gt;
-&lt;li&gt;You can play with Hearthstone on &lt;strong&gt;fullscreen&lt;/strong&gt; !&lt;/li&gt;
-&lt;li&gt;HSTracker use its own notifications, they should not appear under decklist anymore&lt;/li&gt;
-&lt;li&gt;Trackers should not disappear again when they &#xAB;&#xA0;auto-position trackers&#xA0;&#xBB; is checked&lt;/li&gt;
-&lt;li&gt;Support for importing decks from &lt;a href="http://www.hearthstonetopdeck.com"&gt;http://www.hearthstonetopdeck.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add a &lt;strong&gt;graveyard&lt;/strong&gt; and &lt;strong&gt;minion count&lt;/strong&gt; in the trackers&lt;/li&gt;
-&lt;li&gt;Add an option to &lt;strong&gt;export your deck&lt;/strong&gt; to Hearthstone (This is a BETA feature !)&lt;/li&gt;
-&lt;li&gt;You can now &lt;strong&gt;change your deck&lt;/strong&gt; with a right click on the &lt;strong&gt;dock icon&lt;/strong&gt; !&lt;/li&gt;
-&lt;li&gt;Add a huge size for trackers&lt;/li&gt;
-&lt;li&gt;Minor bugfixes&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+    <description><![CDATA[<ul>
+<li>HSTracker now synchronize your games with <strong>HSReplay.net</strong> ! Enjoy your replays now !</li>
+<li>You can play with Hearthstone on <strong>fullscreen</strong> !</li>
+<li>HSTracker use its own notifications, they should not appear under decklist anymore</li>
+<li>Trackers should not disappear again when they « auto-position trackers » is checked</li>
+<li>Support for importing decks from <a href="http://www.hearthstonetopdeck.com">http://www.hearthstonetopdeck.com</a></li>
+<li>Add a <strong>graveyard</strong> and <strong>minion count</strong> in the trackers</li>
+<li>Add an option to <strong>export your deck</strong> to Hearthstone (This is a BETA feature !)</li>
+<li>You can now <strong>change your deck</strong> with a right click on the <strong>dock icon</strong> !</li>
+<li>Add a huge size for trackers</li>
+<li>Minor bugfixes</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.0.1243/HSTracker.app.zip" type="application/zip" length="82165659" sparkle:shortVersionString="0.18.0.1243" sparkle:version="1243"/>
   </item>
   <item>
     <title>0.12.305</title>
     <pubDate>2015-08-20T10:50:04Z</pubDate>
-    <description>&lt;h4&gt;0.12.3&lt;/h4&gt;
+    <description><![CDATA[<h4>0.12.3</h4>
 
-&lt;ul&gt;
-&lt;li&gt;Correct some crashes&lt;/li&gt;
-&lt;li&gt;Add Sparkle for auto-update stuff !&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+<ul>
+<li>Correct some crashes</li>
+<li>Add Sparkle for auto-update stuff !</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.12.305/HSTracker.dmg" type="application/octet-stream" length="19425702" sparkle:shortVersionString="0.12.305" sparkle:version="305"/>
   </item>
   <item>
     <title>0.12.2</title>
     <pubDate>2015-08-20T07:02:01Z</pubDate>
-    <description>&lt;ul&gt;
-&lt;li&gt;Correct the invalid update message&lt;/li&gt;
-&lt;li&gt;Correct a crash if HearthStats is down and the timeout is too long&lt;/li&gt;
-&lt;li&gt;Add HockeyApp to help getting error message. Please always accept to send the crash logs !&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+    <description><![CDATA[<ul>
+<li>Correct the invalid update message</li>
+<li>Correct a crash if HearthStats is down and the timeout is too long</li>
+<li>Add HockeyApp to help getting error message. Please always accept to send the crash logs !</li>
+</ul>
+]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.12.300/HSTracker.dmg" type="application/zip" length="18877986" sparkle:shortVersionString="0.12.300" sparkle:version="300"/>
   </item>
