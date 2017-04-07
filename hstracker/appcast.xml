@@ -3,6 +3,22 @@
   <title>HSTracker</title>
   <link>https://github.com/HearthSim/HSTracker</link>
   <item>
+    <title>0.20.1</title>
+    <pubDate>2017-04-07T20:41:57Z</pubDate>
+    <description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed an issue where Quests would trigger the secret list.</li>
+<li>Fixed an issue where some cards were not in the correct sets.</li>
+<li>Fixed an issue where the Tracking (Hunter) pick would not be tracked correctly.</li>
+</ul>
+
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
+    <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.20.1/HSTracker.app.zip" type="application/zip" length="47498503" sparkle:shortVersionString="0.20.1" sparkle:version="1529"/>
+  </item>
+  <item>
     <title>0.20</title>
     <pubDate>2017-04-05T06:35:34Z</pubDate>
     <description><![CDATA[<h2>New:</h2>
@@ -292,17 +308,5 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 ]]></description>
     <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
     <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.12.305/HSTracker.dmg" type="application/octet-stream" length="19425702" sparkle:shortVersionString="0.12.305" sparkle:version="305"/>
-  </item>
-  <item>
-    <title>0.12.2</title>
-    <pubDate>2015-08-20T07:02:01Z</pubDate>
-    <description><![CDATA[<ul>
-<li>Correct the invalid update message</li>
-<li>Correct a crash if HearthStats is down and the timeout is too long</li>
-<li>Add HockeyApp to help getting error message. Please always accept to send the crash logs !</li>
-</ul>
-]]></description>
-    <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-    <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.12.300/HSTracker.dmg" type="application/zip" length="18877986" sparkle:shortVersionString="0.12.300" sparkle:version="300"/>
   </item>
 </rss>
