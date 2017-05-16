@@ -4,6 +4,30 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.0.1</title>
+      <pubDate>2017-05-16T19:51:53Z</pubDate>
+      <description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed a crash when the deck manager UI tries to save/update a deck</li>
+<li>Fixed a crash when saving current player / opponent deck</li>
+<li>Fixed an error where arena score were not shown if value contains non-numeric character</li>
+<li>Fixed an error where game mode were not updated when switching from a game mode to another</li>
+<li>Fixed an issue where tracker GUI&#39;s were hidden even when app was active</li>
+<li>Clear trackers on game end now works properly</li>
+<li>Fixed an issue when uploading to HSReplay</li>
+</ul>
+
+<h2>New</h2>
+
+<ul>
+<li>Add an indicator for bad card when multiple (arena helper)</li>
+</ul>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.0.1/HSTracker.app.zip" type="application/zip" length="50655729" sparkle:shortVersionString="1.0.1" sparkle:version="1718"/>
+    </item>
+    <item>
       <title>1.0</title>
       <pubDate>2017-05-09T20:34:35Z</pubDate>
       <description><![CDATA[<h2>Fixes:</h2>
