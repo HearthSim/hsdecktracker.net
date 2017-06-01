@@ -1,7 +1,6 @@
 ---
 layout: base
 redirect_from: /download-hsreplay/
-email: contact@hsdecktracker.net
 fallbackurl: https://github.com/HearthSim/HDT-Releases/releases/latest
 asiaurl: https://s3.ap-northeast-2.amazonaws.com/hdt-downloads-asia/HDT-Installer.exe
 fetch_download:
@@ -13,6 +12,10 @@ fetch_download:
 <h2>Download Hearthstone Deck Tracker</h2>
 
 <p>
+<small><a href="/">« Back to the office</a></small>
+</p>
+
+<p>
 The latest version of Hearthstone Deck Tracker should download automatically.<br/>
 If it does not, you can <a href="{{ page.fallbackurl }}" id="url" download>click here to download it</a>.
 </p>
@@ -21,6 +24,8 @@ If it does not, you can <a href="{{ page.fallbackurl }}" id="url" download>click
 If you are in China and are having trouble downloading, you can try <a href="{{ page.asiaurl }}" download>this link instead</a>.
 </p>
 
-<p>
-	Support: <a href="mailto:{{ page.email }}">{{ page.email }}</a> - <a href="/">Back to the office.</a>
-</p>
+<hr/>
+<p><small>
+	Support: <a href="mailto:{{ site.vars.email }}" target="_blank">{{ site.vars.email }}</a> &bull;
+	By installing this program, you accept the <a href="{{ site.vars.links.tos }}" target="_blank">HearthSim Terms of Service</a>.
+</small></p>
