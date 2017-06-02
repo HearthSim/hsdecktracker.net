@@ -4,6 +4,25 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.0.2</title>
+      <pubDate>2017-06-02T08:00:06Z</pubDate>
+      <description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed a crash when the deck manager UI tries to save a new deck</li>
+<li>Gateway Kodo is correctly handled by secret helper</li>
+</ul>
+
+<h2>New:</h2>
+
+<ul>
+<li>Import a deck into HSTracker with the new deckstring</li>
+</ul>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.0.2/HSTracker.app.zip" type="application/zip" length="50682259" sparkle:shortVersionString="1.0.2" sparkle:version="1727"/>
+    </item>
+    <item>
       <title>1.0.1</title>
       <pubDate>2017-05-16T19:51:53Z</pubDate>
       <description><![CDATA[<h2>Fixes:</h2>
