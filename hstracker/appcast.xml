@@ -4,6 +4,24 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.0.3</title>
+      <pubDate>2017-06-06T19:13:28Z</pubDate>
+      <description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed an error where corrupted decks could crash HSTracker </li>
+</ul>
+
+<h2>Changes:</h2>
+
+<ul>
+<li>Update german localization</li>
+</ul>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.0.3/HSTracker.app.zip" type="application/zip" length="50861956" sparkle:shortVersionString="1.0.3" sparkle:version="1737"/>
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>2017-06-02T08:00:06Z</pubDate>
       <description><![CDATA[<h2>Fixes:</h2>
