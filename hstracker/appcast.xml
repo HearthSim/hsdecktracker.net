@@ -4,6 +4,18 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.2.0</title>
+      <pubDate>2017-10-18T07:17:00Z</pubDate>
+      <description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Updated for Hearthstone 9.2.0.21517</li>
+</ul>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.0/HSTracker.app.zip" type="application/zip" length="54094188" sparkle:shortVersionString="1.2.0" sparkle:version="1765"/>
+    </item>
+    <item>
       <title>1.1.0</title>
       <pubDate>2017-08-15T09:35:06Z</pubDate>
       <description><![CDATA[<h2>New:</h2>
