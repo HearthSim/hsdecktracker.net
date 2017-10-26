@@ -2,3 +2,5 @@ gzip: true
 s3_id: <%= ENV["AWS_ACCESS_KEY_ID"] %>
 s3_secter: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
 s3_bucket: <%= ENV["S3_DEFAULT_BUCKET"] %>
+redirects:
+  twitch/extension/index.html: https://www.twitch.tv/ext/apwln3g3ia45kk690tzabfp525h9e1
