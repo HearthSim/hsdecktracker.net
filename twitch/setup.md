@@ -38,7 +38,7 @@ If you cannot see the Streaming category, remember to check `Advanced settings`.
 
 4) Once you are ready and configured, **activate the extension on your dashboard**.
 
-[Activation screenshot](/static/images/twitch/activate.png)
+![Activation screenshot](/static/images/twitch/activate.png)
 
 
 ## Configuration
