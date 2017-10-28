@@ -36,6 +36,9 @@ If you cannot see the Streaming category, remember to check `Advanced settings`.
 
 ![HDT Options](/static/images/twitch/twitch-hdt.png)
 
+*Note: If authentication fails, try running Hearthstone Deck Tracker as Administrator.*
+
+
 4) Once you are ready and configured, **activate the extension on your dashboard**.
 
 ![Activation screenshot](/static/images/twitch/activate.png)
