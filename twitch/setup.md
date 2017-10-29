@@ -39,9 +39,11 @@ If you cannot see the Streaming category, remember to check `Advanced settings`.
 *Note: If authentication fails, try running Hearthstone Deck Tracker as Administrator.*
 
 
-4) Once you are ready and configured, **activate the extension on your dashboard**.
+4) Once you are ready and configured, **activate the extension on your Twitch Extensions dashboard**.
 
 ![Activation screenshot](/static/images/twitch/activate.png)
+
+And you're done! The next time you start a game, the decklist extension will show up.
 
 
 ## Configuration
