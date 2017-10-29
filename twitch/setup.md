@@ -64,3 +64,21 @@ Twitch extension dashboard.
 
 Join us [on our Discord server]({{ site.vars.links.discord }}) for general help,
 suggestions and guidance. You can also email us at <contact@hsdecktracker.net>.
+
+
+## Troubleshooting / FAQ
+
+
+### "Authenticate with HSReplay.net" fails with an error
+
+This is usually a firewall issue. Try running Hearthstone Deck Tracker as Administrator.
+
+
+### Configuration screen is stuck on "Loading setup..."
+
+This is a rare Twitch issue. Try again in a few hours.
+
+
+### Is macOS supported?
+
+HSTracker for macOS is not supported at this time. Maybe in the future.
