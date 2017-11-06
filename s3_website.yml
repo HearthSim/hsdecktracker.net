@@ -1,4 +1,6 @@
 gzip: true
 s3_id: <%= ENV["AWS_ACCESS_KEY_ID"] %>
-s3_secter: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
+s3_secret: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
 s3_bucket: <%= ENV["S3_DEFAULT_BUCKET"] %>
+redirects:
+  download-twitch/index.html: /download/

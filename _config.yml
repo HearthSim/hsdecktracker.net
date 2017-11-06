@@ -11,7 +11,7 @@ vars:
 
   links:
     download: /download/
-    discord: hearthsim
+    discord: https://discord.gg/hearthsim
     github: HearthSim/Hearthstone-Deck-Tracker
     twitter: HSDeckTracker
     tos: https://hsreplay.net/about/tos/

@@ -37,7 +37,7 @@
 <p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.1/HSTracker.app.zip" type="application/zip" length="61440881" sparkle:shortVersionString="1.2.1" sparkle:version="1778"/>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.1/HSTracker.app.zip" type="application/zip" length="61440881" sparkle:shortVersionString="1.2.1" sparkle:version="1777"/>
     </item>
     <item>
       <title>1.2.0</title>
