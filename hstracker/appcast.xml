@@ -4,6 +4,25 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.2.2</title>
+      <pubDate>2017-11-06T21:16:24Z</pubDate>
+      <description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Updated for Hearthstone 9.4.0.22115
+## Fixes:</li>
+<li>Fixed the missing indicator for the 2nd card with lower value on arena drafting</li>
+<li>Fixed a bug where hero cards were not tracked properly</li>
+<li>Fixed an issue where HSTracker could not track Hearthstone if it was installed not in the Applications folder</li>
+<li>Refactored the secret manager</li>
+</ul>
+
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.2/HSTracker.app.zip" type="application/zip" length="61097496" sparkle:shortVersionString="1.2.2" sparkle:version="1802"/>
+    </item>
+    <item>
       <title>1.2.1</title>
       <pubDate>2017-10-25T18:43:26Z</pubDate>
       <description><![CDATA[<h2>New:</h2>
@@ -18,7 +37,7 @@
 <p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.1/HSTracker.app.zip" type="application/zip" length="61440881" sparkle:shortVersionString="1.2.1" sparkle:version="1777"/>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.1/HSTracker.app.zip" type="application/zip" length="61440881" sparkle:shortVersionString="1.2.1" sparkle:version="1778"/>
     </item>
     <item>
       <title>1.2.0</title>
