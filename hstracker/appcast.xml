@@ -4,6 +4,29 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.3.2</title>
+      <pubDate>2018-01-23T16:00:25Z</pubDate>
+      <description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Secret tracker disappears correctly</li>
+<li>Fixed anomaly with user settings (High Sierra users please update to 10.13.2)</li>
+<li>Fixed crashes related to notification center</li>
+</ul>
+
+<h2>New:</h2>
+
+<ul>
+<li>Deck Manager and Preferences menu item in the dock menu</li>
+<li>Dungeon run support</li>
+<li>Removed website deck importers</li>
+<li>Added zh-TW translations (kudos @WenTsai)</li>
+</ul>
+]]></description>
+      <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.2/HSTracker.app.zip" type="application/zip" length="52961384" sparkle:shortVersionString="1.3.2" sparkle:version="1880"/>
+    </item>
+    <item>
       <title>1.3.1</title>
       <pubDate>2017-12-11T19:42:11Z</pubDate>
       <description><![CDATA[<h2>Fixes:</h2>
@@ -12,7 +35,7 @@
 <li>Correct build number</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.1/HSTracker.app.zip" type="application/zip" length="63474980" sparkle:shortVersionString="1.3.1" sparkle:version="1838"/>
@@ -50,7 +73,7 @@
 <li>Fix an issue with auto-update</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.4/HSTracker.app.zip" type="application/zip" length="61119867" sparkle:shortVersionString="1.2.4" sparkle:version="1810"/>
@@ -64,7 +87,7 @@
 <li>Update cards for Hearthstone 9.4.0.22115</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.3/HSTracker.app.zip" type="application/zip" length="61119860" sparkle:shortVersionString="1.2.3" sparkle:version="1807"/>
@@ -83,7 +106,7 @@
 <li>Refactored the secret manager</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.2/HSTracker.app.zip" type="application/zip" length="61097496" sparkle:shortVersionString="1.2.2" sparkle:version="1802"/>
@@ -100,7 +123,7 @@
 <li>Various fixes</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.2.1/HSTracker.app.zip" type="application/zip" length="61440881" sparkle:shortVersionString="1.2.1" sparkle:version="1778"/>
@@ -233,7 +256,7 @@
 <li>Fixed an issue where the Tracking (Hunter) pick would not be tracked correctly.</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.20.1/HSTracker.app.zip" type="application/zip" length="47498503" sparkle:shortVersionString="0.20.1" sparkle:version="1529"/>
@@ -247,7 +270,7 @@
 <li>Update to Journey to UnGoro</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.20/HSTracker.app.zip" type="application/zip" length="47496544" sparkle:shortVersionString="0.20" sparkle:version="1522"/>
@@ -415,7 +438,7 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 <li>Hearthstats and Track-o-Bot login/logout is now done from settings (use <em>⌘,</em> to open them)</li>
 </ul>
 
-<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? Consider donating <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.4.1340/HSTracker.app.zip" type="application/zip" length="85967650" sparkle:shortVersionString="0.18.4.1340" sparkle:version="1340"/>
@@ -429,7 +452,7 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 <li>Correct a crash when saving an arena deck</li>
 </ul>
 
-<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.3.1327/HSTracker.app.zip" type="application/zip" length="85674425" sparkle:shortVersionString="0.18.3.1327" sparkle:version="1328"/>
@@ -459,7 +482,7 @@ You will be asked to authorize HSTracker to read the memory of Hearthstone. Ther
 <li>Decks and statistics are now saved in a realm database. This should improve their stability.</li>
 </ul>
 
-<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=bmichotte%40gmail%2ecom&amp;lc=US&amp;item_name=HSTracker&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
+<p>Do you want to help HSTracker ? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bmichotte%40gmail%2ecom&lc=US&item_name=HSTracker&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="PayPal"></a></p>
 ]]></description>
       <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/0.18.2.1326/HSTracker.app.zip" type="application/zip" length="85673184" sparkle:shortVersionString="0.18.2.1326" sparkle:version="1326"/>
