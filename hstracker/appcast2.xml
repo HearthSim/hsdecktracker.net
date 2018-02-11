@@ -2,6 +2,25 @@
 <channel>
 <title>HSTracker</title>
 <link>https://github.com/HearthSim/HSTracker</link>
+
+<item>
+<title>1.3.4</title>
+<pubDate>Sun, 11 Feb 2018 14:54:19 -0800</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed an error that caused the tracker to stop working when the opponent was invisible</li>
+</ul>
+
+<h2>New:</h2>
+<ul>
+<li>Added Kingsbane and Weasel Tunneler interactions</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.4/HSTracker.app.zip" sparkle:version="1896" sparkle:shortVersionString="1.3.4" length="55906799" type="application/octet-stream" sparkle:dsaSignature="MCwCFDx4GZi7OT9/7IvSSa06wfh18ABUAhQi7xbl9eLmoFASEtABRc+xb4u34Q=="/>
+</item>
+
 <item>
 <title>1.3.3</title>
 <pubDate>Tue, 06 Feb 2018 22:04:32 -0800</pubDate>
