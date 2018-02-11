@@ -3,7 +3,9 @@ layout: base
 redirect_from: /download-hsreplay/
 title: Download Hearthstone Deck Tracker for Windows
 fallbackurl: https://github.com/HearthSim/HDT-Releases/releases/latest
-asiaurl: https://s3.ap-northeast-2.amazonaws.com/hdt-downloads-asia/HDT-Installer.exe
+mirror1: https://hdt-downloads-asia.s3-accelerate.dualstack.amazonaws.com/HDT-Installer.exe
+mirror2: https://hdt-downloads-asia.s3-accelerate.amazonaws.com/HDT-Installer.exe
+mirror3: https://s3.ap-northeast-2.amazonaws.com/hdt-downloads-asia/HDT-Installer.exe
 fetch_download:
   repository: HearthSim/HDT-Releases
   binary: HDT-Installer.exe
@@ -22,8 +24,14 @@ If it does not, you can <a href="{{ page.fallbackurl }}" id="url" download>click
 </p>
 
 <p>
-If you are in China and are having trouble downloading, you can try <a href="{{ page.asiaurl }}" download>this link instead</a>.
+Problems downloadings? Try the following mirrors:
 </p>
+
+<ul>
+	<li><a href="{{ page.mirror1 }}" download>Mirror 1 (Worldwide)</li>
+	<li><a href="{{ page.mirror2 }}" download>Mirror 2 (Worldwide, IPv4 only)</li>
+	<li><a href="{{ page.mirror3 }}" download>Mirror 3 (Asia)</li>
+</ul>
 
 <hr/>
 <p><small>
