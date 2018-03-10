@@ -1,0 +1,14 @@
+{
+	"news": {
+		"id": 14,
+		"items": [
+			"See what's hot at one glance with our new [Archetype Tier List on HSReplay.net](https://hsreplay.net/meta/?utm_source=hdt&utm_medium=client&utm_campaign=newsbar)!"
+		]
+	},
+	"collection_banner": {
+		"visible": true,
+		"removable_pre_sync": false,
+		"removable_post_sync": false,
+		"removal_id": 1
+	}
+}
