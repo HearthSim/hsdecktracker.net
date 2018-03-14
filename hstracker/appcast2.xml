@@ -4,6 +4,26 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.3.5</title>
+<pubDate>Tue, 13 Mar 2018 21:15:34 -0700</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed issues introduced by the latest Hearthstone patch</li>
+<li>Removed deck to Hearthstone automated export</li>
+</ul>
+
+<h2>New:</h2>
+<ul>
+<li>Added new arena-only cards</li>
+<li>Added Hand of Salvation to secret tracker</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.5/HSTracker.app.zip" sparkle:version="1896" sparkle:shortVersionString="1.3.5" length="55976248" type="application/octet-stream" sparkle:dsaSignature="MC0CFHrjprKX7CZYNEqulh+nEcGAXhN+AhUAgYlh2BKZMLWaQ+UhEIdrqDUJDY0="/>
+</item>
+
+<item>
 <title>1.3.4</title>
 <pubDate>Sun, 11 Feb 2018 14:54:19 -0800</pubDate>
 <description><![CDATA[<h2>Fixes:</h2>
