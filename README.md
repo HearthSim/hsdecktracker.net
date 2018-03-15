@@ -1,5 +1,5 @@
+# [hsdecktracker.net](https://hsdecktracker.net)
+
 [![Build Status](https://travis-ci.org/HearthSim/hsdecktracker.net.svg?branch=master)](https://travis-ci.org/HearthSim/hsdecktracker.net)
 
-[hsdecktracker.net](https://hsdecktracker.net)
-
-Based on [Compass](https://github.com/excentris/compass)
+Website for [Hearthstone Deck Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker)
