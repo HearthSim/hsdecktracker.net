@@ -2,7 +2,7 @@
 
 ## In-game overlay
 
-[![]({{site.baseurl}}/media/hdt-banner.png)]({{site.baseurl}}/media/hdt-banner-full.jpg)
+[![]({{site.baseurl}}/media/hdt-banner.png)](https://raw.githubusercontent.com/HearthSim/hsdecktracker.net/master/media/hdt-banner-full.png)
 
 Track the cards left in your deck, cards played by your opponent, statistics and much more.
 
