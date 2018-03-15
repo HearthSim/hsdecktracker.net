@@ -7,7 +7,11 @@ cache: bundler
 
 script: bundle exec jekyll build
 
-after_success: '[[ $TRAVIS_PULL_REQUEST = "false" && $TRAVIS_BRANCH == "master" ]] && bundle exec s3_website push'
+after_success: '[[ $TRAVIS_PULL_REQUEST = "false" && $TRAVIS_BRANCH == "master" ]] &&
+  bundle exec s3_website push &&
+  curl -X DELETE https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/purge_cache
+  -H content-type:application/json -H x-auth-email:$CF_API_EMAIL -H x-auth-key:$CF_API_KEY
+  --data ''{"purge_everything":true}'''
 
 notifications:
   email:
