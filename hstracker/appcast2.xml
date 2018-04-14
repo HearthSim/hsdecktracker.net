@@ -4,6 +4,19 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.4.1</title>
+<pubDate>Fri, 13 Apr 2018 10:18:19 -0700</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed issues with Witchwood cards</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.1/HSTracker.app.zip" sparkle:version="1919" sparkle:shortVersionString="1.4.1" length="56584925" type="application/octet-stream" sparkle:dsaSignature="MCwCFDe1HhEowIht2PPMBlrVEdz5L0zrAhRnuftsvlim7w5M5tCcZUQljw161A=="/>
+</item>
+
+<item>
 <title>1.4.0</title>
 <pubDate>Tue, 10 Apr 2018 15:38:10 -0700</pubDate>
 <description><![CDATA[<h2>Fixes:</h2>
