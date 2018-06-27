@@ -4,6 +4,19 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.4.3</title>
+<pubDate>Tue, 26 Jun 2018 21:58:04 -0700</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed issues with Taverns of Time cards</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.3/HSTracker.app.zip" sparkle:version="1925" sparkle:shortVersionString="1.4.3" length="57627433" type="application/octet-stream" sparkle:dsaSignature="MCwCFEeXCTohU1S3hjWsRzw/jhjIAItmAhQ5AUVSkM9NYXrJNfz+TTBKzCWCZQ=="/>
+</item>
+
+<item>
 <title>1.4.2</title>
 <pubDate>Mon, 11 Jun 2018 21:36:19 -0700</pubDate>
 <description><![CDATA[<h2>New:</h2>
@@ -14,7 +27,6 @@
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.2/HSTracker.app.zip" sparkle:version="1925" sparkle:shortVersionString="1.4.2" length="57629322" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCLmhJuq3hRUBz5Vn95WR53jbSXygIVAIcKEmEC07+vtUBGcFBX+GjQJ/Wz"/>
 </item>
-
 
 <item>
 <title>1.4.1</title>
