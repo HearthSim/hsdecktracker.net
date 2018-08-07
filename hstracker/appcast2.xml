@@ -4,6 +4,19 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.0</title>
+<pubDate>Mon, 06 Aug 2018 17:02:25 -0700</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Added support for the Boomsday Project</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.0/HSTracker.app.zip" sparkle:version="1939" sparkle:shortVersionString="1.5.0" length="58800471" type="application/octet-stream" sparkle:dsaSignature="MCwCFDGtXAt6vVRsrq1XGFwGW9ShPnwKAhQdJVoF2uwO2TO52L28FzNEE1vJ/Q=="/>
+</item>
+
+<item>
 <title>1.4.3</title>
 <pubDate>Tue, 26 Jun 2018 21:58:04 -0700</pubDate>
 <description><![CDATA[<h2>Fixes:</h2>
