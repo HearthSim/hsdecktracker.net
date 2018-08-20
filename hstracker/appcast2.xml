@@ -4,6 +4,26 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.1</title>
+<pubDate>Sun, 19 Aug 2018 19:29:17 -0700</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Added Collection uploading to HSReplay.net</li>
+<li>Added more translations</li>
+</ul>
+<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed a small bug with Rat Trap</li>
+<li>Minor bugfixes</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1/HSTracker.app.zip" sparkle:version="1957" sparkle:shortVersionString="1.5.1" length="43217608" type="application/octet-stream" sparkle:dsaSignature="MCwCFF2/368mXnK1khFoTJyYwf3wuakNAhRbMxKE23WXw1rEtjIE39zBz7eebQ=="/>
+</item>
+
+<item>
 <title>1.5.0</title>
 <pubDate>Mon, 06 Aug 2018 17:02:25 -0700</pubDate>
 <description><![CDATA[<h2>New:</h2>
