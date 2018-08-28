@@ -4,6 +4,20 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.1c</title>
+<pubDate>Sun, 26 Aug 2018 21:34:53 -0700</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed hsreplay.net oauth address</li>
+<li>Fixed a bug that blocked collection upload in certain situations</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1c/HSTracker.app.zip" sparkle:version="1960" sparkle:shortVersionString="1.5.1c" length="43218386" type="application/octet-stream" sparkle:dsaSignature="MCwCFC7c3S4/JbRFp27o5aJ0ZPLAQSCGAhRdjBv8lqmRDVDH8Fh3+c9ivjrjIw=="/>
+</item>
+
+<item>
 <title>1.5.1</title>
 <pubDate>Sun, 19 Aug 2018 19:29:17 -0700</pubDate>
 <description><![CDATA[<h2>New:</h2>
