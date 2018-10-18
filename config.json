@@ -2,8 +2,8 @@
 	"news": {
 		"id": 15,
 		"items": [
-			"You can now filter decks by the top 1,000 Legend ranks! [Check it out](https://hsreplay.net/decks/)!",
-			"New feature announcement: Top Legend filter. [Check it out](https://hsreplay.net/decks/)!"
+			"You can now filter decks by players with at least 25 or 50 games with it! [Check it out](https://hsreplay.net/decks/)!",
+			"New filter announcement: Player Experience. [Check it out](https://hsreplay.net/decks/)!"
 		]
 	},
 	"collection_banner": {
