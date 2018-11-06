@@ -4,3 +4,4 @@ s3_secret: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
 s3_bucket: <%= ENV["S3_DEFAULT_BUCKET"] %>
 redirects:
   download-twitch/index.html: /download/
+  index.html: https://hsreplay.net/downloads/
