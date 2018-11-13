@@ -24,7 +24,7 @@ To enable the extension's features, follow these steps:
 
 ![Extension Screenshot](/static/images/twitch/install.png)
 
-2) [Link your Twitch account on HSReplay.net](https://hsreplay.net/social/account/connections).
+2) [Link your Twitch account on HSReplay.net](https://hsreplay.net/account/social/connections).
 You can link multiple Twitch accounts if you broadcast on more than one account
 and want the integration on all of them.
 
