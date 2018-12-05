@@ -3,6 +3,18 @@
 <title>HSTracker</title>
 <link>https://github.com/HearthSim/HSTracker</link>
 
+<item>
+<title>1.5.2a</title>
+<pubDate>Tue, 04 Dec 2018 21:57:34 -0800</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Fixed a card loading bug</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.2a/HSTracker.app.zip" sparkle:version="1962" sparkle:shortVersionString="1.5.2" length="40813380" type="application/octet-stream" sparkle:dsaSignature="MCwCFCuGXlFz7QuO9jYavsU17pF58dZFAhRxZI2DSb1nL3hhvHQCs6Dnu53nXw=="/>
+</item>
 
 <item>
 <title>1.5.2</title>
