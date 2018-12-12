@@ -4,6 +4,19 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.3</title>
+<pubDate>Wed, 12 Dec 2018 07:10:17 -0800</pubDate>
+<description><![CDATA[<h2>Fixes:</h2>
+
+<ul>
+<li>Added missing secrets</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.3/HSTracker.app.zip" sparkle:version="1966" sparkle:shortVersionString="1.5.3" length="40814073" type="application/octet-stream" sparkle:dsaSignature="MCwCFHiI3t9yeiH+Vhi6YTmqQH/1Uqk/AhQ2/jOzfgaS+Myzn1HcPQAsb6DmPw=="/>
+</item>
+
+<item>
 <title>1.5.2a</title>
 <pubDate>Tue, 04 Dec 2018 21:57:34 -0800</pubDate>
 <description><![CDATA[<h2>Fixes:</h2>
