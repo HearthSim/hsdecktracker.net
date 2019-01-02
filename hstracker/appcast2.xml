@@ -4,6 +4,20 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.4</title>
+<pubDate>Tue, 01 Jan 2019 22:18:47 -0800</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Updated card data for the latest patch</li>
+<li>Fixed card overlays for the dark theme in OSX Mojave</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.4/HSTracker.app.zip" sparkle:version="1969" sparkle:shortVersionString="1.5.4" length="40814064" type="application/octet-stream" sparkle:dsaSignature="MCwCFGOdE5edu5R29t+C7SUPOEbLXNjdAhRha9FGeGWSNQ/D2xru92k3ZhrxdA=="/>
+</item>
+
+<item>
 <title>1.5.3</title>
 <pubDate>Wed, 12 Dec 2018 07:10:17 -0800</pubDate>
 <description><![CDATA[<h2>Fixes:</h2>
