@@ -4,6 +4,23 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.5</title>
+<pubDate>Sat, 09 Mar 2019 13:44:21 +0100</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Updated card data for the latest patch</li>
+<li>Display card art on mouse hover</li>
+<li>Fixed 'UNKNOWN HUMAN' opponent name</li>
+<li>Initial Whizbang support</li>
+<li>Fix rank upload</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.5/HSTracker.app.zip" sparkle:version="1980" sparkle:shortVersionString="1.5.5" length="46220621" type="application/octet-stream" sparkle:dsaSignature="MCwCFGwXsBYHZdg5FfUvJlMi+xqsLKllAhRl7jpGhAva/igF0qYJPZ/xGHNYdg=="/>
+</item>
+
+<item>
 <title>1.5.4</title>
 <pubDate>Tue, 01 Jan 2019 22:18:47 -0800</pubDate>
 <description><![CDATA[<h2>New:</h2>
