@@ -83,4 +83,4 @@ This is a rare Twitch issue. Try again in a few hours.
 
 ### Is macOS supported?
 
-HSTracker for macOS is not supported at this time. Maybe in the future.
+HSTracker for macOS is not supported at this time. (Maybe in the future!)
