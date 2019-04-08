@@ -1,9 +1,9 @@
 {
 	"news": {
-		"id": 15,
+		"id": 16,
 		"items": [
-			"You can now filter decks by players with at least 25 or 50 games with it! [Check it out](https://hsreplay.net/decks/)!",
-			"New filter announcement: Player Experience. [Check it out](https://hsreplay.net/decks/)!"
+			"You can now filter mulligan guides on HSReplay.net with our new [Player Initiative filter](https://articles.hsreplay.net/2019/04/08/player-initiative-filter/) by coin or going first!",
+			"Also play MTG Arena? Check out our new deck tracker at [Untapped.gg](https://mtga.untapped.gg/)!"
 		]
 	},
 	"collection_banner": {
