@@ -3,6 +3,18 @@
 <title>HSTracker</title>
 <link>https://github.com/HearthSim/HSTracker</link>
 
+<title>1.5.6</title>
+<pubDate>Tue, 09 Apr 2019 19:37:50 +0200</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Rise of the shadows</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.6/HSTracker.app.zip" sparkle:version="1985" sparkle:shortVersionString="1.5.6" length="46186742" type="application/octet-stream" sparkle:dsaSignature="MCwCFHvSay3f9ys1Z+bSBqRd2gnRqDILAhQQk204ddnIN9BEaewG3+u8fZdU/Q=="/>
+</item>
+
 <item>
 <title>1.5.5</title>
 <pubDate>Sat, 09 Mar 2019 13:44:21 +0100</pubDate>
