@@ -11,5 +11,22 @@
 		"removable_pre_sync": false,
 		"removable_post_sync": false,
 		"removal_id": 1
+	},
+	"arena": {
+		"current_sets": [
+			"CORE",
+			"EXPERT1",
+			"NAXX",
+			"OG",
+			"GANGS",
+			"GILNEAS",
+			"DALARAN"
+		],
+		"banned_secrets": [
+			"BCON_012"
+		],
+		"exclusive_secrets": [
+			"BCON_012"
+		]
 	}
 }
