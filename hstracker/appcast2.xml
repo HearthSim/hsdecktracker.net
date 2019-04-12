@@ -4,6 +4,19 @@
 <link>https://github.com/HearthSim/HSTracker</link>
 
 <item>
+<title>1.5.7</title>
+<pubDate>Fri, 12 Apr 2019 09:29:49 +0200</pubDate>
+<description><![CDATA[<h2>New:</h2>
+
+<ul>
+<li>Crash fixes.</li>
+</ul>
+]]></description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://hsdecktracker.net/hstracker/HSTracker.app.zip" sparkle:version="1990" sparkle:shortVersionString="1.5.7" length="46186946" type="application/octet-stream" sparkle:dsaSignature="MCwCFCzve4ySrGxX8tZWleucIXE8i5EgAhQXhvhCfJcmtRKRCWsf7tM/0eKrww=="/>
+</item>
+
+<item>
 <title>1.5.6</title>
 <pubDate>Tue, 09 Apr 2019 19:37:50 +0200</pubDate>
 <description><![CDATA[<h2>New:</h2>
