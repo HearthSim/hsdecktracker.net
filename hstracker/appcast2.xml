@@ -13,7 +13,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://hsdecktracker.net/hstracker/HSTracker.app.zip" sparkle:version="1990" sparkle:shortVersionString="1.5.7" length="46186946" type="application/octet-stream" sparkle:dsaSignature="MCwCFCzve4ySrGxX8tZWleucIXE8i5EgAhQXhvhCfJcmtRKRCWsf7tM/0eKrww=="/>
+<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.7/HSTracker.app.zip" sparkle:version="1990" sparkle:shortVersionString="1.5.7" length="46186946" type="application/octet-stream" sparkle:dsaSignature="MCwCFCzve4ySrGxX8tZWleucIXE8i5EgAhQXhvhCfJcmtRKRCWsf7tM/0eKrww=="/>
 </item>
 
 <item>
