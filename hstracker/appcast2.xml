@@ -1,5 +1,14 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel><item>
+<title>1.5.8</title>
+<pubDate>Mon, 15 Apr 2019 00:55:20 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Collection will update endlessly (https://github.com/HearthSim/HSTracker/issues/1045)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure length="46190926" sparkle:dsaSignature="MC0CFGymjJj45jDEYfZFijNBK+2ahQGkAhUAlHcQYEi4QMBaGFIs6am3VXwJS4g=" sparkle:shortVersionString="1.5.8" sparkle:version="1999" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.8/HSTracker.app.zip"/>
+</item>
 <title>HSTracker</title>
 <link>https://github.com/HearthSim/HSTracker</link>
 
@@ -13,7 +22,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.7/HSTracker.app.zip" sparkle:version="1990" sparkle:shortVersionString="1.5.7" length="46186946" type="application/octet-stream" sparkle:dsaSignature="MCwCFCzve4ySrGxX8tZWleucIXE8i5EgAhQXhvhCfJcmtRKRCWsf7tM/0eKrww=="/>
+<enclosure length="46186946" sparkle:dsaSignature="MCwCFCzve4ySrGxX8tZWleucIXE8i5EgAhQXhvhCfJcmtRKRCWsf7tM/0eKrww==" sparkle:shortVersionString="1.5.7" sparkle:version="1990" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.7/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -26,7 +35,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.6/HSTracker.app.zip" sparkle:version="1985" sparkle:shortVersionString="1.5.6" length="46186742" type="application/octet-stream" sparkle:dsaSignature="MCwCFHvSay3f9ys1Z+bSBqRd2gnRqDILAhQQk204ddnIN9BEaewG3+u8fZdU/Q=="/>
+<enclosure length="46186742" sparkle:dsaSignature="MCwCFHvSay3f9ys1Z+bSBqRd2gnRqDILAhQQk204ddnIN9BEaewG3+u8fZdU/Q==" sparkle:shortVersionString="1.5.6" sparkle:version="1985" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.6/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -43,7 +52,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.5/HSTracker.app.zip" sparkle:version="1980" sparkle:shortVersionString="1.5.5" length="46220621" type="application/octet-stream" sparkle:dsaSignature="MCwCFGwXsBYHZdg5FfUvJlMi+xqsLKllAhRl7jpGhAva/igF0qYJPZ/xGHNYdg=="/>
+<enclosure length="46220621" sparkle:dsaSignature="MCwCFGwXsBYHZdg5FfUvJlMi+xqsLKllAhRl7jpGhAva/igF0qYJPZ/xGHNYdg==" sparkle:shortVersionString="1.5.5" sparkle:version="1980" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.5/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -57,7 +66,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.4/HSTracker.app.zip" sparkle:version="1969" sparkle:shortVersionString="1.5.4" length="40814064" type="application/octet-stream" sparkle:dsaSignature="MCwCFGOdE5edu5R29t+C7SUPOEbLXNjdAhRha9FGeGWSNQ/D2xru92k3ZhrxdA=="/>
+<enclosure length="40814064" sparkle:dsaSignature="MCwCFGOdE5edu5R29t+C7SUPOEbLXNjdAhRha9FGeGWSNQ/D2xru92k3ZhrxdA==" sparkle:shortVersionString="1.5.4" sparkle:version="1969" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.4/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -70,7 +79,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.3/HSTracker.app.zip" sparkle:version="1966" sparkle:shortVersionString="1.5.3" length="40814073" type="application/octet-stream" sparkle:dsaSignature="MCwCFHiI3t9yeiH+Vhi6YTmqQH/1Uqk/AhQ2/jOzfgaS+Myzn1HcPQAsb6DmPw=="/>
+<enclosure length="40814073" sparkle:dsaSignature="MCwCFHiI3t9yeiH+Vhi6YTmqQH/1Uqk/AhQ2/jOzfgaS+Myzn1HcPQAsb6DmPw==" sparkle:shortVersionString="1.5.3" sparkle:version="1966" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.3/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -83,7 +92,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.2a/HSTracker.app.zip" sparkle:version="1962" sparkle:shortVersionString="1.5.2" length="40813380" type="application/octet-stream" sparkle:dsaSignature="MCwCFCuGXlFz7QuO9jYavsU17pF58dZFAhRxZI2DSb1nL3hhvHQCs6Dnu53nXw=="/>
+<enclosure length="40813380" sparkle:dsaSignature="MCwCFCuGXlFz7QuO9jYavsU17pF58dZFAhRxZI2DSb1nL3hhvHQCs6Dnu53nXw==" sparkle:shortVersionString="1.5.2" sparkle:version="1962" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.2a/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -96,7 +105,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.2/HSTracker.app.zip" sparkle:version="1962" sparkle:shortVersionString="1.5.2" length="40819226" type="application/octet-stream" sparkle:dsaSignature="MC0CFBDigmrENJabmDavcU/giclqddReAhUAg94ChaZeSrHAxO9bwCdOPgnL2rU="/>
+<enclosure length="40819226" sparkle:dsaSignature="MC0CFBDigmrENJabmDavcU/giclqddReAhUAg94ChaZeSrHAxO9bwCdOPgnL2rU=" sparkle:shortVersionString="1.5.2" sparkle:version="1962" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.2/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -110,7 +119,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1c/HSTracker.app.zip" sparkle:version="1960" sparkle:shortVersionString="1.5.1c" length="43218386" type="application/octet-stream" sparkle:dsaSignature="MCwCFC7c3S4/JbRFp27o5aJ0ZPLAQSCGAhRdjBv8lqmRDVDH8Fh3+c9ivjrjIw=="/>
+<enclosure length="43218386" sparkle:dsaSignature="MCwCFC7c3S4/JbRFp27o5aJ0ZPLAQSCGAhRdjBv8lqmRDVDH8Fh3+c9ivjrjIw==" sparkle:shortVersionString="1.5.1c" sparkle:version="1960" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1c/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -130,7 +139,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1/HSTracker.app.zip" sparkle:version="1957" sparkle:shortVersionString="1.5.1" length="43217608" type="application/octet-stream" sparkle:dsaSignature="MCwCFF2/368mXnK1khFoTJyYwf3wuakNAhRbMxKE23WXw1rEtjIE39zBz7eebQ=="/>
+<enclosure length="43217608" sparkle:dsaSignature="MCwCFF2/368mXnK1khFoTJyYwf3wuakNAhRbMxKE23WXw1rEtjIE39zBz7eebQ==" sparkle:shortVersionString="1.5.1" sparkle:version="1957" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.1/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -143,7 +152,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.5.0/HSTracker.app.zip" sparkle:version="1939" sparkle:shortVersionString="1.5.0" length="58800471" type="application/octet-stream" sparkle:dsaSignature="MCwCFDGtXAt6vVRsrq1XGFwGW9ShPnwKAhQdJVoF2uwO2TO52L28FzNEE1vJ/Q=="/>
+<enclosure length="58800471" sparkle:dsaSignature="MCwCFDGtXAt6vVRsrq1XGFwGW9ShPnwKAhQdJVoF2uwO2TO52L28FzNEE1vJ/Q==" sparkle:shortVersionString="1.5.0" sparkle:version="1939" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.0/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -156,7 +165,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.3/HSTracker.app.zip" sparkle:version="1925" sparkle:shortVersionString="1.4.3" length="57627433" type="application/octet-stream" sparkle:dsaSignature="MCwCFEeXCTohU1S3hjWsRzw/jhjIAItmAhQ5AUVSkM9NYXrJNfz+TTBKzCWCZQ=="/>
+<enclosure length="57627433" sparkle:dsaSignature="MCwCFEeXCTohU1S3hjWsRzw/jhjIAItmAhQ5AUVSkM9NYXrJNfz+TTBKzCWCZQ==" sparkle:shortVersionString="1.4.3" sparkle:version="1925" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.4.3/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -168,7 +177,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.2/HSTracker.app.zip" sparkle:version="1925" sparkle:shortVersionString="1.4.2" length="57629322" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCLmhJuq3hRUBz5Vn95WR53jbSXygIVAIcKEmEC07+vtUBGcFBX+GjQJ/Wz"/>
+<enclosure length="57629322" sparkle:dsaSignature="MC4CFQCLmhJuq3hRUBz5Vn95WR53jbSXygIVAIcKEmEC07+vtUBGcFBX+GjQJ/Wz" sparkle:shortVersionString="1.4.2" sparkle:version="1925" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.4.2/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -181,7 +190,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.1/HSTracker.app.zip" sparkle:version="1919" sparkle:shortVersionString="1.4.1" length="56584925" type="application/octet-stream" sparkle:dsaSignature="MCwCFDe1HhEowIht2PPMBlrVEdz5L0zrAhRnuftsvlim7w5M5tCcZUQljw161A=="/>
+<enclosure length="56584925" sparkle:dsaSignature="MCwCFDe1HhEowIht2PPMBlrVEdz5L0zrAhRnuftsvlim7w5M5tCcZUQljw161A==" sparkle:shortVersionString="1.4.1" sparkle:version="1919" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.4.1/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -201,7 +210,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.4.0/HSTracker.app.zip" sparkle:version="1917" sparkle:shortVersionString="1.4.0" length="56586638" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCC90OUKpZ+LBOpBwr/Vix7zVITrAIUVCfjvUUGx/69aINJoqUUKEXV3ZU="/>
+<enclosure length="56586638" sparkle:dsaSignature="MC0CFQCC90OUKpZ+LBOpBwr/Vix7zVITrAIUVCfjvUUGx/69aINJoqUUKEXV3ZU=" sparkle:shortVersionString="1.4.0" sparkle:version="1917" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.4.0/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -221,7 +230,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.5/HSTracker.app.zip" sparkle:version="1896" sparkle:shortVersionString="1.3.5" length="55976248" type="application/octet-stream" sparkle:dsaSignature="MC0CFHrjprKX7CZYNEqulh+nEcGAXhN+AhUAgYlh2BKZMLWaQ+UhEIdrqDUJDY0="/>
+<enclosure length="55976248" sparkle:dsaSignature="MC0CFHrjprKX7CZYNEqulh+nEcGAXhN+AhUAgYlh2BKZMLWaQ+UhEIdrqDUJDY0=" sparkle:shortVersionString="1.3.5" sparkle:version="1896" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.3.5/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -239,7 +248,7 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.4/HSTracker.app.zip" sparkle:version="1896" sparkle:shortVersionString="1.3.4" length="55906799" type="application/octet-stream" sparkle:dsaSignature="MCwCFDx4GZi7OT9/7IvSSa06wfh18ABUAhQi7xbl9eLmoFASEtABRc+xb4u34Q=="/>
+<enclosure length="55906799" sparkle:dsaSignature="MCwCFDx4GZi7OT9/7IvSSa06wfh18ABUAhQi7xbl9eLmoFASEtABRc+xb4u34Q==" sparkle:shortVersionString="1.3.4" sparkle:version="1896" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.3.4/HSTracker.app.zip"/>
 </item>
 
 <item>
@@ -251,6 +260,6 @@
 </ul>
 ]]></description>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/HearthSim/HSTracker/releases/download/1.3.3/HSTracker.app.zip" sparkle:version="1888" sparkle:shortVersionString="1.3.3" length="52886269" type="application/octet-stream" sparkle:dsaSignature="MCwCFDrdpR4NioYmTZE25SIK6E7nL9vpAhR5/NvhqSTJT0XIYLSE+nCnBsTnbg=="/>
+<enclosure length="52886269" sparkle:dsaSignature="MCwCFDrdpR4NioYmTZE25SIK6E7nL9vpAhR5/NvhqSTJT0XIYLSE+nCnBsTnbg==" sparkle:shortVersionString="1.3.3" sparkle:version="1888" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.3.3/HSTracker.app.zip"/>
 </item>
 </channel></rss>
