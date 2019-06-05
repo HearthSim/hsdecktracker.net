@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+<title>1.5.9</title>
+<pubDate>Thu, 06 Jun 2019 00:28:46 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Patch 14.4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hopefully fix a random crash happening in 1.5.8 (https://github.com/HearthSim/HSTracker/issues/1054)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure length="46617345" sparkle:dsaSignature="MC0CFCUPPRmyoFG4QB7jaQH/8qovVs8DAhUAj3HvxqXMwnlhpZcg9wlBm9Cn+Iw=" sparkle:shortVersionString="1.5.9" sparkle:version="2003" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.5.9/HSTracker.app.zip"/>
+</item><item>
 <title>1.5.8</title>
 <pubDate>Mon, 15 Apr 2019 00:55:20 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
