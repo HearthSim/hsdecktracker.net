@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+<title>1.6.0</title>
+<pubDate>Mon, 24 Jun 2019 22:57:26 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed rank detection not working since patch 14.4.0.31268 (https://github.com/HearthSim/HSTracker/issues/1063)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure length="46789698" sparkle:dsaSignature="MC0CFHA2kY17ZevKGbNJ+zuR+9ivWDyFAhUAlNbHyqbamLWpjmPxXGRTrSSHE8o=" sparkle:shortVersionString="1.6.0" sparkle:version="2008" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.0/HSTracker.app.zip"/>
+</item><item>
 <title>1.5.9</title>
 <pubDate>Thu, 06 Jun 2019 00:28:46 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
