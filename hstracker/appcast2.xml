@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+<title>1.6.1</title>
+<pubDate>Mon, 01 Jul 2019 23:45:43 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Patch 14.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Rat Trap and Hidden Wisdom (https://github.com/HearthSim/HSTracker/issues/1065#event-2449704550)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure length="46862062" sparkle:dsaSignature="MCwCFH3UgpMAnRPlrASm0w87nqS9+Lp9AhQF31NACf6lLcyCCwQr4UAC+/AniQ==" sparkle:shortVersionString="1.6.1" sparkle:version="2012" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.1/HSTracker.app.zip"/>
+</item><item>
 <title>1.6.0</title>
 <pubDate>Mon, 24 Jun 2019 22:57:26 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
