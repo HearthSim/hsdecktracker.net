@@ -16,11 +16,11 @@
 		"current_sets": [
 			"CORE",
 			"EXPERT1",
-			"GVG",
-			"TGT",
-			"KARA",
-			"BOOMSDAY",
-			"DALARAN"
+			"ULDUM",
+			"TROLL",
+			"UNGORO",
+			"LOOTAPALOOZA",
+			"LOE"
 		],
 		"banned_secrets": [
 			"BCON_012"
