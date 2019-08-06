@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.2</title>
+            <pubDate>Tue, 06 Aug 2019 19:54:12 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Saviors of Uldum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed secret tracker is lagging  (https://github.com/HearthSim/HSTracker/issues/972 and https://github.com/HearthSim/HSTracker/issues/994)&lt;/li&gt;
+&lt;li&gt;Fixed window positioning on MacOS Catalina  (https://github.com/HearthSim/HSTracker/issues/1071)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="47119130" sparkle:dsaSignature="MCwCFFIFI7SjVrd45+aVwmzv70FZfdFzAhQKg5u027SGP4ufX2F5weJx6nKBQg==" sparkle:shortVersionString="1.6.2" sparkle:version="2022" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.2/HSTracker.app.zip"/>
+        </item><item>
 <title>1.6.1</title>
 <pubDate>Mon, 01 Jul 2019 23:45:43 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
