@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.4</title>
+            <pubDate>Tue, 27 Aug 2019 00:52:02 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update for 2019-08-26 nerfs&lt;/li&gt;
+&lt;li&gt;Sign the app with a &amp;quot;Developer ID&amp;quot; certificate (https://github.com/HearthSim/HSTracker/issues/1018 and https://github.com/HearthSim/HSTracker/issues/1078)&lt;/li&gt;
+&lt;li&gt;Add support for tracking Uldum cards&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="47208565" sparkle:dsaSignature="MC0CFQCMmQUbT0z9G2ncw6eNNQQum9e52AIUJ6Zi0l+PHXqNsJTtQ8aZUzkb5+0=" sparkle:shortVersionString="1.6.4" sparkle:version="2029" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.4/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.3</title>
             <pubDate>Tue, 06 Aug 2019 20:41:16 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
