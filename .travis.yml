@@ -4,6 +4,11 @@ rvm: "2.4.1"
 
 cache: bundler
 
+dist: trusty
+
+before_install:
+  - jdk_switcher use oraclejdk8
+
 script: bundle exec jekyll build
 
 after_success: '[[ $TRAVIS_PULL_REQUEST = "false" && $TRAVIS_BRANCH == "master" ]] &&
