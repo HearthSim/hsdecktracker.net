@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.9</title>
+            <pubDate>mer., 04 déc. 2019 22:35:11 +0100</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Battlegrounds support: Hovering an opponent in the sidebar will now display their last known board state.&lt;/li&gt;
+&lt;li&gt;Better collection upload dialog.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="51957600" sparkle:dsaSignature="MCwCFAM3jnrdlwqr8fg+fR/d74RMBi4uAhQUzEqT9r0+dW8FW+BCpvVMAPf+9g==" sparkle:shortVersionString="1.6.9" sparkle:version="2052" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.9/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.7</title>
             <pubDate>Thu, 10 Oct 2019 21:13:55 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
