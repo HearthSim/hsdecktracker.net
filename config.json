@@ -13,17 +13,14 @@
 	},
 	"arena": {
 		"current_sets": [
-			"NAXX",
-			"GVG",
+			"CORE",
+			"EXPERT1",
 			"BRM",
 			"TGT",
-			"LOE",
-			"OG",
 			"KARA",
-			"GANGS",
-			"UNGORO",
 			"ICECROWN",
-			"LOOTAPALOOZA"
+			"TROLL",
+			"DRAGONS"
 		],
 		"banned_secrets": ["BCON_012"],
 		"exclusive_secrets": ["BCON_012"]
