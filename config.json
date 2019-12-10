@@ -25,28 +25,7 @@
 		"banned_secrets": ["BCON_012"],
 		"exclusive_secrets": ["BCON_012"]
 	},
-	"battlegrounds_tag_overrides": [
-		{
-			"dbf_id": 60028,
-			"tag": 1440,
-			"value": 4
-		},
-		{
-			"dbf_id": 46056,
-			"tag": 1440,
-			"value": 5
-		},
-		{
-			"dbf_id": 2074,
-			"tag": 1440,
-			"value": 5
-		},
-		{
-			"dbf_id": 453,
-			"tag": 1440,
-			"value": 2
-		}
-	],
+	"battlegrounds_tag_overrides": [],
 	"whizbang_decks": [
 		{
 			"title": "Ysera's Dream Defenders",
