@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.13</title>
+            <pubDate>dim., 05 janv. 2020 18:33:42 +0100</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Do not try to upload the collection if the setting is not enabled&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="52010734" sparkle:dsaSignature="MCwCFFPYVH4HhA5MBLLeuMzdXSjEfkCnAhQ1AzwncvbCmI8oCTX3Dkq3niJs3w==" sparkle:shortVersionString="1.6.13" sparkle:version="2070" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.13/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.11</title>
             <pubDate>mer., 01 janv. 2020 21:28:25 +0100</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
