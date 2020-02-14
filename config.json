@@ -26,9 +26,9 @@
 		"exclusive_secrets": ["BCON_012"]
 	},
 	"battlegrounds_tag_overrides": [{
-		"dbf_id": 60028,
+		"dbf_id": 2068,
 		"tag": 1440,
-		"value": 5
+		"value": 4
 	}],
 	"whizbang_decks": [
 		{
