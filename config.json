@@ -15,12 +15,11 @@
 		"current_sets": [
 			"CORE",
 			"EXPERT1",
-			"BRM",
-			"TGT",
-			"KARA",
-			"ICECROWN",
-			"TROLL",
-			"DRAGONS"
+			"GVG",
+			"GILNEAS",
+			"ULDUM",
+			"DRAGONS",
+			"YEAR_OF_THE_DRAGON"
 		],
 		"banned_secrets": ["BCON_012"],
 		"exclusive_secrets": ["BCON_012"]
