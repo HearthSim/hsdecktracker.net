@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.21</title>
+            <pubDate>mer., 01 avr. 2020 00:42:15 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adapt for the new ladder system.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="52776644" sparkle:dsaSignature="MCwCFDuq/cfAlvl4F11kPJbjYS/eemYcAhRaN77npeGxXNjBcHX1VBroelWdFQ==" sparkle:shortVersionString="1.6.21" sparkle:version="2088" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.21/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.20</title>
             <pubDate>sam., 28 mars 2020 04:06:05 +0100</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
