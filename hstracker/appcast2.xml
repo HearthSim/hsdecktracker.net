@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.22</title>
+            <pubDate>mar., 07 avr. 2020 23:41:52 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial support for Demon Hunter.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="52710029" sparkle:dsaSignature="MCwCFEohPkvAs62V+X0Fj3TDeu3R3Jj8AhQelO6HYFJGWpeUus5vBACJGp/yCg==" sparkle:shortVersionString="1.6.22" sparkle:version="2090" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.22/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.21</title>
             <pubDate>mer., 01 avr. 2020 00:42:15 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
