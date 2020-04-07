@@ -15,11 +15,12 @@
 		"current_sets": [
 			"CORE",
 			"EXPERT1",
-			"GVG",
-			"GILNEAS",
+			"DALARAN",
 			"ULDUM",
 			"DRAGONS",
-			"YEAR_OF_THE_DRAGON"
+			"YEAR_OF_THE_DRAGON",
+			"BLACK_TEMPLE",
+			"DEMON_HUNTER_INITIATE"
 		],
 		"banned_secrets": ["BCON_012"],
 		"exclusive_secrets": ["BCON_012"]
