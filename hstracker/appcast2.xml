@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.24</title>
+            <pubDate>ven., 10 avr. 2020 03:03:04 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix a crash when the opponent plays a secret.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure length="52712514" sparkle:dsaSignature="MCwCFFJyp5qFttsUnVkIcQ9oACDyYOf7AhQzdkwqWmqNGO5ZgA98xPlyKh2t0A==" sparkle:shortVersionString="1.6.24" sparkle:version="2092" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.24/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.23</title>
             <pubDate>mer., 08 avr. 2020 01:15:23 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
