@@ -22,14 +22,26 @@
 			"BLACK_TEMPLE",
 			"DEMON_HUNTER_INITIATE"
 		],
-		"banned_secrets": ["BCON_012"],
-		"exclusive_secrets": ["BCON_012"]
+		"banned_secrets": [
+			"BCON_012"
+		],
+		"exclusive_secrets": [
+			"BCON_012"
+		]
 	},
-	"battlegrounds_tag_overrides": [{
-		"dbf_id": 2068,
-		"tag": 1440,
-		"value": 4
-	}],
+	"bobs_buddy": {
+		"disabled": false,
+		"min_required_version": "1.10.7",
+		"sentry_reporting": true,
+		"metric_sampling": 1
+	},
+	"battlegrounds_tag_overrides": [
+		{
+			"dbf_id": 2068,
+			"tag": 1440,
+			"value": 4
+		}
+	],
 	"whizbang_decks": [
 		{
 			"title": "Flora and Fauna",
