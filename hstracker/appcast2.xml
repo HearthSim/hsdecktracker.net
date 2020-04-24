@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.27</title>
+            <pubDate>ven., 24 avr. 2020 01:38:26 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Ashes of Outlands secrets.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="50514131" sparkle:dsaSignature="MC0CFBN49mno5EGvCfFKqHQsRwwscmQVAhUAiCWCagc6gin4cWKc8ZoWA9dActk=" sparkle:shortVersionString="1.6.27" sparkle:version="2100" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.27/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.25</title>
             <pubDate>ven., 10 avr. 2020 12:12:21 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
