@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.30</title>
+            <pubDate>mar., 05 mai 2020 01:35:45 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Battlegrounds: added a Toast to compare Heroes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Improved:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Faster launch&lt;/li&gt;
+&lt;li&gt;Smaller collection upload Toast&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="50107262" sparkle:dsaSignature="MCwCFGVFNgGml50dTdpbThWLGwihBWa6AhRuAMMFea0vzq56pQwoK/t/dNOLMw==" sparkle:shortVersionString="1.6.30" sparkle:version="2112" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.30/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.29</title>
             <pubDate>ven., 24 avr. 2020 04:08:18 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
