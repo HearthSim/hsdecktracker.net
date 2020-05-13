@@ -33,7 +33,7 @@
 	"bobs_buddy": {
 		"disabled": false,
 		"min_required_version": "1.10.8",
-		"sentry_reporting": true,
+		"sentry_reporting": false,
 		"metric_sampling": 1
 	},
 	"battlegrounds_tag_overrides": [
