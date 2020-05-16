@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.31</title>
+            <pubDate>Sat, 16 May 2020 17:10:39 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make basic tracking work again after patch 17.2. Game and Collection upload are not working yet.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="52269026" sparkle:dsaSignature="MCwCFDWd0eyQm3WVwcmBPpz/k6pswCxSAhQ0nHdD+zbwbkU1LIdPuyUPEqi3SQ==" sparkle:shortVersionString="1.6.31" sparkle:version="2118" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.31/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.30</title>
             <pubDate>mar., 05 mai 2020 01:35:45 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
