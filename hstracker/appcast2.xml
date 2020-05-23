@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.32</title>
+            <pubDate>Sun, 24 May 2020 00:31:20 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable memory reading again. Fixes Games and Collection upload.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="52298272" sparkle:dsaSignature="MC0CFQCLWG30QymQQgBvhJByx9UlHVdZFgIUMxAxLM3VSnrEhyYw3FoiGCYEYco=" sparkle:shortVersionString="1.6.32" sparkle:version="2122" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.32/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.31</title>
             <pubDate>Sat, 16 May 2020 17:10:39 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
