@@ -4,6 +4,22 @@
     <title>HSTracker</title>
     <link>https://github.com/HearthSim/HSTracker</link>
     <item>
+      <title>1.6.32</title>
+      <pubDate>Sun, 24 May 2020 00:31:20 +0200</pubDate>
+      <description><![CDATA[<h2>Important message:</h2>
+
+<p>Due to a certificate issue with this version, you'll need to manually download and install the next version of HSTracker.</p>
+
+<p>All your recordings and statistics will be kept.</p>
+
+<p><a href="https://hsdecktracker.net/hstracker/download/">Follow this link to get the latest version</a>.</p>
+]]></description>
+      <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+      <sparkle:shortVersionString>1.6.32</sparkle:version>
+      <sparkle:version>2122</sparkle:version>
+      <link>https://hsdecktracker.net/hstracker/download/</link>
+    </item>
+    <item>
       <title>1.3.2</title>
       <pubDate>2018-01-23T16:00:00Z</pubDate>
       <description><![CDATA[<h2>Important message:</h2>
