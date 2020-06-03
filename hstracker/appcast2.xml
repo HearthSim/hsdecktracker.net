@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.33</title>
+            <pubDate>Thu, 04 Jun 2020 01:05:25 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Upload Battlegrounds Games&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="52350256" sparkle:dsaSignature="MCwCFHxY+JlrcmcwSIdiSxKD4OzyZTQGAhRXI1yAR4qTyxIo8lCjgc2/6pDvEA==" sparkle:shortVersionString="1.6.33" sparkle:version="2125" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.33/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.32</title>
             <pubDate>Sun, 24 May 2020 00:31:20 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
