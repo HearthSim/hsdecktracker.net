@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
-            <title>1.6.33</title>
+            <title>1.6.34</title>
             <pubDate>Sun, 07 Jun 2020 21:02:15 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Battlegrounds MMR&lt;/li&gt;
 &lt;/ul&gt;
 </description>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure length="52354616" sparkle:dsaSignature="MCwCFCmkbrWBwrIfhwfgBwPXw6IpUh5eAhQf+6/KdJZyHBu8heaDtfS87xt6pA==" sparkle:shortVersionString="1.6.33" sparkle:version="2125" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.34/HSTracker.app.zip"/>
+            <enclosure length="52354616" sparkle:dsaSignature="MCwCFGq6XDfedBesWruQo5bFyP5i7qa3AhQ1PA6ixksIyY7dFzCB98TLFPYWwQ==" sparkle:shortVersionString="1.6.34" sparkle:version="2131" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.34/HSTracker.app.zip"/>
         </item><item>
             <title>1.6.33</title>
             <pubDate>Thu, 04 Jun 2020 01:05:25 +0200</pubDate><description>&lt;h2&gt;Fixes:&lt;/h2&gt;
