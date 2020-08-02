@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.6.37</title>
+            <pubDate>Mon, 03 Aug 2020 00:18:08 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 18.0&lt;/li&gt;
+&lt;li&gt;Filter out minions not available in Battlegrounds (Thanks @fmoraes74)&lt;/li&gt;
+&lt;li&gt;Hide deck overlay during Battlegrounds games (Thanks @fmoraes74)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="52817591" sparkle:dsaSignature="MCwCFDCpi0xbBVWVOhxZH0GSl8YL5idMAhQqr2kr+AYqtmvqoYimBFOUyqs1hA==" sparkle:shortVersionString="1.6.37" sparkle:version="2141" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.6.37/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.36</title>
             <pubDate>Thu, 16 Jul 2020 00:39:52 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
