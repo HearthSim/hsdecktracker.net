@@ -51,7 +51,7 @@
 	],
 	"whizbang_decks": [
 		{
-			"title": "Malicias Bosheit",
+			"title": "Malicia's Malice",
 			"class": 14,
 			"deck_id": 2940,
 			"cards": [
@@ -126,7 +126,7 @@
 			]
 		},
 		{
-			"title": "Dämonische Verbündete",
+			"title": "Demonic Allies",
 			"class": 14,
 			"deck_id": 2939,
 			"cards": [
@@ -201,7 +201,7 @@
 			]
 		},
 		{
-			"title": "Seminar der Seelziologie",
+			"title": "A Lesson in Soulciology",
 			"class": 9,
 			"deck_id": 2936,
 			"cards": [
@@ -272,7 +272,7 @@
 			]
 		},
 		{
-			"title": "Galakronds Groll",
+			"title": "Galakrond's Grudge",
 			"class": 9,
 			"deck_id": 2935,
 			"cards": [
@@ -347,7 +347,7 @@
 			]
 		},
 		{
-			"title": "Überleben des Stärkeren",
+			"title": "Survival of the Fittest",
 			"class": 2,
 			"deck_id": 2934,
 			"cards": [
@@ -422,7 +422,7 @@
 			]
 		},
 		{
-			"title": "Drachengeschichten",
+			"title": "Dragon Tales",
 			"class": 2,
 			"deck_id": 2933,
 			"cards": [
@@ -497,7 +497,7 @@
 			]
 		},
 		{
-			"title": "Stärke des Rudels",
+			"title": "Strength of the Pack",
 			"class": 3,
 			"deck_id": 2932,
 			"cards": [
@@ -572,7 +572,7 @@
 			]
 		},
 		{
-			"title": "Einzigartig",
+			"title": "One of a Kind",
 			"class": 3,
 			"deck_id": 2931,
 			"cards": [
@@ -699,7 +699,7 @@
 			]
 		},
 		{
-			"title": "Eins mit Sternchen",
+			"title": "Honor Roll",
 			"class": 5,
 			"deck_id": 2930,
 			"cards": [
@@ -778,7 +778,7 @@
 			]
 		},
 		{
-			"title": "Brillante Buchbände",
+			"title": "Lightforged Librams",
 			"class": 5,
 			"deck_id": 2929,
 			"cards": [
@@ -849,7 +849,7 @@
 			]
 		},
 		{
-			"title": "Wettkampf der Wirker",
+			"title": "Casting Competition",
 			"class": 4,
 			"deck_id": 2938,
 			"cards": [
@@ -928,7 +928,7 @@
 			]
 		},
 		{
-			"title": "Wirklich zauberhaft!",
+			"title": "Spell-tacular!",
 			"class": 4,
 			"deck_id": 2937,
 			"cards": [
@@ -999,7 +999,7 @@
 			]
 		},
 		{
-			"title": "Durch und durch böse",
+			"title": "Bad to the Bone",
 			"class": 10,
 			"deck_id": 2923,
 			"cards": [
@@ -1078,7 +1078,7 @@
 			]
 		},
 		{
-			"title": "Ahoi, ihr Landratten!",
+			"title": "Ahoy, Mateys!",
 			"class": 10,
 			"deck_id": 2924,
 			"cards": [
@@ -1149,7 +1149,7 @@
 			]
 		},
 		{
-			"title": "Das große Glitzern",
+			"title": "Show Me Some Sparkle",
 			"class": 8,
 			"deck_id": 2927,
 			"cards": [
@@ -1224,7 +1224,7 @@
 			]
 		},
 		{
-			"title": "Galakronds Zorn",
+			"title": "Galakrond's Fury",
 			"class": 8,
 			"deck_id": 2928,
 			"cards": [
@@ -1299,7 +1299,7 @@
 			]
 		},
 		{
-			"title": "Magische Machenschaften",
+			"title": "Spell it Out",
 			"class": 6,
 			"deck_id": 2942,
 			"cards": [
@@ -1370,7 +1370,7 @@
 			]
 		},
 		{
-			"title": "Tag der Toten",
+			"title": "Day of the Dead",
 			"class": 6,
 			"deck_id": 2941,
 			"cards": [
@@ -1441,7 +1441,7 @@
 			]
 		},
 		{
-			"title": "Stechende Argumente",
+			"title": "Looking Sharp",
 			"class": 7,
 			"deck_id": 2925,
 			"cards": [
@@ -1516,7 +1516,7 @@
 			]
 		},
 		{
-			"title": "Galakronds Arglist",
+			"title": "Galakrond's Guile",
 			"class": 7,
 			"deck_id": 2926,
 			"cards": [
