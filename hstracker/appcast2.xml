@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.7.0</title>
+            <pubDate>Thu, 01 Oct 2020 23:59:41 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bob's Buddy&lt;/li&gt;
+&lt;li&gt;Updated for Elementals&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="70233523" sparkle:dsaSignature="MCwCFB2Nl7FMKpTL7gyxLrEaVbzHvIOMAhRykNqrGBw4By3pxEERvlOnC1EXTQ==" sparkle:shortVersionString="1.7.0" sparkle:version="2146" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.7.0/HSTracker.app.zip"/>
+        </item><item>
             <title>1.6.38</title>
             <pubDate>Fri, 28 Aug 2020 23:15:30 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
