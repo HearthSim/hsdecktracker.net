@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.7.2</title>
+            <pubDate>Mon, 26 Oct 2020 17:48:41 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add average damage to Bob's Buddy&lt;/li&gt;
+&lt;li&gt;Add turn counter for Battlegrounds&lt;/li&gt;
+&lt;li&gt;Hide player's deck in Battlegrounds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="70331047" sparkle:dsaSignature="MCwCFAecTO3urtgxspd3v1NY/ZHUkizxAhRWnX5eM4OUYMAPSqkvKrAS8pzs6g==" sparkle:shortVersionString="1.7.2" sparkle:version="2151" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.7.2/HSTracker.app.zip"/>
+        </item><item>
             <title>1.7.0</title>
             <pubDate>Thu, 01 Oct 2020 23:59:41 +0200</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
