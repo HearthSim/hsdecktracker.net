@@ -30,6 +30,17 @@
 			"BCON_012"
 		]
 	},
+	"pvpdr": {
+		"current_sets": [
+			"CORE",
+			"EXPERT1",
+			"NAXX",
+			"SCHOLOMANCE",
+			"KARA"
+		],
+		"banned_secrets": [
+		]
+	},
 	"bobs_buddy": {
 		"disabled": false,
 		"min_required_version": "1.10.8",
