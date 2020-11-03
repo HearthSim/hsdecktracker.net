@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.7.3</title>
+            <pubDate>Tue, 03 Nov 2020 15:24:18 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add tooltip for source of created cards&lt;/li&gt;
+&lt;li&gt;Fix crash when uploading certain replays&lt;/li&gt;
+&lt;li&gt;Add support for best heroes by minion type breakdown in battlegrounds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="67776040" sparkle:dsaSignature="MCwCFCAsVjGmhObsv7mKSO0bih+D6PQNAhQEt/AKb0CTVDyyCwoiGOV5v4Rh1A==" sparkle:shortVersionString="1.7.2" sparkle:version="2151" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.7.3/HSTracker.app.zip"/>
+        </item><item>
             <title>1.7.2</title>
             <pubDate>Mon, 26 Oct 2020 17:48:41 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
