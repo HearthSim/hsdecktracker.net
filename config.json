@@ -45,7 +45,8 @@
 		"disabled": false,
 		"min_required_version": "1.10.8",
 		"sentry_reporting": true,
-		"metric_sampling": 1
+		"metric_sampling": 1,
+		"log_lines_kept": 150
 	},
 	"battlegrounds_tag_overrides": [
 		{
