@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
-            <title>1.7.6</title>
-            <pubDate>Mon, 16 Nov 2020 18:15:28 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improve last seen board&lt;/li&gt;
-&lt;li&gt;Catch errors running battlegrounds simulation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Fixes:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prevent crash retrieving Battlegrounds available races&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure length="77153157" sparkle:dsaSignature="MCwCFFczQe7j/oMwQxluVsZIvTfggbueAhQpxn3XG0u2FFjekgfvzuEnyeuP6Q==" sparkle:shortVersionString="1.7.6" sparkle:version="2171" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.7.6/HSTracker.app.zip"/>
-        </item><item>
             <title>1.7.4</title>
             <pubDate>Sun, 08 Nov 2020 20:53:05 +0100</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
