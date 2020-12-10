@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.7.7</title>
+            <pubDate>Wed, 09 Dec 2020 16:42:36 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add more tracking of 'created by' effects&lt;/li&gt;
+&lt;li&gt;Add option to hide minion tiers in battlegrounds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve speed and memory usage&lt;/li&gt;
+&lt;li&gt;Fixes issues where spells wouldn't track for the player&lt;/li&gt;
+&lt;li&gt;Fixed issue where Bob's Buddy occasionally wouldn't detect Lich King hero powers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="81545830" sparkle:dsaSignature="MCwCFFPl+4SFRn4gjOP52Bm40zMNELF4AhRaS9AIFD9b/wjz0EUL1zP2VdPXLw==" sparkle:shortVersionString="1.7.7" sparkle:version="2195" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.7.7/HSTracker.app.zip"/>
+        </item><item>
             <title>1.7.6</title>
             <pubDate>Mon, 16 Nov 2020 22:45:12 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
