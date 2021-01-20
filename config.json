@@ -46,6 +46,9 @@
 		"metric_sampling": 1,
 		"log_lines_kept": 150
 	},
+	"update_info": {
+		"image_update_hearthstone_version":"19.2.1.0"
+	}
 	"battlegrounds_tag_overrides": [
 		{
 			"dbf_id": 39839,
