@@ -5,10 +5,15 @@
 &lt;ul&gt;
 &lt;li&gt;Updated for patch 19.4&lt;/li&gt;
 &lt;li&gt;Add experience tracker&lt;/li&gt;
+&lt;li&gt;Duels support&lt;/li&gt;
+&lt;li&gt;Improved Battlegrounds Tier display&lt;/li&gt;
+&lt;li&gt;Improved Adventure support, including Book of Heroes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Fixes:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Fix issue where players could occasionally see when their opponent drew a card created by C'thun the Shattered&lt;/li&gt;
+&lt;li&gt;Hide Secret Helper during Battlegrounds&lt;/li&gt;
+&lt;li&gt;Fix bug when importing deck code strings&lt;/li&gt;
 &lt;/ul&gt;
 </description>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
