@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.8.1</title>
+            <pubDate>Sun, 21 Feb 2021 04:00:23 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved deck manager display&lt;/li&gt;
+&lt;li&gt;Add dead for turn tracking for Battlegrounds&lt;/li&gt;
+&lt;li&gt;Improved zh-Hans translation (thanks @moonfruit)&lt;/li&gt;
+&lt;li&gt;Improved Russian translation (thanks @4llower)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved experience tracker location &amp;amp; size&lt;/li&gt;
+&lt;li&gt;Fix for Book of Heroes: Anduin&lt;/li&gt;
+&lt;li&gt;Fix experience counter showing at end of BG match before final combat&lt;/li&gt;
+&lt;li&gt;Fix graveyard missing in fullscreen (issue #973)&lt;/li&gt;
+&lt;li&gt;Retry collection upload after failure with new token&lt;/li&gt;
+&lt;li&gt;Fix Shenanigans handling&lt;/li&gt;
+&lt;li&gt;Fix C'thun the Shattered cards&lt;/li&gt;
+&lt;li&gt;Fix for Bobs Buddy showing incorrectly if &amp;quot;Hide while in background&amp;quot; was unchecked (issue #1201)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="63423521" sparkle:dsaSignature="MCwCFEwgVSrTkygsGQ9g8Pag0FGDFpExAhRmsfXO6wKKEY4w+ccr8u7fyHZbFw==" sparkle:shortVersionString="1.8.1" sparkle:version="2242" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.8.1/HSTracker.app.zip"/>
+        </item><item>
             <title>1.8.0</title>
             <pubDate>Sat, 23 Jan 2021 16:28:54 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
