@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.0</title>
+            <pubDate>Mon, 29 Mar 2021 01:40:25 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add tavern upgrade and triple history&lt;/li&gt;
+&lt;li&gt;Improve hover of BG cards from tier window&lt;/li&gt;
+&lt;li&gt;Ask permission to send crash reports&lt;/li&gt;
+&lt;li&gt;Add Forged in the Barrens card set&lt;/li&gt;
+&lt;li&gt;Log memory usage periodically&lt;/li&gt;
+&lt;li&gt;Add support for patch 20.0&lt;/li&gt;
+&lt;li&gt;Add support for Classic mode&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix tracker positions on Big Sur and fullscreen (issue #1204)&lt;/li&gt;
+&lt;li&gt;Fix dead for turn tracking for 8th place&lt;/li&gt;
+&lt;li&gt;Fix some crashes&lt;/li&gt;
+&lt;li&gt;Fix some memory leaks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65147005" sparkle:dsaSignature="MCwCFGw+RxSTL9CSxUOjtQyGpoegLI8cAhQaCfmsrE+CAIPR84c8Q2a3rh/xyg==" sparkle:shortVersionString="1.9.0" sparkle:version="2257" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.0/HSTracker.app.zip"/>
+        </item><item>
             <title>1.8.1</title>
             <pubDate>Sun, 21 Feb 2021 04:00:23 -0500</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
