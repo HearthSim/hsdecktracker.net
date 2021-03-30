@@ -25,13 +25,20 @@
 	},
 	"pvpdr": {
 		"current_sets": [
+			"THE_BARRENS",
 			"CORE",
-			"EXPERT1",
-			"NAXX",
+			"DARKMOON_FAIRE",
 			"SCHOLOMANCE",
-			"KARA"
+			"UNGORO",
+			"KARA",
+			"OG",
+			"NAXX",
+			"BASIC",
+			"EXPERT1"
 		],
-		"banned_secrets": []
+		"banned_secrets": [
+			"EX1_295"
+		]
 	},
 	"bobs_buddy": {
 		"disabled": false,
