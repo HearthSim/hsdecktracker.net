@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.1</title>
+            <pubDate>Wed, 07 Apr 2021 22:42:37 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved secret handling for different modes&lt;/li&gt;
+&lt;li&gt;Add Barrens known card ids&lt;/li&gt;
+&lt;li&gt;Improve deck detection logic&lt;/li&gt;
+&lt;li&gt;Add support for Book of Mercenaries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Core set cards causing deck detection failure&lt;/li&gt;
+&lt;li&gt;Fixed diamond cards causing deck deteciton failure&lt;/li&gt;
+&lt;li&gt;Fixed some more reported potential crash locations&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65169483" sparkle:dsaSignature="MCwCFG79vjB1nffNgcZXRCOqEi4X1psWAhQfDX58cwQ/GaCoW1HEHf5FqpB/RQ==" sparkle:shortVersionString="1.9.1" sparkle:version="2274" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.1/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.0</title>
             <pubDate>Mon, 29 Mar 2021 01:40:25 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
