@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.2</title>
+            <pubDate>Wed, 14 Apr 2021 20:35:56 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 20.0.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve collection upload to be more reliable (issue #1189)&lt;/li&gt;
+&lt;li&gt;Fix secret handler showing classic secrets in standard (issue #1216)&lt;/li&gt;
+&lt;li&gt;Fix crash when Hearthstone is stopped and log reader is stopping&lt;/li&gt;
+&lt;li&gt;Fix logic for Adventure restart&lt;/li&gt;
+&lt;li&gt;Fix secret handling for Oasis Ally and Rigged Faire Game&lt;/li&gt;
+&lt;li&gt;Fix tracking of Rank spells and Transfer Student&lt;/li&gt;
+&lt;li&gt;Fix missing synchronization during deck list update&lt;/li&gt;
+&lt;li&gt;Fix Far Sight drawn cards not tracking properly in Classic mode&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65215345" sparkle:dsaSignature="MCwCFFhI8kaa2cN8wV2k6GCaPr8dJstWAhQv+iotJVI6wRanUFt706kNEHMJnA==" sparkle:shortVersionString="1.9.2" sparkle:version="2289" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.2/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.1</title>
             <pubDate>Wed, 07 Apr 2021 22:42:37 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
