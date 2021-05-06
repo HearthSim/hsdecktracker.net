@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.3</title>
+            <pubDate>Wed, 05 May 2021 21:00:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 20.2.0&lt;/li&gt;
+&lt;li&gt;Show deck mulligan for constructed matches&lt;/li&gt;
+&lt;li&gt;Added option to not display BG hero comparison&lt;/li&gt;
+&lt;li&gt;Improved background display of BG warband&lt;/li&gt;
+&lt;li&gt;Support deleting multiple decks in the Deck Manager&lt;/li&gt;
+&lt;li&gt;Updated zh-Hans translation (thanks @moonfruit)&lt;/li&gt;
+&lt;li&gt;Updated icons with Big Sur guidelines (thanks @stevenjoezhang)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix secret helper window display on Big Sur (issue #1214)&lt;/li&gt;
+&lt;li&gt;Fix BG opponent dead tracker when Overlord Saurfang is in the lobby&lt;/li&gt;
+&lt;li&gt;Fix some more crashes in some rare occasions&lt;/li&gt;
+&lt;li&gt;Fix tracking for Core Jaraxxus not updating deck tracker (issue #1219)&lt;/li&gt;
+&lt;li&gt;Fix rare bug where deck has cards out of order&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64180111" sparkle:dsaSignature="MCwCFGjqM60ZQz8mzBEPH1znbFJVFKgSAhRe44Hi6YLbuts/4Sl8ZTuWk47ZgA==" sparkle:shortVersionString="1.9.3" sparkle:version="2317" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.3/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.2</title>
             <pubDate>Wed, 14 Apr 2021 20:35:56 -0400</pubDate><description>&lt;h2&gt;New:&lt;/h2&gt;
 &lt;ul&gt;
