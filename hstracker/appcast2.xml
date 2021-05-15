@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.4</title>
+            <pubDate>Sat, 15 May 2021 01:44:13 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 20.2.2&lt;/li&gt;
+&lt;li&gt;Improved support for spectator mode, including Battlegrounds&lt;/li&gt;
+&lt;li&gt;Updated zh-Hans translation (thanks @moonfruit)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed handling of log lines with Unicode characters&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64177526" sparkle:dsaSignature="MC0CFENmCHW77UqRDbfCy2EpVB/eTkt4AhUAl+ENd2O31SmY6CwR/QAIg6ZTpVc=" sparkle:shortVersionString="1.9.4" sparkle:version="2322" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.4/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.3</title>
             <pubDate>Wed, 05 May 2021 21:00:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
