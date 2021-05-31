@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.5</title>
+            <pubDate>Sun, 30 May 2021 21:01:06 +0200</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Libram counter&lt;/li&gt;
+&lt;li&gt;Track Efficient Octobot cost reduction&lt;/li&gt;
+&lt;li&gt;Increased size of floating hover image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove Rigged Faire Game secret when opponent loses armor&lt;/li&gt;
+&lt;li&gt;Fix memory growth due to spectator improvements (issue #1207)&lt;/li&gt;
+&lt;li&gt;Fix secret helper in arena (issue #1222)&lt;/li&gt;
+&lt;li&gt;Exclude BG neutral minions that are tribe specific&lt;/li&gt;
+&lt;li&gt;Fix multi-desktop overlay for battlegrounds (issue #1225 - thanks @chao2zhang)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="61828318" sparkle:dsaSignature="MC0CFQCE8jwPdQdQKDTnQ48IU6cv2FP99gIUMNLeLXUcjwDd95PJ3ahd7hcPPs4=" sparkle:shortVersionString="1.9.5" sparkle:version="2340" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.5/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.4</title>
             <pubDate>Sat, 15 May 2021 01:44:13 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
