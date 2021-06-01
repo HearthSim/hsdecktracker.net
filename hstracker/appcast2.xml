@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.6</title>
+            <pubDate>Mon, 31 May 2021 20:05:50 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix card database for missing cards&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64178699" sparkle:dsaSignature="MCwCFEfBJwkJu8+jb7qmg+4G0vOT17m4AhRLdxp3xcQrZvDVVr8Pd36noiuoJQ==" sparkle:shortVersionString="1.9.6" sparkle:version="2343" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.6/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.5</title>
             <pubDate>Sun, 30 May 2021 21:01:06 +0200</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
