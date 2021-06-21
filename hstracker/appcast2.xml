@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.8</title>
+            <pubDate>Sun, 20 Jun 2021 09:37:44 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 20.4.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Attempt to fix bug where replay sometimes doesn't upload&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64423214" sparkle:dsaSignature="MCwCFATQeUJ6gtzAzcytTBOb7ZkBKrpaAhRdhTKHNPhyaNBrzGrnEQsSsq6kaQ==" sparkle:shortVersionString="1.9.8" sparkle:version="2346" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.8/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.7</title>
             <pubDate>Fri, 04 Jun 2021 08:04:54 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
