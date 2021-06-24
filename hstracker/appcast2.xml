@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.9</title>
+            <pubDate>Thu, 24 Jun 2021 15:09:45 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix only first game replay uploading (issue #1231)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64424263" sparkle:dsaSignature="MCwCFHBHJuVAAeyoaz2YRLJT+Pts4ZUqAhQWNkSLUX8MNhqGqkHrqnn31zYW7A==" sparkle:shortVersionString="1.9.9" sparkle:version="2347" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.9/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.8</title>
             <pubDate>Sun, 20 Jun 2021 09:37:44 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
