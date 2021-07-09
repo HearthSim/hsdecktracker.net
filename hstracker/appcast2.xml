@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.10</title>
+            <pubDate>Fri, 09 Jul 2021 14:47:11 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 20.8&lt;/li&gt;
+&lt;li&gt;Add BobsBuddy support for Akazamarak&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix unavailable battlegrounds races for new patch&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="64865640" sparkle:dsaSignature="MC0CFAndamEms494ZwRd/N/TIgce2z48AhUAlJC9JN3+YpZLbFLsAQNrTpE7K7k=" sparkle:shortVersionString="1.9.10" sparkle:version="2349" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.10/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.9</title>
             <pubDate>Thu, 24 Jun 2021 15:09:45 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
