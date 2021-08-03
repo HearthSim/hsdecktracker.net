@@ -13,13 +13,14 @@
 	},
 	"arena": {
 		"current_sets": [
-			"CORE",
+			"STORMWIND",
 			"THE_BARRENS",
+			"WAILING_CAVERNS",
 			"DARKMOON_FAIRE",
-			"SCHOLOMANCE",
-			"BLACK_TEMPLE",
-			"LOOTAPALOOZA",
-			"GVG"
+			"GILNEAS",
+			"ULDUM",
+			"TROLL",
+			"CORE"
 		],
 		"banned_secrets": []
 	},
