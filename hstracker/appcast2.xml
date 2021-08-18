@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.12</title>
+            <pubDate>Wed, 18 Aug 2021 14:27:33 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 21.0.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Don't count dormant minion attack (issue #1234)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the battlegrounds overlay would not work with hero skins in some cases&lt;/li&gt;
+&lt;li&gt;Fixed an issue where questlines were not considered quests&lt;/li&gt;
+&lt;li&gt;Fixed an issue where HST did not count games played against an opponent with Maestra as games against a Rogue&lt;/li&gt;
+&lt;li&gt;Add support for Judgement of Justice&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65595983" sparkle:dsaSignature="MC0CFHbEVT/5opZ9WDTW3dq08g/ZyUBrAhUAhB1jWlQ2iWJ+fh90QOBjRKTbHLY=" sparkle:shortVersionString="1.9.12" sparkle:version="2359" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.12/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.11</title>
             <pubDate>Sat, 31 Jul 2021 15:26:45 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
