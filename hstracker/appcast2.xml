@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.13</title>
+            <pubDate>Thu, 02 Sep 2021 13:59:09 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 21.2&lt;/li&gt;
+&lt;li&gt;Enhanced zh-Hant translations (thanks @Fidetro)&lt;/li&gt;
+&lt;li&gt;Updated zh-Hans translations (thanks @moonfruit)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65787607" sparkle:dsaSignature="MCwCFGqMa+m2wiiM4pYUGEjtKmL0LLVXAhR7D4AQtj7vHn4kKBPkP4UEminniw==" sparkle:shortVersionString="1.9.13" sparkle:version="2363" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.13/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.12</title>
             <pubDate>Wed, 18 Aug 2021 14:27:33 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
