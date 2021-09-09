@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.14</title>
+            <pubDate>Wed, 08 Sep 2021 19:17:10 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Various BobsBuddy fixes and performance improvements&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="65788088" sparkle:dsaSignature="MCwCFDt9faiO+A3HOxf9DKEVahu1stGDAhR0cAwtM4L1ElAHT6CCKveD4XfK2Q==" sparkle:shortVersionString="1.9.14" sparkle:version="2364" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.14/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.13</title>
             <pubDate>Thu, 02 Sep 2021 13:59:09 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
