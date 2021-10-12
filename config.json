@@ -2964,5 +2964,619 @@
 				}
 			]
 		}
+	],
+	"mercenary_abilities": [
+		{
+			"card_id": "SWL_10H_01",
+			"skins": [
+				"SWL_10H_02",
+				"SWL_10H_03"
+			],
+			"abilities": [
+				"LETL_014P3_05",
+				"LETL_420_05",
+				"LETL_422_05"
+			]
+		},
+		{
+			"card_id": "SWL_01H_01",
+			"skins": [
+				"SWL_01H_02",
+				"SWL_01H_03"
+			],
+			"abilities": [
+				"LETL_452_05",
+				"LETL_451_05",
+				"LETL_450_05"
+			]
+		},
+		{
+			"card_id": "LETL_030H_01",
+			"skins": [
+				"LETL_030H_02",
+				"LETL_030H_03"
+			],
+			"abilities": [
+				"LETL_030P3_05",
+				"LETL_030P4_05",
+				"LETL_030P6_05"
+			]
+		},
+		{
+			"card_id": "SWL_14H_01",
+			"skins": [
+				"SWL_14H_02",
+				"SWL_14H_03"
+			],
+			"abilities": [
+				"LETL_337_05",
+				"LETL_336_05",
+				"LETL_338_05"
+			]
+		},
+		{
+			"card_id": "LETL_032H_01",
+			"skins": [
+				"LETL_032H_02",
+				"LETL_032H_03"
+			],
+			"abilities": [
+				"LETL_032P4_05",
+				"LETL_032P5_05",
+				"LETL_032P6_05"
+			]
+		},
+		{
+			"card_id": "LETL_029H_01",
+			"skins": [
+				"LETL_029H_02",
+				"LETL_029H_03"
+			],
+			"abilities": [
+				"LETL_029P5_05",
+				"LETL_029P6_05",
+				"LETL_029P10_05"
+			]
+		},
+		{
+			"card_id": "LETL_036H_01",
+			"skins": [
+				"LETL_036H_02",
+				"LETL_036H_03"
+			],
+			"abilities": [
+				"LETL_460_05",
+				"LETL_463_05",
+				"LETL_462_05"
+			]
+		},
+		{
+			"card_id": "BARL_010H_01",
+			"skins": [
+				"BARL_010H_02",
+				"BARL_010H_03"
+			],
+			"abilities": [
+				"LETL_300_05",
+				"LETL_302_05",
+				"LETL_301_05"
+			]
+		},
+		{
+			"card_id": "SWL_25H_01",
+			"skins": [
+				"SWL_25H_02",
+				"SWL_25H_03"
+			],
+			"abilities": [
+				"LETL_017P6_05",
+				"LETL_017P2_05",
+				"LETL_308_05"
+			]
+		},
+		{
+			"card_id": "LETL_005H_01",
+			"skins": [
+				"LETL_005H_02",
+				"LETL_005H_03"
+			],
+			"abilities": [
+				"LETL_022P4_05",
+				"LETL_005P8_05",
+				"LETL_005P4_05"
+			]
+		},
+		{
+			"card_id": "LETL_027H_01",
+			"skins": [
+				"LETL_027H_02",
+				"LETL_027H_03"
+			],
+			"abilities": [
+				"LETL_027P2_05",
+				"LETL_029P12_05",
+				"LETL_027P6_05"
+			]
+		},
+		{
+			"card_id": "LETL_011H_01",
+			"skins": [
+				"LETL_011H_02",
+				"LETL_011H_03"
+			],
+			"abilities": [
+				"LETL_332_05b",
+				"LETL_332_05a",
+				"LETL_331_05"
+			]
+		},
+		{
+			"card_id": "LETL_014H_01",
+			"skins": [
+				"LETL_014H_02",
+				"LETL_014H_03"
+			],
+			"abilities": [
+				"LETL_242_05",
+				"LETL_014P2_05",
+				"LETL_014P6_05"
+			]
+		},
+		{
+			"card_id": "LETL_040H_01",
+			"skins": [
+				"LETL_040H_02",
+				"LETL_040H_03"
+			],
+			"abilities": [
+				"LETL_040P3_05",
+				"LETL_040P7_05",
+				"LETL_040P9_05"
+			]
+		},
+		{
+			"card_id": "SWL_13H_01",
+			"skins": [
+				"SWL_13H_02",
+				"SWL_13H_03"
+			],
+			"abilities": [
+				"LETL_432_05",
+				"LETL_431_05",
+				"LETL_430_05"
+			]
+		},
+		{
+			"card_id": "LETL_017H_01",
+			"skins": [
+				"LETL_017H_02",
+				"LETL_017H_03"
+			],
+			"abilities": [
+				"LETL_307_05",
+				"LETL_017P7_05",
+				"LETL_019P6_05"
+			]
+		},
+		{
+			"card_id": "BARL_005H_01",
+			"skins": [
+				"BARL_005H_02",
+				"BARL_005H_03"
+			],
+			"abilities": [
+				"LETL_320_05",
+				"LETL_324_05",
+				"LETL_328_05"
+			]
+		},
+		{
+			"card_id": "LETL_021H_01",
+			"skins": [
+				"LETL_021H_02",
+				"LETL_021H_03"
+			],
+			"abilities": [
+				"LETL_408_05",
+				"LETL_407_05",
+				"LETL_014P1_05"
+			]
+		},
+		{
+			"card_id": "BARL_024H_01",
+			"skins": [
+				"BARL_024H_02",
+				"BARL_024H_03"
+			],
+			"abilities": [
+				"LETL_234_05",
+				"LETL_232_05",
+				"LETL_233_05"
+			]
+		},
+		{
+			"card_id": "SWL_26H_01",
+			"skins": [
+				"SWL_26H_02",
+				"SWL_26H_03"
+			],
+			"abilities": [
+				"LETL_237_05",
+				"LETL_236_05",
+				"LETL_235_05"
+			]
+		},
+		{
+			"card_id": "LETL_003H_01",
+			"skins": [
+				"LETL_003H_02",
+				"LETL_003H_03"
+			],
+			"abilities": [
+				"LETL_003P4_05",
+				"LETL_003P1_05",
+				"LETL_003P8_05"
+			]
+		},
+		{
+			"card_id": "LETL_037H_01",
+			"skins": [
+				"LETL_037H_02",
+				"LETL_037H_03"
+			],
+			"abilities": [
+				"LETL_282_05",
+				"LETL_269_05",
+				"LETL_037P2_05"
+			]
+		},
+		{
+			"card_id": "BARL_007H_01",
+			"skins": [
+				"BARL_007H_02",
+				"BARL_007H_03"
+			],
+			"abilities": [
+				"LETL_341_05",
+				"LETL_340_05",
+				"LETL_342_05"
+			]
+		},
+		{
+			"card_id": "BARL_008H_01",
+			"skins": [
+				"BARL_008H_02",
+				"BARL_008H_03"
+			],
+			"abilities": [
+				"LETL_280_05",
+				"LETL_281_05",
+				"LETL_004P1_05"
+			]
+		},
+		{
+			"card_id": "LETL_026H_01",
+			"skins": [
+				"LETL_026H_02",
+				"LETL_026H_03"
+			],
+			"abilities": [
+				"LETL_026P4_05",
+				"LETL_026P8_05",
+				"LETL_027P3_05"
+			]
+		},
+		{
+			"card_id": "BARL_023H_01",
+			"skins": [
+				"BARL_023H_02",
+				"BARL_023H_03"
+			],
+			"abilities": [
+				"LETL_252_05",
+				"LETL_258_05",
+				"LETL_256_05"
+			]
+		},
+		{
+			"card_id": "LETL_015H_01",
+			"skins": [
+				"LETL_015H_02",
+				"LETL_015H_03"
+			],
+			"abilities": [
+				"LETL_262_05",
+				"LETL_015P9_05",
+				"LETL_263_05"
+			]
+		},
+		{
+			"card_id": "LETL_016H_01",
+			"skins": [
+				"LETL_016H_02",
+				"LETL_016H_03"
+			],
+			"abilities": [
+				"LETL_412_05",
+				"LETL_410_05",
+				"LETL_411_05"
+			]
+		},
+		{
+			"card_id": "BARL_002H_01",
+			"skins": [
+				"BARL_002H_02",
+				"BARL_002H_03"
+			],
+			"abilities": [
+				"LETL_009P9_05",
+				"LETL_009P1_05",
+				"LETL_009P6_05"
+			]
+		},
+		{
+			"card_id": "LETL_010H_01",
+			"skins": [
+				"LETL_010H_02",
+				"LETL_010H_03"
+			],
+			"abilities": [
+				"LETL_010P2_05",
+				"LETL_481_05",
+				"LETL_480_05"
+			]
+		},
+		{
+			"card_id": "LETL_001H_01",
+			"skins": [
+				"LETL_001H_02",
+				"LETL_001H_03"
+			],
+			"abilities": [
+				"LETL_001P5_05",
+				"LETL_001P3_05",
+				"LETL_001P9_05"
+			]
+		},
+		{
+			"card_id": "LETL_039H_01",
+			"skins": [
+				"LETL_039H_02",
+				"LETL_039H_03"
+			],
+			"abilities": [
+				"LETL_039P8_05",
+				"LETL_039P5_05",
+				"LETL_039P6_05"
+			]
+		},
+		{
+			"card_id": "LETL_002H_01",
+			"skins": [
+				"LETL_002H_02",
+				"LETL_002H_03"
+			],
+			"abilities": [
+				"LETL_002P7_05",
+				"LETL_002P4_05",
+				"LETL_002P3_05"
+			]
+		},
+		{
+			"card_id": "BARL_016H_01",
+			"skins": [
+				"BARL_016H_02",
+				"BARL_016H_03"
+			],
+			"abilities": [
+				"LETL_403_05",
+				"LETL_404_05",
+				"LETL_405_05"
+			]
+		},
+		{
+			"card_id": "BARL_009H_01",
+			"skins": [
+				"BARL_009H_02",
+				"BARL_009H_03"
+			],
+			"abilities": [
+				"LETL_291_05",
+				"LETL_292_05",
+				"LETL_290_05"
+			]
+		},
+		{
+			"card_id": "LETL_031H_01",
+			"skins": [
+				"LETL_031H_02",
+				"LETL_031H_03"
+			],
+			"abilities": [
+				"LETL_031P7_05",
+				"LETL_031P2_05",
+				"LETL_031P4_05"
+			]
+		},
+		{
+			"card_id": "LETL_034H_01",
+			"skins": [
+				"LETL_034H_02",
+				"LETL_034H_03"
+			],
+			"abilities": [
+				"LETL_034P3_05",
+				"LETL_246_05",
+				"LETL_319_05"
+			]
+		},
+		{
+			"card_id": "LETL_020H_01",
+			"skins": [
+				"LETL_020H_02",
+				"LETL_020H_03"
+			],
+			"abilities": [
+				"LETL_406_05",
+				"LETL_020P6_05",
+				"LETL_004P1_05"
+			]
+		},
+		{
+			"card_id": "SWL_06H_01",
+			"skins": [
+				"SWL_06H_02",
+				"SWL_06H_03"
+			],
+			"abilities": [
+				"LETL_440_05",
+				"LETL_441_05",
+				"LETL_002P5_05"
+			]
+		},
+		{
+			"card_id": "BARL_013H_01",
+			"skins": [
+				"BARL_013H_02",
+				"BARL_013H_03"
+			],
+			"abilities": [
+				"LETL_229_05",
+				"LETL_309_05",
+				"LETL_224_05"
+			]
+		},
+		{
+			"card_id": "LETL_009H_01",
+			"skins": [
+				"LETL_009H_02",
+				"LETL_009H_03"
+			],
+			"abilities": [
+				"LETL_413_05",
+				"LETL_009P7_05",
+				"LETL_414_05"
+			]
+		},
+		{
+			"card_id": "LETL_033H_01",
+			"skins": [
+				"LETL_033H_02",
+				"LETL_033H_03"
+			],
+			"abilities": [
+				"LETL_033P5_05",
+				"LETL_033P2_05",
+				"LETL_033P4_05"
+			]
+		},
+		{
+			"card_id": "LETL_038H_01",
+			"skins": [
+				"LETL_038H_02",
+				"LETL_038H_03"
+			],
+			"abilities": [
+				"LETL_274_05",
+				"LETL_276_05",
+				"LETL_275_05"
+			]
+		},
+		{
+			"card_id": "LETL_007H_01",
+			"skins": [
+				"LETL_007H_02",
+				"LETL_007H_03"
+			],
+			"abilities": [
+				"LETL_007P4_05",
+				"LETL_007P5_05",
+				"LETL_007P7_05"
+			]
+		},
+		{
+			"card_id": "LETL_041H_01",
+			"skins": [
+				"LETL_041H_02",
+				"LETL_041H_03"
+			],
+			"abilities": [
+				"LETL_316_05",
+				"LETL_317_05",
+				"LETL_318_05"
+			]
+		},
+		{
+			"card_id": "LETL_006H_01",
+			"skins": [
+				"LETL_006H_02",
+				"LETL_006H_03"
+			],
+			"abilities": [
+				"LETL_006P8_05",
+				"LETL_006P9_05",
+				"LETL_006P1_05"
+			]
+		},
+		{
+			"card_id": "BARL_017H_01",
+			"skins": [
+				"BARL_017H_02",
+				"BARL_017H_03"
+			],
+			"abilities": [
+				"LETL_472_05",
+				"LETL_471_05",
+				"LETL_470_05"
+			]
+		},
+		{
+			"card_id": "BARL_012H_01",
+			"skins": [
+				"BARL_012H_02",
+				"BARL_012H_03"
+			],
+			"abilities": [
+				"LETL_250_05",
+				"LETL_257_05",
+				"LETL_251_05"
+			]
+		},
+		{
+			"card_id": "LETL_028H_01",
+			"skins": [
+				"LETL_028H_02",
+				"LETL_028H_03"
+			],
+			"abilities": [
+				"LETL_028P9_05",
+				"LETL_005P3_05",
+				"LETL_028P11_05"
+			]
+		},
+		{
+			"card_id": "BARL_025H_01",
+			"skins": [
+				"BARL_025H_02",
+				"BARL_025H_03"
+			],
+			"abilities": [
+				"LETL_225_05",
+				"LETL_220_05",
+				"LETL_222_05"
+			]
+		},
+		{
+			"card_id": "LETL_012H_01",
+			"skins": [
+				"LETL_012H_02",
+				"LETL_012H_03"
+			],
+			"abilities": [
+				"LETL_012P7_05",
+				"LETL_012P6_05",
+				"LETL_012P4_05"
+			]
+		}
 	]
 }
