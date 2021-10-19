@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>1.9.16</title>
+            <pubDate>Mon, 18 Oct 2021 17:15:10 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 21.4&lt;/li&gt;
+&lt;li&gt;Mercenaries support coming in near future&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Don't show trackers for during mercenaries mode&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="68510773" sparkle:dsaSignature="MCwCFDoi4B/qkQz5Pr6jBe045lM/M8+jAhR/6bxG/uBF98S0Jq1+bfZgyJFVKg==" sparkle:shortVersionString="1.9.16" sparkle:version="2368" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/1.9.16/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.15</title>
             <pubDate>Thu, 23 Sep 2021 11:33:00 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
