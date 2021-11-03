@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.0</title>
+            <pubDate>Tue, 02 Nov 2021 20:26:00 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Mercenaries ability hover (more to come soon)&lt;/li&gt;
+&lt;li&gt;Add support for patch 21.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Card hover only shows card, no text&lt;/li&gt;
+&lt;li&gt;Fixed crash during Book of Heroes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="68979658" sparkle:dsaSignature="MC0CFA7+h9Vp4GKCKeYcTwJ+JXrnsUWtAhUAgQn9wghpb+MjXeUytxxbKWY2aH0=" sparkle:shortVersionString="2.0.0" sparkle:version="2370" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.0/HSTracker.app.zip"/>
+        </item><item>
             <title>1.9.16</title>
             <pubDate>Mon, 18 Oct 2021 17:15:10 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
