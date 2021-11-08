@@ -14,12 +14,11 @@
 	"arena": {
 		"current_sets": [
 			"STORMWIND",
-			"THE_BARRENS",
-			"WAILING_CAVERNS",
-			"DARKMOON_FAIRE",
-			"GILNEAS",
-			"ULDUM",
-			"TROLL",
+			"BLACK_TEMPLE",
+			"DALARAN",
+			"ICECROWN",
+			"UNGORO",
+			"GANGS",
 			"CORE"
 		],
 		"banned_secrets": []
