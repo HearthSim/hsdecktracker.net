@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.1</title>
+            <pubDate>Mon, 08 Nov 2021 15:03:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Mercenaries tasks overlay&lt;/li&gt;
+&lt;li&gt;Battlegrounds support for multiple Sneeds hero powers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Bob's Buddy's interaction with Diable&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="69288883" sparkle:dsaSignature="MCwCFAogO2XeYPSK5Z2gFoyV6zg7l/zhAhQp9LKMDqWvR/qLCq2nKh9YFrJiPQ==" sparkle:shortVersionString="2.0.1" sparkle:version="2371" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.1/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.0</title>
             <pubDate>Tue, 02 Nov 2021 20:26:00 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
