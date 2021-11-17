@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.2</title>
+            <pubDate>Tue, 16 Nov 2021 16:34:10 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 21.8&lt;/li&gt;
+&lt;li&gt;Add mercenaries abilities overlay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed timeout from Battlegrounds Hero selection panel&lt;/li&gt;
+&lt;li&gt;Fixed mercenaries tasks showing last completed task&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="69564242" sparkle:dsaSignature="MCwCFFHrQmf3F/LzfGP98+fH+HODzrSaAhRiyubYE6GWEWN/RUdkzwapHYl8UQ==" sparkle:shortVersionString="2.0.2" sparkle:version="2376" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.1</title>
             <pubDate>Mon, 08 Nov 2021 15:03:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
