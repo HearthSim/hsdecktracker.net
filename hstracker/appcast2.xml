@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.3</title>
+            <pubDate>Fri, 26 Nov 2021 11:16:49 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Bob's Buddy performance for Diablo&lt;/li&gt;
+&lt;li&gt;Fixed Bob's Buddy speed&lt;/li&gt;
+&lt;li&gt;Fixed Bob's Buddy performance when two players with secrets enter combat&lt;/li&gt;
+&lt;li&gt;Support the new Alterac Valley cards&lt;/li&gt;
+&lt;li&gt;Fix Mercenaries Task view when description is long&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="69562754" sparkle:dsaSignature="MC0CFQCB0YfWPKiXK9IKcUV8WWDocbVfiQIUJH6O/yFrEQhePmfuQqn8Z8oKuPI=" sparkle:shortVersionString="2.0.3" sparkle:version="2380" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.2</title>
             <pubDate>Tue, 16 Nov 2021 16:34:10 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
