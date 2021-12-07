@@ -2,6 +2,18 @@
 <channel><item>
             <title>2.0.5</title>
             <pubDate>Tue, 07 Dec 2021 15:12:02 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Alterac Valley cards&lt;/li&gt;
+&lt;li&gt;Show flavor text for cards on the board&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Track tradeable cards&lt;/li&gt;
+&lt;li&gt;Fix secrets issues&lt;/li&gt;
+&lt;li&gt;Fix data leak with Pack Mule&lt;/li&gt;
+&lt;li&gt;Get right number of players on BG custom lobbies&lt;/li&gt;
+&lt;li&gt;Hide turn timer in Mercenaries&lt;/li&gt;
+&lt;/ul&gt;
 </description>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure length="61486580" sparkle:dsaSignature="MCwCFArQO71vnyGLCdAah1+7lHPftgJ1AhR/emoxc3WRBhS70HqWFfmbt8sMtA==" sparkle:shortVersionString="2.0.5" sparkle:version="2397" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.5/HSTracker.app.zip"/>
