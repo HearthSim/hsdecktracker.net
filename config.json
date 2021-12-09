@@ -13,25 +13,30 @@
 	},
 	"arena": {
 		"current_sets": [
-			"STORMWIND",
-			"BLACK_TEMPLE",
-			"DALARAN",
-			"ICECROWN",
-			"UNGORO",
-			"GANGS",
+			"ALTERAC_VALLEY",
+			"ULDUM",
+			"LOOTAPALOOZA",
+			"LOE",
+			"SCHOLOMANCE",
+			"BOOMSDAY",
 			"CORE"
 		],
 		"banned_secrets": []
 	},
 	"pvpdr": {
 		"current_sets": [
+			"ALTERAC_VALLEY",
+			"STORMWIND",
+			"WAILING_CAVERNS",
 			"THE_BARRENS",
 			"CORE",
 			"DARKMOON_FAIRE",
 			"SCHOLOMANCE",
+			"LOOTAPALOOZA",
 			"UNGORO",
 			"KARA",
 			"OG",
+			"GVG",
 			"NAXX",
 			"BASIC",
 			"EXPERT1"
