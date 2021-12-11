@@ -20,6 +20,10 @@
         </item><item>
             <title>2.0.4</title>
             <pubDate>Tue, 30 Nov 2021 18:19:41 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for patch 22.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Note:&lt;/b&gt; HSTracker now requires MacOS 10.15 (Catalina) or later.
 </description>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <enclosure length="61415958" sparkle:dsaSignature="MCwCFGmw2dsFrvi3lPusp8psJYSrD5IAAhRE+EMTQSmj8MNm3MJPnSYCrNWTsQ==" sparkle:shortVersionString="2.0.4" sparkle:version="2382" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.4/HSTracker.app.zip"/>
