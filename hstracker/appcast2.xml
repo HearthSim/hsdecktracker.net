@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.6</title>
+            <pubDate>Tue, 21 Dec 2021 10:02:45 -0300</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 22.0.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed various interactions with Peggy Brittlebone.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where various Avenge effects would trigger too often.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Tamsin Roame's Hero Power could target the wrong minion.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Impulsive Trickster would not pass on the correct amount of health when buffed.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Sewer Rat was not considered to have a Deathrattle effect.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the 15 damage cap was applied incorrectly in many cases when determining lethal rates.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure length="61491272" sparkle:dsaSignature="MC0CFQCTLWHNyimOlicQ5Kn2jrqPJZm6kAIUK501s74cuZ0OJ0v64xBunrU/5V8=" sparkle:shortVersionString="2.0.6" sparkle:version="2401" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.6/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.5</title>
             <pubDate>Tue, 07 Dec 2021 15:12:02 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
