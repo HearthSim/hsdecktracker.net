@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.7</title>
+            <pubDate>Tue, 21 Dec 2021 17:49:33 -0300</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash during Battlegrounds match&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure length="61491026" sparkle:dsaSignature="MC4CFQCEMhkum9MYKxwB2R0cqBjCTsifewIVAI8fxgdrpXDPBJ5Oq+mvciGpk6xN" sparkle:shortVersionString="2.0.7" sparkle:version="2403" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.7/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.6</title>
             <pubDate>Tue, 21 Dec 2021 10:02:45 -0300</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
