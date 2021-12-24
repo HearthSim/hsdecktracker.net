@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.8</title>
+            <pubDate>Fri, 24 Dec 2021 08:36:53 -0300</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notarize the application to allow it running&lt;/li&gt;
+&lt;li&gt;Hide invisible board overlay if Flavor text setting is disabled (try to fix unable to click on minions)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure length="61491894" sparkle:dsaSignature="MCwCFEQFL56sr07QT15xsw/KebBmpW7fAhR3N7tn3A1WUaGB+gruErBoXUZGsA==" sparkle:shortVersionString="2.0.8" sparkle:version="2404" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.8/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.7</title>
             <pubDate>Tue, 21 Dec 2021 17:49:33 -0300</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
