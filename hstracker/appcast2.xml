@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.9</title>
+            <pubDate>Wed, 19 Jan 2022 11:59:21 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added experimental support for Arena tier list generated from HSReplay data&lt;/li&gt;
+&lt;li&gt;Require MacOS 10.12 or later again (may change in the near future)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash caused by missing synchronization of collection helper&lt;/li&gt;
+&lt;li&gt;Resize card bar based on text length to avoid clipping of long card names&lt;/li&gt;
+&lt;li&gt;Sort missing Battlegrounds tribe names&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Fish of N'Zoth was not copying all types of Deathrattles correctly.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Cattlecarp of N'Zoth was not working.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where extra Deathrattles from Baron Rivendare would resolve too early.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Avenge effects would resolve too early.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where golden Impulsive Trickster would always target the same minion twice.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Grease Bot would buff the target before damage was dealt.&lt;/li&gt;
+&lt;li&gt;Fixed an issue with the interaction between Greybough's Hero Power and Khadgar.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Prestor's Pyrospawn woud trigger on non-dragon minions and itself.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the 15 damage cap was still applied incorrectly in many cases when determining lethal rates.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="70490165" sparkle:dsaSignature="MCwCFDwxj57UaEmZbgoUU1KZAaZD3gQbAhRGm7nPtqUhcq6z0dUW1+axCjTleg==" sparkle:shortVersionString="2.0.9" sparkle:version="2414" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.9/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.8</title>
             <pubDate>Fri, 24 Dec 2021 08:36:53 -0300</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
