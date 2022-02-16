@@ -14,11 +14,11 @@
 	"arena": {
 		"current_sets": [
 			"ALTERAC_VALLEY",
-			"ULDUM",
-			"LOOTAPALOOZA",
-			"LOE",
-			"SCHOLOMANCE",
-			"BOOMSDAY",
+			"KARA",
+			"BRM",
+			"UNGORO",
+			"GANGS",
+			"DRAGONS",
 			"CORE"
 		],
 		"banned_secrets": []
