@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.13</title>
+            <pubDate>Fri, 04 Mar 2022 09:21:09 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 22.4.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improvements to Toast notification appearing behind the notch (thanks @eraycantazeguney)&lt;/li&gt;
+&lt;li&gt;Fix BG mulligan appearing on an already started match (thanks @eraycantazeguney)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="71810242" sparkle:dsaSignature="MC0CFCGLNzfyEKGcWW1qODoU1EFqq3KRAhUAhGU0Q0NiHMfBiu+vAJlWUUtfi30=" sparkle:shortVersionString="2.0.13" sparkle:version="2434" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.13/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.12</title>
             <pubDate>Tue, 15 Feb 2022 22:28:10 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
