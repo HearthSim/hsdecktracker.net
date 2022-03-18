@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.0.14</title>
+            <pubDate>Fri, 18 Mar 2022 18:16:57 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 22.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show Toast notifications on the correct monitor&lt;/li&gt;
+&lt;li&gt;Check Hearthstone window location has changed and update overlay if needed&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="72252106" sparkle:dsaSignature="MCwCFB/V93OhdUQkJCFQgRTgriJ4fhEPAhQwnkLBClRAdtw4jCZumBwyoarHwQ==" sparkle:shortVersionString="2.0.14" sparkle:version="2437" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.0.14/HSTracker.app.zip"/>
+        </item><item>
             <title>2.0.13</title>
             <pubDate>Fri, 04 Mar 2022 09:21:09 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
