@@ -13,13 +13,13 @@
 	},
 	"arena": {
 		"current_sets": [
+			"CORE",
+			"LOE",
+			"OG",
+			"TGT",
+			"STORMWIND",
 			"ALTERAC_VALLEY",
-			"KARA",
-			"BRM",
-			"UNGORO",
-			"GANGS",
-			"DRAGONS",
-			"CORE"
+			"THE_SUNKEN_CITY"
 		],
 		"banned_secrets": []
 	},
