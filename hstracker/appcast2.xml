@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.2</title>
+            <pubDate>Wed, 27 Apr 2022 08:36:30 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updted for patch 23.0.3&lt;/li&gt;
+&lt;li&gt;Added support for top/bottom cards&lt;/li&gt;
+&lt;li&gt;Updated Korean translations (thanks @rockmkd)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Corrected mercenaries collection upload of portraits&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="73308789" sparkle:dsaSignature="MCwCFAwiNQRplPLeKdhxqNCi7ZRc+FOcAhQLXLMEGCpG8bntcBHD3LeFbh4gKw==" sparkle:shortVersionString="2.1.2" sparkle:version="2445" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.1</title>
             <pubDate>Tue, 12 Apr 2022 14:50:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
