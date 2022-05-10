@@ -57,6 +57,204 @@
 	"update_info": {
 		"image_update_hearthstone_version": 0
 	},
+	"battlegrounds_short_names": [
+		{
+			"dbf_id": 81569,
+			"short_name": "Faelin"
+		},
+		{
+			"dbf_id": 61910,
+			"short_name": "Aranna"
+		},
+		{
+			"dbf_id": 60362,
+			"short_name": "Rafaam"
+		},
+		{
+			"dbf_id": 62242,
+			"short_name": "Eudora"
+		},
+		{
+			"dbf_id": 62266,
+			"short_name": "Hooktusk"
+		},
+		{
+			"dbf_id": 73940,
+			"short_name": "Cariel"
+		},
+		{
+			"dbf_id": 77516,
+			"short_name": "Cookie"
+		},
+		{
+			"dbf_id": 59806,
+			"short_name": "Deryl"
+		},
+		{
+			"dbf_id": 71458,
+			"short_name": "Blackthorn"
+		},
+		{
+			"dbf_id": 60214,
+			"short_name": "Brann"
+		},
+		{
+			"dbf_id": 57633,
+			"short_name": "Edwin"
+		},
+		{
+			"dbf_id": 60213,
+			"short_name": "Elise"
+		},
+		{
+			"dbf_id": 63604,
+			"short_name": "Omu"
+		},
+		{
+			"dbf_id": 60372,
+			"short_name": "Flurgl"
+		},
+		{
+			"dbf_id": 57929,
+			"short_name": "George"
+		},
+		{
+			"dbf_id": 68129,
+			"short_name": "Guff"
+		},
+		{
+			"dbf_id": 57634,
+			"short_name": "Illidan"
+		},
+		{
+			"dbf_id": 58534,
+			"short_name": "Toki"
+		},
+		{
+			"dbf_id": 80832,
+			"short_name": "Ini"
+		},
+		{
+			"dbf_id": 63601,
+			"short_name": "Jandice"
+		},
+		{
+			"dbf_id": 61912,
+			"short_name": "Kael'thas"
+		},
+		{
+			"dbf_id": 74631,
+			"short_name": "Kurtrus"
+		},
+		{
+			"dbf_id": 59807,
+			"short_name": "Jaraxxus"
+		},
+		{
+			"dbf_id": 71908,
+			"short_name": "Nguyen"
+		},
+		{
+			"dbf_id": 60366,
+			"short_name": "Millhouse"
+		},
+		{
+			"dbf_id": 57946,
+			"short_name": "Millificent"
+		},
+		{
+			"dbf_id": 71916,
+			"short_name": "Mutanus"
+		},
+		{
+			"dbf_id": 71454,
+			"short_name": "Saurfang"
+		},
+		{
+			"dbf_id": 57947,
+			"short_name": "Patches"
+		},
+		{
+			"dbf_id": 79618,
+			"short_name": "Azshare"
+		},
+		{
+			"dbf_id": 57924,
+			"short_name": "Wagtoggle"
+		},
+		{
+			"dbf_id": 57892,
+			"short_name": "Ragnaros"
+		},
+		{
+			"dbf_id": 60212,
+			"short_name": "Reno"
+		},
+		{
+			"dbf_id": 76562,
+			"short_name": "Scabbs"
+		},
+		{
+			"dbf_id": 64480,
+			"short_name": "Silas"
+		},
+		{
+			"dbf_id": 60211,
+			"short_name": "Finley"
+		},
+		{
+			"dbf_id": 62268,
+			"short_name": "Kragg"
+		},
+		{
+			"dbf_id": 77987,
+			"short_name": "Tavish"
+		},
+		{
+			"dbf_id": 60367,
+			"short_name": "Tess"
+		},
+		{
+			"dbf_id": 59203,
+			"short_name": "Curator"
+		},
+		{
+			"dbf_id": 58021,
+			"short_name": "Akazamzarak"
+		},
+		{
+			"dbf_id": 58024,
+			"short_name": "Lich King"
+		},
+		{
+			"dbf_id": 57893,
+			"short_name": "Rat King"
+		},
+		{
+			"dbf_id": 57891,
+			"short_name": "Gallywix"
+		},
+		{
+			"dbf_id": 80247,
+			"short_name": "Vanndar"
+		},
+		{
+			"dbf_id": 79615,
+			"short_name": "Varden"
+		},
+		{
+			"dbf_id": 59805,
+			"short_name": "Yogg-Saron"
+		},
+		{
+			"dbf_id": 64485,
+			"short_name": "Zephrys"
+		},
+		{
+			"dbf_id": 74646,
+			"short_name": "Tamsin"
+		}
+	],
 	"battlegrounds_tag_overrides": [
 		{
 			"dbf_id": 39839,
