@@ -253,6 +253,10 @@
 		{
 			"dbf_id": 74646,
 			"short_name": "Tamsin"
+		},
+		{
+			"dbf_id": 61914,
+			"short_name": "Maiev"
 		}
 	],
 	"battlegrounds_tag_overrides": [
