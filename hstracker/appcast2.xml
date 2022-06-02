@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.7</title>
+            <pubDate>Wed, 01 Jun 2022 19:43:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 23.4&lt;/li&gt;
+&lt;li&gt;Improve Battlegrounds triples and upgrade history from HDT&lt;/li&gt;
+&lt;li&gt;Show Battlegrounds Session recap final board age&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix for incorrectly showing session recap when not in Battlegrounds mode and Hide all when game in background is unchecked&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="75150058" sparkle:dsaSignature="MCwCFBv8droJq2qMpBmQZab0sPZk4snXAhRDwy4KEu1G9L0o3tzKc6eJu25WUA==" sparkle:shortVersionString="2.1.7" sparkle:version="2470" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.7/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.6</title>
             <pubDate>Sat, 28 May 2022 07:55:22 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
