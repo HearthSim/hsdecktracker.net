@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.8</title>
+            <pubDate>Thu, 16 Jun 2022 17:11:37 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for poatch 23.4.3&lt;/li&gt;
+&lt;li&gt;Korean translation updates (thanks @kshired)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Battlegrounds session recap not showing correctly&lt;/li&gt;
+&lt;li&gt;Fixed Battlegorunds session recap gray window if all settings disabled (thanks @kshired)&lt;/li&gt;
+&lt;li&gt;Fixed size of deck statistics tab to show all classes better (issue #1269)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Mirror Entity was displayed in Standard games.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where information about cards discarded by Immolation was unintentionally revealed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="75171178" sparkle:dsaSignature="MC0CFQCLtuwZ13KUzeZtTOxtNOYmHfr+WgIUI8FaIsHuiARa/QPf3+v1yUOKq9A=" sparkle:shortVersionString="2.1.8" sparkle:version="2481" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.8/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.7</title>
             <pubDate>Wed, 01 Jun 2022 19:43:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
