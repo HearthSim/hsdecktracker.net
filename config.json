@@ -299,6 +299,11 @@
 			"dbf_id": 65660,
 			"tag": 1456,
 			"value": 1
+		},
+		{
+			"dbf_id": 72062,
+			"tag": 1440,
+			"value": 3
 		}
 	],
 	"whizbang_decks": [
