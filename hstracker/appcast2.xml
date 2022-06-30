@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.10</title>
+            <pubDate>Thu, 30 Jun 2022 15:55:00 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed detection of 40 card decks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="75389922" sparkle:dsaSignature="MCwCFF1rIapG48BTpJN2yIHmZ6OSatYqAhQvZy0/BE+di8CeBblMqmFWyCzwuw==" sparkle:shortVersionString="2.1.10" sparkle:version="2496" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.9</title>
             <pubDate>Mon, 27 Jun 2022 22:58:22 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
