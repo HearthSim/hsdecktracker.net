@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.12</title>
+            <pubDate>Tue, 12 Jul 2022 06:04:27 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Mercenaries abilities not showing in matches versus AI (issue #1276)&lt;/li&gt;
+&lt;li&gt;Fixed deck detection for Tavern Brawl&lt;/li&gt;
+&lt;li&gt;Fixed some rare crashes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="78762094" sparkle:dsaSignature="MC0CFQCVF3Xi7CoRJI29Pg0Ckaw/Ae2BBgIUFrexu/hUUyyhVLn4TtxojVbPTUs=" sparkle:shortVersionString="2.1.12" sparkle:version="2518" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.12/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.11</title>
             <pubDate>Sat, 02 Jul 2022 10:09:07 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
