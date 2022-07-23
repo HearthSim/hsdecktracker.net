@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.1.13</title>
+            <pubDate>Sat, 23 Jul 2022 17:40:20 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Miscellaneous performance improvements&lt;/li&gt;
+&lt;li&gt;Fixed some rare crashes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="78766485" sparkle:dsaSignature="MC0CFQCHGZhd7yAEInyXc8iIq5xBWCP7AQIUNI3zTUpNKvTUxqpjNFy52SAaIks=" sparkle:shortVersionString="2.1.13" sparkle:version="2530" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.1.13/HSTracker.app.zip"/>
+        </item><item>
             <title>2.1.12</title>
             <pubDate>Tue, 12 Jul 2022 06:04:27 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
