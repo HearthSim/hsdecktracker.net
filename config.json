@@ -258,6 +258,10 @@
 		{
 			"dbf_id": 61914,
 			"short_name": "Maiev"
+		},
+		{
+			"dbf_id": 86291,
+			"short_name": "Togwaggle"
 		}
 	],
 	"battlegrounds_tag_overrides": [
