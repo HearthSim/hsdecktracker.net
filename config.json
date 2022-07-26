@@ -264,63 +264,7 @@
 			"short_name": "Togwaggle"
 		}
 	],
-	"battlegrounds_tag_overrides": [
-		{
-			"dbf_id": 39839,
-			"tag": 1440,
-			"value": 0
-		},
-		{
-			"dbf_id": 39839,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 77805,
-			"tag": 1440,
-			"value": 4
-		},
-		{
-			"dbf_id": 72062,
-			"tag": 1440,
-			"value": 4
-		},
-		{
-			"dbf_id": 61072,
-			"tag": 1440,
-			"value": 3
-		},
-		{
-			"dbf_id": 76312,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 80743,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 65660,
-			"tag": 1456,
-			"value": 1
-		},
-		{
-			"dbf_id": 72062,
-			"tag": 1440,
-			"value": 3
-		},
-		{
-			"dbf_id": 74659,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 60621,
-			"tag": 1456,
-			"value": 1
-		}
-	],
+	"battlegrounds_tag_overrides": [],
 	"whizbang_decks": [
 		{
 			"title": "Field of Strife",
