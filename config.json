@@ -264,7 +264,13 @@
 			"short_name": "Togwaggle"
 		}
 	],
-	"battlegrounds_tag_overrides": [],
+	"battlegrounds_tag_overrides": [
+		{
+			"dbf_id": 72389,
+			"tag": 1456,
+			"value": 0
+		}
+	],
 	"whizbang_decks": [
 		{
 			"title": "Field of Strife",
