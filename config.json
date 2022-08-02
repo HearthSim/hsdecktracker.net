@@ -14,18 +14,18 @@
 	"arena": {
 		"current_sets": [
 			"CORE",
-			"BOOMSDAY",
-			"DRAGONS",
-			"THE_BARRENS",
-			"STORMWIND",
-			"ALTERAC_VALLEY",
-			"THE_SUNKEN_CITY",
-			"TAVERNS_OF_TIME"
+			"KARA",
+			"ULDUM",
+			"TROLL",
+			"SCHOLOMANCE",
+			"DARKMOON_FAIRE",
+			"REVENDRETH"
 		],
 		"banned_secrets": []
 	},
 	"pvpdr": {
 		"current_sets": [
+			"REVENDRETH",
 			"ALTERAC_VALLEY",
 			"STORMWIND",
 			"WAILING_CAVERNS",
