@@ -274,115 +274,32 @@
 	],
 	"whizbang_decks": [
 		{
-			"title": "Field of Strife",
+			"title": "The Relic Vault",
 			"class": 14,
-			"deck_id": 4696,
+			"deck_id": 4948,
 			"cards": [
 				{
-					"dbf_id": 72549,
+					"dbf_id": 78469,
 					"count": 2
 				},
 				{
-					"dbf_id": 71239,
+					"dbf_id": 78122,
 					"count": 2
 				},
 				{
-					"dbf_id": 69590,
+					"dbf_id": 77616,
 					"count": 2
 				},
 				{
-					"dbf_id": 69586,
+					"dbf_id": 77615,
 					"count": 2
 				},
 				{
-					"dbf_id": 69577,
+					"dbf_id": 75072,
 					"count": 2
 				},
 				{
-					"dbf_id": 69504,
-					"count": 2
-				},
-				{
-					"dbf_id": 67894,
-					"count": 2
-				},
-				{
-					"dbf_id": 67886,
-					"count": 2
-				},
-				{
-					"dbf_id": 67233,
-					"count": 2
-				},
-				{
-					"dbf_id": 64396,
-					"count": 2
-				},
-				{
-					"dbf_id": 64395,
-					"count": 2
-				},
-				{
-					"dbf_id": 64393,
-					"count": 2
-				},
-				{
-					"dbf_id": 63264,
-					"count": 2
-				},
-				{
-					"dbf_id": 69558,
-					"count": 1
-				},
-				{
-					"dbf_id": 68216,
-					"count": 1
-				},
-				{
-					"dbf_id": 66951,
-					"count": 1
-				},
-				{
-					"dbf_id": 63260,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Abyssal Assault",
-			"class": 14,
-			"deck_id": 4697,
-			"cards": [
-				{
-					"dbf_id": 73721,
-					"count": 2
-				},
-				{
-					"dbf_id": 72984,
-					"count": 2
-				},
-				{
-					"dbf_id": 72657,
-					"count": 2
-				},
-				{
-					"dbf_id": 71940,
-					"count": 2
-				},
-				{
-					"dbf_id": 71922,
-					"count": 2
-				},
-				{
-					"dbf_id": 71921,
-					"count": 2
-				},
-				{
-					"dbf_id": 71919,
-					"count": 2
-				},
-				{
-					"dbf_id": 71917,
+					"dbf_id": 71944,
 					"count": 2
 				},
 				{
@@ -390,11 +307,15 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 69740,
+					"dbf_id": 69558,
 					"count": 2
 				},
 				{
-					"dbf_id": 69558,
+					"dbf_id": 67204,
+					"count": 2
+				},
+				{
+					"dbf_id": 64394,
 					"count": 2
 				},
 				{
@@ -406,7 +327,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 73906,
+					"dbf_id": 77482,
 					"count": 1
 				},
 				{
@@ -418,97 +339,30 @@
 					"count": 1
 				},
 				{
+					"dbf_id": 69577,
+					"count": 1
+				},
+				{
+					"dbf_id": 66951,
+					"count": 1
+				},
+				{
 					"dbf_id": 64397,
 					"count": 1
 				}
 			]
 		},
 		{
-			"title": "Mulverick's Fleet",
+			"title": "Vanndar's Reinforcements",
 			"class": 2,
-			"deck_id": 4704,
+			"deck_id": 4980,
 			"cards": [
 				{
-					"dbf_id": 73528,
+					"dbf_id": 86234,
 					"count": 2
 				},
-				{
-					"dbf_id": 70295,
-					"count": 2
-				},
-				{
-					"dbf_id": 70249,
-					"count": 2
-				},
-				{
-					"dbf_id": 70247,
-					"count": 2
-				},
-				{
-					"dbf_id": 65580,
-					"count": 2
-				},
-				{
-					"dbf_id": 64388,
-					"count": 2
-				},
-				{
-					"dbf_id": 64385,
-					"count": 2
-				},
-				{
-					"dbf_id": 64372,
-					"count": 2
-				},
-				{
-					"dbf_id": 64201,
-					"count": 2
-				},
-				{
-					"dbf_id": 64008,
-					"count": 2
-				},
-				{
-					"dbf_id": 63033,
-					"count": 2
-				},
-				{
-					"dbf_id": 63027,
-					"count": 2
-				},
-				{
-					"dbf_id": 63021,
-					"count": 2
-				},
-				{
-					"dbf_id": 70292,
-					"count": 1
-				},
-				{
-					"dbf_id": 69593,
-					"count": 1
-				},
-				{
-					"dbf_id": 64728,
-					"count": 1
-				},
-				{
-					"dbf_id": 64337,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Miraculous Growth",
-			"class": 2,
-			"deck_id": 4705,
-			"cards": [
 				{
 					"dbf_id": 73774,
-					"count": 2
-				},
-				{
-					"dbf_id": 73712,
 					"count": 2
 				},
 				{
@@ -516,23 +370,98 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 73465,
-					"count": 2
-				},
-				{
-					"dbf_id": 73464,
-					"count": 2
-				},
-				{
-					"dbf_id": 73462,
-					"count": 2
-				},
-				{
 					"dbf_id": 71247,
 					"count": 2
 				},
 				{
-					"dbf_id": 70320,
+					"dbf_id": 71241,
+					"count": 2
+				},
+				{
+					"dbf_id": 71226,
+					"count": 2
+				},
+				{
+					"dbf_id": 69594,
+					"count": 2
+				},
+				{
+					"dbf_id": 69550,
+					"count": 2
+				},
+				{
+					"dbf_id": 69513,
+					"count": 2
+				},
+				{
+					"dbf_id": 67237,
+					"count": 2
+				},
+				{
+					"dbf_id": 65583,
+					"count": 2
+				},
+				{
+					"dbf_id": 64292,
+					"count": 2
+				},
+				{
+					"dbf_id": 71684,
+					"count": 1
+				},
+				{
+					"dbf_id": 71333,
+					"count": 1
+				},
+				{
+					"dbf_id": 67239,
+					"count": 1
+				},
+				{
+					"dbf_id": 66953,
+					"count": 1
+				},
+				{
+					"dbf_id": 66868,
+					"count": 1
+				},
+				{
+					"dbf_id": 66864,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Horrors Beyond the Hedge",
+			"class": 2,
+			"deck_id": 4944,
+			"cards": [
+				{
+					"dbf_id": 86234,
+					"count": 2
+				},
+				{
+					"dbf_id": 79532,
+					"count": 2
+				},
+				{
+					"dbf_id": 78202,
+					"count": 2
+				},
+				{
+					"dbf_id": 77654,
+					"count": 2
+				},
+				{
+					"dbf_id": 77525,
+					"count": 2
+				},
+				{
+					"dbf_id": 73471,
+					"count": 2
+				},
+				{
+					"dbf_id": 71247,
 					"count": 2
 				},
 				{
@@ -552,19 +481,31 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 64292,
-					"count": 2
-				},
-				{
-					"dbf_id": 73713,
+					"dbf_id": 78509,
 					"count": 1
 				},
 				{
-					"dbf_id": 72923,
+					"dbf_id": 78383,
 					"count": 1
 				},
 				{
-					"dbf_id": 71712,
+					"dbf_id": 77679,
+					"count": 1
+				},
+				{
+					"dbf_id": 75881,
+					"count": 1
+				},
+				{
+					"dbf_id": 75583,
+					"count": 1
+				},
+				{
+					"dbf_id": 71333,
+					"count": 1
+				},
+				{
+					"dbf_id": 67239,
 					"count": 1
 				},
 				{
@@ -574,12 +515,28 @@
 			]
 		},
 		{
-			"title": "Take the Valley!",
+			"title": "Beasts of the Deep",
 			"class": 3,
-			"deck_id": 4710,
+			"deck_id": 4983,
 			"cards": [
 				{
-					"dbf_id": 76299,
+					"dbf_id": 74755,
+					"count": 2
+				},
+				{
+					"dbf_id": 72928,
+					"count": 2
+				},
+				{
+					"dbf_id": 71944,
+					"count": 2
+				},
+				{
+					"dbf_id": 71917,
+					"count": 2
+				},
+				{
+					"dbf_id": 71232,
 					"count": 2
 				},
 				{
@@ -587,19 +544,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 70105,
-					"count": 2
-				},
-				{
-					"dbf_id": 70104,
-					"count": 2
-				},
-				{
 					"dbf_id": 70103,
-					"count": 2
-				},
-				{
-					"dbf_id": 69603,
 					"count": 2
 				},
 				{
@@ -607,23 +552,11 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 67574,
+					"dbf_id": 65603,
 					"count": 2
 				},
 				{
-					"dbf_id": 67243,
-					"count": 2
-				},
-				{
-					"dbf_id": 67241,
-					"count": 2
-				},
-				{
-					"dbf_id": 63195,
-					"count": 2
-				},
-				{
-					"dbf_id": 63088,
+					"dbf_id": 64372,
 					"count": 2
 				},
 				{
@@ -631,11 +564,19 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 70106,
+					"dbf_id": 74907,
 					"count": 1
 				},
 				{
-					"dbf_id": 69605,
+					"dbf_id": 72935,
+					"count": 1
+				},
+				{
+					"dbf_id": 72896,
+					"count": 1
+				},
+				{
+					"dbf_id": 72598,
 					"count": 1
 				},
 				{
@@ -645,163 +586,84 @@
 				{
 					"dbf_id": 67803,
 					"count": 1
+				},
+				{
+					"dbf_id": 65044,
+					"count": 1
+				},
+				{
+					"dbf_id": 64965,
+					"count": 1
 				}
 			]
 		},
 		{
-			"title": "Serpents Galore",
+			"title": "Wild Spirits",
 			"class": 3,
-			"deck_id": 4711,
+			"deck_id": 4949,
 			"cards": [
 				{
-					"dbf_id": 76299,
+					"dbf_id": 78420,
 					"count": 2
 				},
 				{
-					"dbf_id": 74884,
+					"dbf_id": 78418,
 					"count": 2
 				},
 				{
-					"dbf_id": 74881,
+					"dbf_id": 78416,
 					"count": 2
 				},
 				{
-					"dbf_id": 72928,
+					"dbf_id": 78412,
 					"count": 2
 				},
 				{
-					"dbf_id": 71949,
+					"dbf_id": 76223,
 					"count": 2
 				},
 				{
-					"dbf_id": 71940,
+					"dbf_id": 72417,
 					"count": 2
 				},
 				{
-					"dbf_id": 71917,
+					"dbf_id": 71944,
 					"count": 2
 				},
 				{
-					"dbf_id": 71709,
+					"dbf_id": 70241,
 					"count": 2
 				},
 				{
-					"dbf_id": 69603,
+					"dbf_id": 69691,
 					"count": 2
 				},
 				{
-					"dbf_id": 69545,
+					"dbf_id": 67574,
 					"count": 2
 				},
 				{
-					"dbf_id": 67243,
+					"dbf_id": 65603,
 					"count": 2
 				},
 				{
-					"dbf_id": 67241,
+					"dbf_id": 64965,
 					"count": 2
 				},
 				{
-					"dbf_id": 74886,
+					"dbf_id": 64631,
+					"count": 2
+				},
+				{
+					"dbf_id": 62812,
+					"count": 2
+				},
+				{
+					"dbf_id": 78419,
 					"count": 1
 				},
 				{
-					"dbf_id": 73906,
-					"count": 1
-				},
-				{
-					"dbf_id": 72935,
-					"count": 1
-				},
-				{
-					"dbf_id": 72923,
-					"count": 1
-				},
-				{
-					"dbf_id": 69604,
-					"count": 1
-				},
-				{
-					"dbf_id": 67803,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Magical Mastery",
-			"class": 4,
-			"deck_id": 4712,
-			"cards": [
-				{
-					"dbf_id": 76273,
-					"count": 2
-				},
-				{
-					"dbf_id": 71290,
-					"count": 2
-				},
-				{
-					"dbf_id": 70011,
-					"count": 2
-				},
-				{
-					"dbf_id": 69702,
-					"count": 2
-				},
-				{
-					"dbf_id": 69608,
-					"count": 2
-				},
-				{
-					"dbf_id": 67873,
-					"count": 2
-				},
-				{
-					"dbf_id": 67871,
-					"count": 2
-				},
-				{
-					"dbf_id": 65683,
-					"count": 2
-				},
-				{
-					"dbf_id": 65682,
-					"count": 2
-				},
-				{
-					"dbf_id": 64433,
-					"count": 2
-				},
-				{
-					"dbf_id": 64423,
-					"count": 2
-				},
-				{
-					"dbf_id": 63673,
-					"count": 2
-				},
-				{
-					"dbf_id": 76271,
-					"count": 1
-				},
-				{
-					"dbf_id": 70204,
-					"count": 1
-				},
-				{
-					"dbf_id": 70015,
-					"count": 1
-				},
-				{
-					"dbf_id": 67874,
-					"count": 1
-				},
-				{
-					"dbf_id": 67224,
-					"count": 1
-				},
-				{
-					"dbf_id": 66848,
+					"dbf_id": 78270,
 					"count": 1
 				}
 			]
@@ -809,14 +671,26 @@
 		{
 			"title": "Techtonic Titans",
 			"class": 4,
-			"deck_id": 4713,
+			"deck_id": 4984,
 			"cards": [
+				{
+					"dbf_id": 86548,
+					"count": 2
+				},
 				{
 					"dbf_id": 77016,
 					"count": 2
 				},
 				{
 					"dbf_id": 73906,
+					"count": 2
+				},
+				{
+					"dbf_id": 72932,
+					"count": 2
+				},
+				{
+					"dbf_id": 72931,
 					"count": 2
 				},
 				{
@@ -848,24 +722,8 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 69501,
-					"count": 2
-				},
-				{
-					"dbf_id": 67871,
-					"count": 2
-				},
-				{
 					"dbf_id": 64707,
 					"count": 2
-				},
-				{
-					"dbf_id": 77609,
-					"count": 1
-				},
-				{
-					"dbf_id": 76271,
-					"count": 1
 				},
 				{
 					"dbf_id": 73068,
@@ -876,7 +734,82 @@
 					"count": 1
 				},
 				{
-					"dbf_id": 64433,
+					"dbf_id": 70015,
+					"count": 1
+				},
+				{
+					"dbf_id": 65683,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Volatile Magic",
+			"class": 4,
+			"deck_id": 4941,
+			"cards": [
+				{
+					"dbf_id": 84356,
+					"count": 2
+				},
+				{
+					"dbf_id": 84354,
+					"count": 2
+				},
+				{
+					"dbf_id": 84169,
+					"count": 2
+				},
+				{
+					"dbf_id": 79482,
+					"count": 2
+				},
+				{
+					"dbf_id": 77659,
+					"count": 2
+				},
+				{
+					"dbf_id": 75866,
+					"count": 2
+				},
+				{
+					"dbf_id": 72924,
+					"count": 2
+				},
+				{
+					"dbf_id": 72598,
+					"count": 2
+				},
+				{
+					"dbf_id": 72583,
+					"count": 2
+				},
+				{
+					"dbf_id": 69500,
+					"count": 2
+				},
+				{
+					"dbf_id": 67873,
+					"count": 2
+				},
+				{
+					"dbf_id": 64430,
+					"count": 2
+				},
+				{
+					"dbf_id": 63056,
+					"count": 2
+				},
+				{
+					"dbf_id": 78394,
+					"count": 1
+				},
+				{
+					"dbf_id": 76312,
+					"count": 1
+				},
+				{
+					"dbf_id": 66856,
 					"count": 1
 				},
 				{
@@ -886,80 +819,76 @@
 			]
 		},
 		{
-			"title": "The Immovable Object",
-			"class": 5,
-			"deck_id": 4702,
+			"title": "Abyssal Assault",
+			"class": 14,
+			"deck_id": 4976,
 			"cards": [
 				{
-					"dbf_id": 71248,
+					"dbf_id": 75072,
 					"count": 2
 				},
 				{
-					"dbf_id": 70264,
+					"dbf_id": 73906,
 					"count": 2
 				},
 				{
-					"dbf_id": 70263,
+					"dbf_id": 72984,
 					"count": 2
 				},
 				{
-					"dbf_id": 70262,
+					"dbf_id": 71944,
 					"count": 2
 				},
 				{
-					"dbf_id": 70261,
+					"dbf_id": 71694,
 					"count": 2
 				},
 				{
-					"dbf_id": 69614,
+					"dbf_id": 69684,
 					"count": 2
 				},
 				{
-					"dbf_id": 69532,
+					"dbf_id": 69586,
 					"count": 2
 				},
 				{
-					"dbf_id": 67211,
+					"dbf_id": 69558,
 					"count": 2
 				},
 				{
-					"dbf_id": 65591,
+					"dbf_id": 67204,
 					"count": 2
 				},
 				{
-					"dbf_id": 64523,
+					"dbf_id": 64629,
 					"count": 2
 				},
 				{
-					"dbf_id": 64367,
+					"dbf_id": 64396,
 					"count": 2
 				},
 				{
-					"dbf_id": 62924,
+					"dbf_id": 64393,
 					"count": 2
 				},
 				{
-					"dbf_id": 86546,
+					"dbf_id": 63682,
+					"count": 2
+				},
+				{
+					"dbf_id": 73726,
 					"count": 1
 				},
 				{
-					"dbf_id": 70255,
+					"dbf_id": 73723,
 					"count": 1
 				},
 				{
-					"dbf_id": 70244,
+					"dbf_id": 72117,
 					"count": 1
 				},
 				{
-					"dbf_id": 67040,
-					"count": 1
-				},
-				{
-					"dbf_id": 64661,
-					"count": 1
-				},
-				{
-					"dbf_id": 62993,
+					"dbf_id": 66951,
 					"count": 1
 				}
 			]
@@ -967,7 +896,7 @@
 		{
 			"title": "Popping Bubbles",
 			"class": 5,
-			"deck_id": 4703,
+			"deck_id": 4979,
 			"cards": [
 				{
 					"dbf_id": 86548,
@@ -990,6 +919,10 @@
 					"count": 2
 				},
 				{
+					"dbf_id": 72931,
+					"count": 2
+				},
+				{
 					"dbf_id": 72926,
 					"count": 2
 				},
@@ -1002,15 +935,74 @@
 					"count": 2
 				},
 				{
+					"dbf_id": 70265,
+					"count": 2
+				},
+				{
 					"dbf_id": 69718,
 					"count": 2
 				},
 				{
-					"dbf_id": 64707,
+					"dbf_id": 69705,
 					"count": 2
 				},
 				{
 					"dbf_id": 64554,
+					"count": 2
+				},
+				{
+					"dbf_id": 64368,
+					"count": 2
+				},
+				{
+					"dbf_id": 71984,
+					"count": 1
+				},
+				{
+					"dbf_id": 67040,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "A Legendary Invitation",
+			"class": 5,
+			"deck_id": 4945,
+			"cards": [
+				{
+					"dbf_id": 82316,
+					"count": 2
+				},
+				{
+					"dbf_id": 78393,
+					"count": 2
+				},
+				{
+					"dbf_id": 78156,
+					"count": 2
+				},
+				{
+					"dbf_id": 78143,
+					"count": 2
+				},
+				{
+					"dbf_id": 78080,
+					"count": 2
+				},
+				{
+					"dbf_id": 76258,
+					"count": 2
+				},
+				{
+					"dbf_id": 73424,
+					"count": 2
+				},
+				{
+					"dbf_id": 71248,
+					"count": 2
+				},
+				{
+					"dbf_id": 69614,
 					"count": 2
 				},
 				{
@@ -1022,7 +1014,19 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 73068,
+					"dbf_id": 62924,
+					"count": 2
+				},
+				{
+					"dbf_id": 78146,
+					"count": 1
+				},
+				{
+					"dbf_id": 78086,
+					"count": 1
+				},
+				{
+					"dbf_id": 78081,
 					"count": 1
 				},
 				{
@@ -1034,82 +1038,90 @@
 					"count": 1
 				},
 				{
-					"dbf_id": 64546,
+					"dbf_id": 62993,
 					"count": 1
 				}
 			]
 		},
 		{
-			"title": "Deathrattle Disciples",
-			"class": 6,
-			"deck_id": 4698,
+			"title": "Embrace the Pain",
+			"class": 10,
+			"deck_id": 4946,
 			"cards": [
 				{
-					"dbf_id": 71252,
+					"dbf_id": 82313,
 					"count": 2
 				},
 				{
-					"dbf_id": 70024,
+					"dbf_id": 78373,
 					"count": 2
 				},
 				{
-					"dbf_id": 70021,
+					"dbf_id": 78142,
 					"count": 2
 				},
 				{
-					"dbf_id": 69569,
+					"dbf_id": 77311,
 					"count": 2
 				},
 				{
-					"dbf_id": 69509,
+					"dbf_id": 77244,
 					"count": 2
 				},
 				{
-					"dbf_id": 67759,
+					"dbf_id": 76316,
 					"count": 2
 				},
 				{
-					"dbf_id": 66861,
+					"dbf_id": 69639,
 					"count": 2
 				},
 				{
-					"dbf_id": 65676,
+					"dbf_id": 69556,
 					"count": 2
 				},
 				{
-					"dbf_id": 64391,
+					"dbf_id": 69535,
 					"count": 2
 				},
 				{
-					"dbf_id": 62878,
+					"dbf_id": 64277,
 					"count": 2
 				},
 				{
-					"dbf_id": 62875,
+					"dbf_id": 63128,
 					"count": 2
 				},
 				{
-					"dbf_id": 62874,
-					"count": 2
-				},
-				{
-					"dbf_id": 62873,
-					"count": 2
-				},
-				{
-					"dbf_id": 70258,
+					"dbf_id": 77704,
 					"count": 1
 				},
 				{
-					"dbf_id": 67048,
+					"dbf_id": 77313,
 					"count": 1
 				},
 				{
-					"dbf_id": 64392,
+					"dbf_id": 69643,
 					"count": 1
 				},
 				{
-					"dbf_id": 63188,
+					"dbf_id": 66876,
+					"count": 1
+				},
+				{
+					"dbf_id": 65599,
+					"count": 1
+				},
+				{
+					"dbf_id": 63701,
+					"count": 1
+				},
+				{
+					"dbf_id": 63125,
+					"count": 1
+				},
+				{
+					"dbf_id": 62587,
 					"count": 1
 				}
 			]
@@ -1117,18 +1129,22 @@
 		{
 			"title": "How Illuminating",
 			"class": 6,
-			"deck_id": 4699,
+			"deck_id": 4977,
 			"cards": [
 				{
 					"dbf_id": 76277,
 					"count": 2
 				},
 				{
-					"dbf_id": 76276,
+					"dbf_id": 73906,
 					"count": 2
 				},
 				{
-					"dbf_id": 73906,
+					"dbf_id": 72598,
+					"count": 2
+				},
+				{
+					"dbf_id": 72583,
 					"count": 2
 				},
 				{
@@ -1144,10 +1160,6 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 72482,
-					"count": 2
-				},
-				{
 					"dbf_id": 71944,
 					"count": 2
 				},
@@ -1156,7 +1168,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 70026,
+					"dbf_id": 71917,
 					"count": 2
 				},
 				{
@@ -1172,15 +1184,11 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 76318,
-					"count": 1
+					"dbf_id": 64391,
+					"count": 2
 				},
 				{
-					"dbf_id": 76275,
-					"count": 1
-				},
-				{
-					"dbf_id": 72923,
+					"dbf_id": 76310,
 					"count": 1
 				},
 				{
@@ -1191,11 +1199,98 @@
 		},
 		{
 			"title": "Identity Thief",
-			"class": 7,
-			"deck_id": 4706,
+			"class": 6,
+			"deck_id": 4947,
 			"cards": [
 				{
-					"dbf_id": 86540,
+					"dbf_id": 86535,
+					"count": 2
+				},
+				{
+					"dbf_id": 82310,
+					"count": 2
+				},
+				{
+					"dbf_id": 77370,
+					"count": 2
+				},
+				{
+					"dbf_id": 77368,
+					"count": 2
+				},
+				{
+					"dbf_id": 77305,
+					"count": 2
+				},
+				{
+					"dbf_id": 77298,
+					"count": 2
+				},
+				{
+					"dbf_id": 75922,
+					"count": 2
+				},
+				{
+					"dbf_id": 71252,
+					"count": 2
+				},
+				{
+					"dbf_id": 71226,
+					"count": 2
+				},
+				{
+					"dbf_id": 70026,
+					"count": 2
+				},
+				{
+					"dbf_id": 69566,
+					"count": 2
+				},
+				{
+					"dbf_id": 66861,
+					"count": 2
+				},
+				{
+					"dbf_id": 78405,
+					"count": 1
+				},
+				{
+					"dbf_id": 72488,
+					"count": 1
+				},
+				{
+					"dbf_id": 71684,
+					"count": 1
+				},
+				{
+					"dbf_id": 71333,
+					"count": 1
+				},
+				{
+					"dbf_id": 63188,
+					"count": 1
+				},
+				{
+					"dbf_id": 62873,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Jackpot!",
+			"class": 7,
+			"deck_id": 4981,
+			"cards": [
+				{
+					"dbf_id": 80121,
+					"count": 2
+				},
+				{
+					"dbf_id": 72533,
+					"count": 2
+				},
+				{
+					"dbf_id": 72119,
 					"count": 2
 				},
 				{
@@ -1211,106 +1306,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 70203,
-					"count": 2
-				},
-				{
 					"dbf_id": 70202,
-					"count": 2
-				},
-				{
-					"dbf_id": 69742,
-					"count": 2
-				},
-				{
-					"dbf_id": 69622,
-					"count": 2
-				},
-				{
-					"dbf_id": 69521,
-					"count": 2
-				},
-				{
-					"dbf_id": 66874,
-					"count": 2
-				},
-				{
-					"dbf_id": 65598,
-					"count": 2
-				},
-				{
-					"dbf_id": 65597,
-					"count": 2
-				},
-				{
-					"dbf_id": 86539,
-					"count": 1
-				},
-				{
-					"dbf_id": 70523,
-					"count": 1
-				},
-				{
-					"dbf_id": 66939,
-					"count": 1
-				},
-				{
-					"dbf_id": 64673,
-					"count": 1
-				},
-				{
-					"dbf_id": 63358,
-					"count": 1
-				},
-				{
-					"dbf_id": 62359,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Ahoy Cap'n!",
-			"class": 7,
-			"deck_id": 4707,
-			"cards": [
-				{
-					"dbf_id": 77210,
-					"count": 2
-				},
-				{
-					"dbf_id": 77208,
-					"count": 2
-				},
-				{
-					"dbf_id": 74890,
-					"count": 2
-				},
-				{
-					"dbf_id": 73906,
-					"count": 2
-				},
-				{
-					"dbf_id": 72533,
-					"count": 2
-				},
-				{
-					"dbf_id": 72480,
-					"count": 2
-				},
-				{
-					"dbf_id": 72473,
-					"count": 2
-				},
-				{
-					"dbf_id": 72119,
-					"count": 2
-				},
-				{
-					"dbf_id": 72111,
-					"count": 2
-				},
-				{
-					"dbf_id": 69742,
 					"count": 2
 				},
 				{
@@ -1322,42 +1318,149 @@
 					"count": 2
 				},
 				{
+					"dbf_id": 65597,
+					"count": 2
+				},
+				{
+					"dbf_id": 64372,
+					"count": 2
+				},
+				{
+					"dbf_id": 63358,
+					"count": 2
+				},
+				{
 					"dbf_id": 62890,
 					"count": 2
+				},
+				{
+					"dbf_id": 86539,
+					"count": 1
+				},
+				{
+					"dbf_id": 72923,
+					"count": 1
+				},
+				{
+					"dbf_id": 66939,
+					"count": 1
+				},
+				{
+					"dbf_id": 64673,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Sinstone Secrets",
+			"class": 7,
+			"deck_id": 4943,
+			"cards": [
+				{
+					"dbf_id": 82369,
+					"count": 2
+				},
+				{
+					"dbf_id": 78275,
+					"count": 2
+				},
+				{
+					"dbf_id": 77557,
+					"count": 2
+				},
+				{
+					"dbf_id": 77151,
+					"count": 2
+				},
+				{
+					"dbf_id": 77150,
+					"count": 2
+				},
+				{
+					"dbf_id": 77148,
+					"count": 2
+				},
+				{
+					"dbf_id": 74890,
+					"count": 2
+				},
+				{
+					"dbf_id": 72119,
+					"count": 2
+				},
+				{
+					"dbf_id": 72111,
+					"count": 2
+				},
+				{
+					"dbf_id": 69623,
+					"count": 2
+				},
+				{
+					"dbf_id": 69622,
+					"count": 2
+				},
+				{
+					"dbf_id": 65597,
+					"count": 2
+				},
+				{
+					"dbf_id": 77558,
+					"count": 1
+				},
+				{
+					"dbf_id": 77152,
+					"count": 1
+				},
+				{
+					"dbf_id": 77149,
+					"count": 1
 				},
 				{
 					"dbf_id": 72536,
 					"count": 1
 				},
 				{
-					"dbf_id": 72495,
-					"count": 1
-				},
-				{
-					"dbf_id": 71690,
-					"count": 1
-				},
-				{
 					"dbf_id": 66939,
+					"count": 1
+				},
+				{
+					"dbf_id": 65599,
 					"count": 1
 				}
 			]
 		},
 		{
-			"title": "Frost Bites!",
+			"title": "Murloc Overload",
 			"class": 8,
-			"deck_id": 4708,
+			"deck_id": 4982,
 			"cards": [
 				{
-					"dbf_id": 76295,
+					"dbf_id": 76270,
 					"count": 2
 				},
 				{
-					"dbf_id": 76293,
+					"dbf_id": 75589,
 					"count": 2
 				},
 				{
-					"dbf_id": 71234,
+					"dbf_id": 75586,
+					"count": 2
+				},
+				{
+					"dbf_id": 73906,
+					"count": 2
+				},
+				{
+					"dbf_id": 72021,
+					"count": 2
+				},
+				{
+					"dbf_id": 69675,
+					"count": 2
+				},
+				{
+					"dbf_id": 69666,
 					"count": 2
 				},
 				{
@@ -1365,66 +1468,82 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 67932,
+					"dbf_id": 63509,
 					"count": 2
 				},
 				{
-					"dbf_id": 67861,
+					"dbf_id": 63069,
 					"count": 2
 				},
 				{
-					"dbf_id": 67833,
+					"dbf_id": 62515,
 					"count": 2
 				},
 				{
-					"dbf_id": 67769,
+					"dbf_id": 62484,
 					"count": 2
 				},
 				{
-					"dbf_id": 67761,
+					"dbf_id": 62483,
 					"count": 2
 				},
 				{
-					"dbf_id": 67751,
-					"count": 2
-				},
-				{
-					"dbf_id": 67352,
-					"count": 2
-				},
-				{
-					"dbf_id": 67192,
-					"count": 2
-				},
-				{
-					"dbf_id": 66880,
-					"count": 2
-				},
-				{
-					"dbf_id": 65619,
-					"count": 2
+					"dbf_id": 77554,
+					"count": 1
 				},
 				{
 					"dbf_id": 67779,
 					"count": 1
 				},
 				{
-					"dbf_id": 67778,
+					"dbf_id": 65700,
+					"count": 1
+				},
+				{
+					"dbf_id": 63272,
 					"count": 1
 				}
 			]
 		},
 		{
-			"title": "Ooh Shiny",
+			"title": "Primordial Evolution",
 			"class": 8,
-			"deck_id": 4709,
+			"deck_id": 4942,
 			"cards": [
 				{
-					"dbf_id": 76295,
+					"dbf_id": 77491,
 					"count": 2
 				},
 				{
-					"dbf_id": 72508,
+					"dbf_id": 77428,
+					"count": 2
+				},
+				{
+					"dbf_id": 76982,
+					"count": 2
+				},
+				{
+					"dbf_id": 76981,
+					"count": 2
+				},
+				{
+					"dbf_id": 76975,
+					"count": 2
+				},
+				{
+					"dbf_id": 75589,
+					"count": 2
+				},
+				{
+					"dbf_id": 74652,
+					"count": 2
+				},
+				{
+					"dbf_id": 73906,
+					"count": 2
+				},
+				{
+					"dbf_id": 72598,
 					"count": 2
 				},
 				{
@@ -1432,98 +1551,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 72316,
-					"count": 2
-				},
-				{
-					"dbf_id": 69625,
-					"count": 2
-				},
-				{
-					"dbf_id": 68187,
-					"count": 2
-				},
-				{
-					"dbf_id": 67932,
-					"count": 2
-				},
-				{
-					"dbf_id": 67861,
-					"count": 2
-				},
-				{
-					"dbf_id": 67833,
-					"count": 2
-				},
-				{
-					"dbf_id": 67769,
-					"count": 2
-				},
-				{
-					"dbf_id": 65704,
-					"count": 2
-				},
-				{
 					"dbf_id": 65619,
-					"count": 2
-				},
-				{
-					"dbf_id": 64773,
-					"count": 2
-				},
-				{
-					"dbf_id": 62442,
-					"count": 2
-				},
-				{
-					"dbf_id": 72423,
-					"count": 1
-				},
-				{
-					"dbf_id": 67779,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Fear Fueled Felfire",
-			"class": 9,
-			"deck_id": 4714,
-			"cards": [
-				{
-					"dbf_id": 70118,
-					"count": 2
-				},
-				{
-					"dbf_id": 70107,
-					"count": 2
-				},
-				{
-					"dbf_id": 69986,
-					"count": 2
-				},
-				{
-					"dbf_id": 69735,
-					"count": 2
-				},
-				{
-					"dbf_id": 69635,
-					"count": 2
-				},
-				{
-					"dbf_id": 67826,
-					"count": 2
-				},
-				{
-					"dbf_id": 67758,
-					"count": 2
-				},
-				{
-					"dbf_id": 64899,
-					"count": 2
-				},
-				{
-					"dbf_id": 64897,
 					"count": 2
 				},
 				{
@@ -1531,212 +1559,180 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 64704,
-					"count": 2
-				},
-				{
-					"dbf_id": 62486,
-					"count": 2
-				},
-				{
-					"dbf_id": 70255,
+					"dbf_id": 77554,
 					"count": 1
 				},
 				{
-					"dbf_id": 69637,
+					"dbf_id": 76985,
 					"count": 1
-				},
-				{
-					"dbf_id": 67760,
-					"count": 1
-				},
-				{
-					"dbf_id": 64903,
-					"count": 1
-				},
-				{
-					"dbf_id": 64898,
-					"count": 1
-				},
-				{
-					"dbf_id": 63218,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Za'qul's Curse",
-			"class": 9,
-			"deck_id": 4715,
-			"cards": [
-				{
-					"dbf_id": 76315,
-					"count": 2
-				},
-				{
-					"dbf_id": 73442,
-					"count": 2
-				},
-				{
-					"dbf_id": 73436,
-					"count": 2
-				},
-				{
-					"dbf_id": 72583,
-					"count": 2
-				},
-				{
-					"dbf_id": 72318,
-					"count": 2
-				},
-				{
-					"dbf_id": 70107,
-					"count": 2
-				},
-				{
-					"dbf_id": 69735,
-					"count": 2
-				},
-				{
-					"dbf_id": 69553,
-					"count": 2
-				},
-				{
-					"dbf_id": 64899,
-					"count": 2
-				},
-				{
-					"dbf_id": 64704,
-					"count": 2
-				},
-				{
-					"dbf_id": 63677,
-					"count": 2
 				},
 				{
 					"dbf_id": 76312,
 					"count": 1
 				},
 				{
+					"dbf_id": 67779,
+					"count": 1
+				},
+				{
+					"dbf_id": 64774,
+					"count": 1
+				},
+				{
+					"dbf_id": 63272,
+					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Mrglock",
+			"class": 9,
+			"deck_id": 4985,
+			"cards": [
+				{
+					"dbf_id": 76926,
+					"count": 2
+				},
+				{
+					"dbf_id": 76270,
+					"count": 2
+				},
+				{
+					"dbf_id": 74652,
+					"count": 2
+				},
+				{
+					"dbf_id": 73906,
+					"count": 2
+				},
+				{
+					"dbf_id": 73443,
+					"count": 2
+				},
+				{
+					"dbf_id": 72320,
+					"count": 2
+				},
+				{
+					"dbf_id": 72254,
+					"count": 2
+				},
+				{
+					"dbf_id": 72021,
+					"count": 2
+				},
+				{
+					"dbf_id": 71924,
+					"count": 2
+				},
+				{
+					"dbf_id": 69723,
+					"count": 2
+				},
+				{
+					"dbf_id": 69675,
+					"count": 2
+				},
+				{
+					"dbf_id": 69666,
+					"count": 2
+				},
+				{
+					"dbf_id": 62484,
+					"count": 2
+				},
+				{
+					"dbf_id": 62483,
+					"count": 2
+				},
+				{
 					"dbf_id": 74741,
 					"count": 1
 				},
 				{
-					"dbf_id": 73446,
+					"dbf_id": 71781,
 					"count": 1
+				}
+			]
+		},
+		{
+			"title": "Impfused with Power",
+			"class": 9,
+			"deck_id": 4940,
+			"cards": [
+				{
+					"dbf_id": 79147,
+					"count": 2
 				},
 				{
-					"dbf_id": 69655,
+					"dbf_id": 78373,
+					"count": 2
+				},
+				{
+					"dbf_id": 77057,
+					"count": 2
+				},
+				{
+					"dbf_id": 77056,
+					"count": 2
+				},
+				{
+					"dbf_id": 77055,
+					"count": 2
+				},
+				{
+					"dbf_id": 76282,
+					"count": 2
+				},
+				{
+					"dbf_id": 76281,
+					"count": 2
+				},
+				{
+					"dbf_id": 73906,
+					"count": 2
+				},
+				{
+					"dbf_id": 69734,
+					"count": 2
+				},
+				{
+					"dbf_id": 69636,
+					"count": 2
+				},
+				{
+					"dbf_id": 65605,
+					"count": 2
+				},
+				{
+					"dbf_id": 64895,
+					"count": 2
+				},
+				{
+					"dbf_id": 64893,
+					"count": 2
+				},
+				{
+					"dbf_id": 63220,
+					"count": 2
+				},
+				{
+					"dbf_id": 78363,
 					"count": 1
 				},
 				{
 					"dbf_id": 67760,
 					"count": 1
-				},
-				{
-					"dbf_id": 64720,
-					"count": 1
-				},
-				{
-					"dbf_id": 63218,
-					"count": 1
-				},
-				{
-					"dbf_id": 63191,
-					"count": 1
 				}
 			]
 		},
 		{
-			"title": "For the Horde!",
+			"title": "Raid the Docks",
 			"class": 10,
-			"deck_id": 4700,
+			"deck_id": 4978,
 			"cards": [
 				{
-					"dbf_id": 76304,
-					"count": 2
-				},
-				{
-					"dbf_id": 76302,
-					"count": 2
-				},
-				{
-					"dbf_id": 72460,
-					"count": 2
-				},
-				{
-					"dbf_id": 70012,
-					"count": 2
-				},
-				{
-					"dbf_id": 69676,
-					"count": 2
-				},
-				{
-					"dbf_id": 69641,
-					"count": 2
-				},
-				{
-					"dbf_id": 69640,
-					"count": 2
-				},
-				{
-					"dbf_id": 69535,
-					"count": 2
-				},
-				{
-					"dbf_id": 67194,
-					"count": 2
-				},
-				{
-					"dbf_id": 67193,
-					"count": 2
-				},
-				{
-					"dbf_id": 65691,
-					"count": 2
-				},
-				{
-					"dbf_id": 65656,
-					"count": 2
-				},
-				{
-					"dbf_id": 63118,
-					"count": 2
-				},
-				{
-					"dbf_id": 70282,
-					"count": 1
-				},
-				{
-					"dbf_id": 66876,
-					"count": 1
-				},
-				{
-					"dbf_id": 64711,
-					"count": 1
-				},
-				{
-					"dbf_id": 63119,
-					"count": 1
-				}
-			]
-		},
-		{
-			"title": "Woah Nellie!",
-			"class": 10,
-			"deck_id": 4701,
-			"cards": [
-				{
-					"dbf_id": 76304,
-					"count": 2
-				},
-				{
-					"dbf_id": 76302,
-					"count": 2
-				},
-				{
-					"dbf_id": 74672,
+					"dbf_id": 73906,
 					"count": 2
 				},
 				{
@@ -1744,39 +1740,47 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 72590,
+					"dbf_id": 72105,
 					"count": 2
 				},
 				{
-					"dbf_id": 72588,
+					"dbf_id": 71690,
 					"count": 2
 				},
 				{
-					"dbf_id": 69641,
+					"dbf_id": 69679,
 					"count": 2
 				},
 				{
-					"dbf_id": 69640,
+					"dbf_id": 69677,
 					"count": 2
 				},
 				{
-					"dbf_id": 67193,
+					"dbf_id": 66854,
 					"count": 2
 				},
 				{
-					"dbf_id": 65691,
+					"dbf_id": 65692,
 					"count": 2
 				},
 				{
-					"dbf_id": 65656,
+					"dbf_id": 64975,
 					"count": 2
 				},
 				{
-					"dbf_id": 64196,
+					"dbf_id": 64279,
 					"count": 2
 				},
 				{
-					"dbf_id": 63118,
+					"dbf_id": 64278,
+					"count": 2
+				},
+				{
+					"dbf_id": 64277,
+					"count": 2
+				},
+				{
+					"dbf_id": 62462,
 					"count": 2
 				},
 				{
@@ -1784,15 +1788,15 @@
 					"count": 1
 				},
 				{
-					"dbf_id": 66876,
+					"dbf_id": 65599,
 					"count": 1
 				},
 				{
-					"dbf_id": 64716,
+					"dbf_id": 64280,
 					"count": 1
 				},
 				{
-					"dbf_id": 63375,
+					"dbf_id": 63374,
 					"count": 1
 				}
 			]
