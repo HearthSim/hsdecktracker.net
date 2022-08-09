@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.2</title>
+            <pubDate>Mon, 08 Aug 2022 16:41:46 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed bug importing deck lists from file&lt;/li&gt;
+&lt;li&gt;Fixed Location cards not showing in the opponent tracker&lt;/li&gt;
+&lt;li&gt;Fixed deck manager not showing card counts if scrollbar was visible&lt;/li&gt;
+&lt;li&gt;Added code to prevent some crashes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="79417798" sparkle:dsaSignature="MCwCFG+xRTYPneOKmWOxRuEt9Dn55Yw7AhQTCS0DdGaz86p2dnIMjSmP+ceHXQ==" sparkle:shortVersionString="2.2.2" sparkle:version="2540" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.1</title>
             <pubDate>Wed, 03 Aug 2022 16:22:46 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
