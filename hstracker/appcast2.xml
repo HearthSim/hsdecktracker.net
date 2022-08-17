@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.3</title>
+            <pubDate>Tue, 16 Aug 2022 20:03:14 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for patch 24.0.3&lt;/li&gt;
+&lt;li&gt;Added update reminder and notifications for future updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Secrets countered by Blademaster Okami were not handled correctly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2550</sparkle:version>
+            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="74689249" sparkle:dsaSignature="MCwCFFWYKVCKIYfeomdC/EZEp7g2LfOUAhRZHIegtC5TFMAPV725oIOmo0mlMg==" sparkle:edSignature="zvsmXhR4V1HpOLN5FXcl7dsiGysrmIC5h+n0v4ChvIjPWk3tdQzFkAnzjSxZBbzxnYB9EC020qUmELT1pmfMBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.2</title>
             <pubDate>Mon, 08 Aug 2022 16:41:46 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
