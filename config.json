@@ -265,13 +265,7 @@
 			"short_name": "Togwaggle"
 		}
 	],
-	"battlegrounds_tag_overrides": [
-		{
-			"dbf_id": 72389,
-			"tag": 1456,
-			"value": 0
-		}
-	],
+	"battlegrounds_tag_overrides": [],
 	"whizbang_decks": [
 		{
 			"title": "The Relic Vault",
