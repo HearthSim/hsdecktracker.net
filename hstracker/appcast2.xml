@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.4</title>
+            <pubDate>Wed, 31 Aug 2022 08:16:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for patch 24.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Prevent crash during log parsing under some rare condition and log it for further analysis&lt;/li&gt;
+&lt;li&gt;Fixed an issue where it was revealed that the opponent was playing Renathal during mulligan.
+&lt;strong&gt;Notes&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;There are likely still issues with some new cards in Bob's Buddy. We will update these in the coming days.&lt;/li&gt;
+&lt;li&gt;Tooltips for vaious Battlegrounds cards may still be missing but should start appearing soon.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2563</sparkle:version>
+            <sparkle:shortVersionString>2.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="75025945" sparkle:dsaSignature="MC0CFQCRk4j7KG3c0T62v4olcABuxsrelgIUeyikQoeg2Ofu95Ge0QtoCcfAhE8=" sparkle:edSignature="i5ypUjBW51lqQFQoEBCnFg9cOOmhbsb46PBR5n/KuLVwibZTzIqeH3YHDx4KOVSwbZyscItNTkMdobI1jJsUCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.4/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.3</title>
             <pubDate>Tue, 16 Aug 2022 20:03:14 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
