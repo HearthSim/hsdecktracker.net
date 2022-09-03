@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.5</title>
+            <pubDate>Sat, 03 Sep 2022 08:58:22 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed various more Bob's Buddy simulation issues related to Hearthstone 24.2.0.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2566</sparkle:version>
+            <sparkle:shortVersionString>2.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure length="75025802" sparkle:dsaSignature="MCwCFFBTuSSH3y6KGG9aVnCpHoSuYz/zAhR/yQmDpxqyNOPPPNS7dcrDA6RNuA==" sparkle:edSignature="GyDCM1RE90mZUp4VUhQ5olWTzdc6DxgYpVII9zGZnsTX7BJTnCOeNZQ0H0G6uTUNG4zt1CBIWM8TzmTdzWzKCA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.5/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.4</title>
             <pubDate>Wed, 31 Aug 2022 08:16:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
