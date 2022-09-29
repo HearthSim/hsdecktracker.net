@@ -14,11 +14,11 @@
 	"arena": {
 		"current_sets": [
 			"CORE",
-			"KARA",
-			"ULDUM",
-			"TROLL",
-			"SCHOLOMANCE",
-			"DARKMOON_FAIRE",
+			"BRM",
+			"LOOTAPALOOZA",
+			"BLACK_TEMPLE",
+			"UNGORO",
+			"DALARAN",
 			"REVENDRETH"
 		],
 		"banned_secrets": []
