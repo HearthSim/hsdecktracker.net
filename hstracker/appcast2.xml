@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.7</title>
+            <pubDate>Wed, 28 Sep 2022 16:16:14 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 24.4&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2571</sparkle:version>
+            <sparkle:shortVersionString>2.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75130286" sparkle:dsaSignature="MCwCFAFaY03rvuWCNnOKs1DylmyHAgIBAhR9XL5Go7k03WCddXmQ/FV4sTJ35w==" sparkle:edSignature="FnfUtJpIhRglrvz7BtF362UaCLJ5YsbSI42NcYA0yvSOg627cEjYkSX9yGH2SlxUjpjAChA1PbguQlQtnQc2BA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.7/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.6</title>
             <pubDate>Fri, 09 Sep 2022 17:58:49 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
@@ -15,7 +29,7 @@
             <sparkle:shortVersionString>2.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <sparkle:tags>
-                 <sparkle:criticalUpdate></sparkle:criticalUpdate>
+                 <sparkle:criticalUpdate/>
             </sparkle:tags>
             <enclosure length="75030372" sparkle:dsaSignature="MCwCFG/aaN6Neq4kNa7gWi2CRyCQWm8WAhRysL9B07AGNOQnPFUSEBTMk2sMGA==" sparkle:edSignature="9HdT57TSbee835scIbJpsW6WSd1JkY1kvZIQliRQR1rYhrMoQQw5PH4G2r1sqsKeqz3c3xf9ziJNDackeN94Cw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.6/HSTracker.app.zip"/>
         </item><item>
