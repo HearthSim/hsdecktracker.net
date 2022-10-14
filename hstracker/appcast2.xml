@@ -12,6 +12,9 @@
             <sparkle:version>2575</sparkle:version>
             <sparkle:shortVersionString>2.2.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
             <enclosure length="75159342" sparkle:dsaSignature="MC0CFC7j2FizxDzncdS9XbhGi1n4dyWtAhUAgm4P6ZzAMIuB7GS3T0QC4GwGSH0=" sparkle:edSignature="gNnL2dKYsUVuTCQFlM5xMJksQ+a9rAP0EMiLbYBKx6Rt2OF0MatqKdXBvf6w5jqhlsAOqkerp6071MYO6S3tAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.8/HSTracker.app.zip"/>
         </item><item>
             <title>2.2.7</title>
