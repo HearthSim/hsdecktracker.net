@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.9</title>
+            <pubDate>Wed, 02 Nov 2022 23:09:32 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 24.6.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correctly capture the board of Battlegrounds dead opponents&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2579</sparkle:version>
+            <sparkle:shortVersionString>2.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75624713" sparkle:dsaSignature="MCwCFCqHyv/DDT0S3vMujSxXoC6mI7okAhQnF0zH0XkAOeBeRGcWjniNSLyVvw==" sparkle:edSignature="OoK5ZhkevaR5OB7uQD1oQ0uOSE7UtzokuMb/8/Iee3apXL/ZsJOi9WGE5lf+r0MBe6/USwmNfuOMwxK7jkuXAQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.9/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.8</title>
             <pubDate>Thu, 13 Oct 2022 20:15:26 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
