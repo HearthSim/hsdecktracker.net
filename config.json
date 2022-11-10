@@ -14,12 +14,11 @@
 	"arena": {
 		"current_sets": [
 			"CORE",
+			"NAXX",
+			"GVG",
 			"BRM",
-			"LOOTAPALOOZA",
-			"BLACK_TEMPLE",
-			"UNGORO",
-			"DALARAN",
-			"REVENDRETH"
+			"TGT",
+			"LOE"
 		],
 		"banned_secrets": []
 	},
