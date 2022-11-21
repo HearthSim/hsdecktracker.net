@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.2.10</title>
+            <pubDate>Mon, 21 Nov 2022 14:38:38 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for new Mercenaries Visitor tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed various Bob's Buddy simulation issues related to Hearthstone 24.6.0.&lt;/li&gt;
+&lt;li&gt;Fixed an issue in Bob's Buddy where Volatile Venom was not working correctly.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Venomstrike Trap and Frozen Clone were not showing up in the secret tracker.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2585</sparkle:version>
+            <sparkle:shortVersionString>2.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure length="76042117" sparkle:dsaSignature="MC0CFQCKP0oD+ZsUQFAf5dXC3bmmtuDCSgIUKhRdPl4VSEVpRm8BIv1rJkO2k5o=" sparkle:edSignature="FUt8JXLiQ0pXKS4QpqNKA4onW/q3o3u2mmbptg+SZvzsKJK4wbKkNBrjtzyuKEsM0iRP48SoqxBhyQv2Z/x8BQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.2.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.9</title>
             <pubDate>Wed, 02 Nov 2022 23:09:32 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
