@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.0</title>
+            <pubDate>Tue, 29 Nov 2022 17:16:21 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 25.0.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated how Khadgar interacts with Evil Twin in Bob's Buddy&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2586</sparkle:version>
+            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77276581" sparkle:dsaSignature="MCwCFAhLlv5LGBT1GHM/o8CYsdcjrto2AhRa5jt0ecM6WFaL4p80KIc43a7sUw==" sparkle:edSignature="6nm8ZRVgvQos73ur+l2Oto+y87J/C4fJgNSx5t8eOUWdamWGhOg4e09ucuXiwFMK8BpG0jqCEK28IHhbek16CQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.0/HSTracker.app.zip"/>
+        </item><item>
             <title>2.2.10</title>
             <pubDate>Mon, 21 Nov 2022 14:38:38 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
