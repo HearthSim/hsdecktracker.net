@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.3</title>
+            <pubDate>Wed, 07 Dec 2022 11:39:26 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed deck detection with March of the Lich King cards (issue #1292)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2594</sparkle:version>
+            <sparkle:shortVersionString>2.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77313972" sparkle:dsaSignature="MCwCFGsY+u/aqKEujpbd1C1fsH1Ms5LXAhR/mO+HTrmMOBdpRmakmfNm1ETVRg==" sparkle:edSignature="0GZ6ubTs50pxVGRKPtdr5JiDhHmGM0zW7RRpC3271JfdwgVKBNMSqzSwA7VvHvSuQJZ2vOQxiBdJX0eGT2TYDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.2</title>
             <pubDate>Sat, 03 Dec 2022 18:27:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
