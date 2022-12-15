@@ -15,10 +15,12 @@
 		"current_sets": [
 			"CORE",
 			"NAXX",
-			"GVG",
-			"BRM",
-			"TGT",
-			"LOE"
+			"GANGS",
+			"ICECROWN",
+			"GILNEAS",
+			"STORMWIND",
+			"RETURN_OF_THE_LICH_KING",
+			"PATH_OF_ARTHAS"
 		],
 		"banned_secrets": []
 	},
