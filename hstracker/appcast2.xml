@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.4</title>
+            <pubDate>Mon, 19 Dec 2022 16:06:14 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 25.0.4&lt;/li&gt;
+&lt;li&gt;Improved adventure pre-built deck detection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix revealing cards consumed by Souleater's Scythe&lt;/li&gt;
+&lt;li&gt;Fix some collection upload issues&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2599</sparkle:version>
+            <sparkle:shortVersionString>2.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77320002" sparkle:dsaSignature="MCwCFHOAEFYKiqUceD1f3J13gbgILG+SAhQGdxhXJ85RR0Mkv0A5H6GdNxo9NA==" sparkle:edSignature="LJUJF3+FTaWi5uRd8ZSx6xOqkiGXINefU65kSSaBAUWJHLbELY0nNwgrAcmmm2jf5wTIcnLFX4xtZ0Z+z3n8DA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.4/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.3</title>
             <pubDate>Wed, 07 Dec 2022 11:39:26 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
