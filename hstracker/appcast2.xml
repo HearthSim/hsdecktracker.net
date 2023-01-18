@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.6</title>
+            <pubDate>Wed, 18 Jan 2023 17:16:32 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 25.2.0
+&lt;strong&gt;Note:&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;There are likely still issues with some new cards in Bob's Buddy. We will update these in the coming days.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2602</sparkle:version>
+            <sparkle:shortVersionString>2.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77701652" sparkle:dsaSignature="MCwCFE3JmJw8v2Kezm8+IBnhRXCXBb9+AhR6BGWJ6dlPULApQ6HT69FOMRV4Kw==" sparkle:edSignature="EU7S4Au6uynZ4syLXZHpLs2Mch6P+bCRQzbWn4DSxNtsueDUvJPqVdQvdlH1RIAsoU7gW2KpVc7fmMCpxg+vDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.6/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.5</title>
             <pubDate>Thu, 22 Dec 2022 16:36:00 -0300</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
