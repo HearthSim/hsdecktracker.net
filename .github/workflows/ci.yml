@@ -26,6 +26,7 @@ jobs:
         with:
           name: site
           path: ./_site
+          retention-days: 3
 
   deploy:
     runs-on: ubuntu-latest
