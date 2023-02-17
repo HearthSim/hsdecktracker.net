@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.8</title>
+            <pubDate>Fri, 17 Feb 2023 11:35:08 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 24.4&lt;/li&gt;
+&lt;li&gt;Added Battlegrounds Session scaling&lt;/li&gt;
+&lt;li&gt;Added Tier 7 overlays for Hero and Quest picking&lt;/li&gt;
+&lt;li&gt;Added battlecry and deathrattle indicators into minions tier list&lt;/li&gt;
+&lt;li&gt;Updated zh-Zans translations (thanks @moonfruit)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed simulation errors not accounging for Eternal Knight/Undead bonuses&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2611</sparkle:version>
+            <sparkle:shortVersionString>2.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78670202" sparkle:dsaSignature="MCwCFACY7QJKdzRGBPSv9tq4O1MT/A7jAhQI4Bb/y6OEvKwlAOzT2U4oaioWng==" sparkle:edSignature="ApnONrGVOHlZJeT6lmVdIB5OoSIiLMmnRj8IaRfXJpOAlWjd51VACTXMFPQ12SzQ8sceaHSqunusTlzncX5GBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.8/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.7</title>
             <pubDate>Thu, 26 Jan 2023 22:38:47 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
