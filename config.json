@@ -14,13 +14,14 @@
 	"arena": {
 		"current_sets": [
 			"CORE",
-			"NAXX",
-			"GANGS",
-			"ICECROWN",
-			"GILNEAS",
+			"THE_BARRENS",
+			"ALTERAC_VALLEY",
+			"WAILING_CAVERNS",
+			"REVENDRETH",
 			"STORMWIND",
 			"RETURN_OF_THE_LICH_KING",
-			"PATH_OF_ARTHAS"
+			"PATH_OF_ARTHAS",
+            "THE_SUNKEN_CITY"
 		],
 		"banned_secrets": []
 	},
