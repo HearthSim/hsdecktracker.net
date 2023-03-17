@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.3.11</title>
+            <pubDate>Fri, 17 Mar 2023 10:09:56 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed deck detection not working properly (issue #1304)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2615</sparkle:version>
+            <sparkle:shortVersionString>2.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78770486" sparkle:dsaSignature="MC0CFQCHQgGPhkNmZshP+fNrIltOPX+yigIUQoRkBFh9d3z60QT9Huhk2jkog5g=" sparkle:edSignature="0u7z4oePsRYN055Er0aB5LmUwuPhJUyaJ7I1rnQ1lSt5LOowOuxayS4/trSw+CY7ij+IeIV8At0rwDgv4SIaDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.3.11/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.10</title>
             <pubDate>Wed, 15 Mar 2023 17:59:42 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
