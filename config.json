@@ -267,7 +267,13 @@
 			"short_name": "Togwaggle"
 		}
 	],
-	"battlegrounds_tag_overrides": [],
+	"battlegrounds_tag_overrides": [
+		{
+			"dbf_id": 101727,
+			"tag": 1456,
+			"value": 0
+		}
+	],
 	"whizbang_decks": [
 		{
 			"title": "Might of the Frozen Wastes",
