@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.0</title>
+            <pubDate>Wed, 05 Apr 2023 20:48:42 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 26.0.0&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2619</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79772402" sparkle:dsaSignature="MCwCFBJHLerJEWLXZfyBAesLZzFVbsisAhREKDxdh/U21ZD7WwtPY/4Pmx82WA==" sparkle:edSignature="Nr29pFPlGXZJzkrcCsQQWvniK9phb1zjamJxF+lqZ3kq1XpT1AXdRXjVu+8irhwtmlsXE2R7zk10+OQSEEsaCg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.0/HSTracker.app.zip"/>
+        </item><item>
             <title>2.3.12</title>
             <pubDate>Fri, 24 Mar 2023 11:47:08 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
