@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.1</title>
+            <pubDate>Tue, 11 Apr 2023 21:16:07 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Year of the Wolf&lt;/li&gt;
+&lt;li&gt;Added support for the majority of new cards.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2622</sparkle:version>
+            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79773340" sparkle:dsaSignature="MC0CFQCV2hO+yyPGdyQxSuSigmgRpxZaIQIUB/TcrJ9U4YGav6EV7vEBt/dSw54=" sparkle:edSignature="XIU8F2FA4K5zlDtHTkG00QnAjQ07eGV7fqJim82tqidlFbVF8sClvrSbasBPAOkHpSZz1ZWvXLiZmqeLo2auBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.1/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.0</title>
             <pubDate>Wed, 05 Apr 2023 20:48:42 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
