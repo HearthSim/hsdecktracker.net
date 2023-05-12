@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.3</title>
+            <pubDate>Thu, 11 May 2023 20:50:14 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 26.2
+&lt;strong&gt;Notes&lt;/strong&gt;: BobsBuddy simulation still has some issues and unsupported interactions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2626</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75759247" sparkle:dsaSignature="MCwCFDcKbSblXJztOPGbE5r8Ufhtas0uAhQSQIqlVSD+43H+VNuFbvBHoftrEA==" sparkle:edSignature="S1aKncw21mGPQ89UqTcscNjck8wElsSfNIkmonutkNGXC3ImZlIknQ/7AM2t32xOqNv/c5MZ0p7e9xD6EI3RCQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.2</title>
             <pubDate>Fri, 28 Apr 2023 09:33:43 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
