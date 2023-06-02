@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.5</title>
+            <pubDate>Thu, 01 Jun 2023 22:59:39 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 26.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for many Battlecry interactions with Rylak Metalhead&lt;/li&gt;
+&lt;li&gt;Fixed various issues related to cards and mechanics added with Hearthstone 26.2.0.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2628</sparkle:version>
+            <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="76001383" sparkle:dsaSignature="MCwCFH/GhYIVQcyq2p/3eG2wJEYFX/iHAhQZxwuzv7C1T8rJHZBU3hiNVIDGtg==" sparkle:edSignature="ntyTvyLjYbrggWYkaFY52UTykCd792OkK5vxqWaHob6rBqKD/NpJHWLW2G3IVmrZovOfaJKefIMPSjdOQG0sDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.5/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.4</title>
             <pubDate>Sat, 20 May 2023 09:15:50 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
