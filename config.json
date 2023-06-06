@@ -787,6 +787,18 @@
 			"deck_id": 5133,
 			"cards": [
 				{
+					"dbf_id": 72598,
+					"count": 2
+				},
+				{
+					"dbf_id": 79780,
+					"count": 1
+				},
+				{
+					"dbf_id": 79556,
+					"count": 1
+				},
+				{
 					"dbf_id": 79584,
 					"count": 2
 				},
@@ -804,10 +816,6 @@
 				},
 				{
 					"dbf_id": 78264,
-					"count": 2
-				},
-				{
-					"dbf_id": 76223,
 					"count": 2
 				},
 				{
@@ -871,15 +879,7 @@
 					"count": 1
 				},
 				{
-					"dbf_id": 70106,
-					"count": 1
-				},
-				{
 					"dbf_id": 69601,
-					"count": 1
-				},
-				{
-					"dbf_id": 67803,
 					"count": 1
 				}
 			]
@@ -1336,10 +1336,6 @@
 			"deck_id": 5123,
 			"cards": [
 				{
-					"dbf_id": 90644,
-					"count": 2
-				},
-				{
 					"dbf_id": 84586,
 					"count": 2
 				},
@@ -1348,11 +1344,11 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 84206,
+					"dbf_id": 84358,
 					"count": 2
 				},
 				{
-					"dbf_id": 84204,
+					"dbf_id": 84206,
 					"count": 2
 				},
 				{
@@ -1368,19 +1364,11 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 80537,
+					"dbf_id": 80084,
 					"count": 2
 				},
 				{
-					"dbf_id": 66861,
-					"count": 2
-				},
-				{
-					"dbf_id": 65677,
-					"count": 2
-				},
-				{
-					"dbf_id": 65676,
+					"dbf_id": 80019,
 					"count": 2
 				},
 				{
@@ -1388,7 +1376,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 64419,
+					"dbf_id": 64392,
 					"count": 2
 				},
 				{
@@ -1400,7 +1388,7 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 86367,
+					"dbf_id": 86626,
 					"count": 1
 				},
 				{
@@ -1408,23 +1396,7 @@
 					"count": 1
 				},
 				{
-					"dbf_id": 84207,
-					"count": 1
-				},
-				{
-					"dbf_id": 79767,
-					"count": 1
-				},
-				{
-					"dbf_id": 77368,
-					"count": 1
-				},
-				{
-					"dbf_id": 72488,
-					"count": 1
-				},
-				{
-					"dbf_id": 67048,
+					"dbf_id": 72483,
 					"count": 1
 				},
 				{
@@ -1439,27 +1411,19 @@
 			"deck_id": 5131,
 			"cards": [
 				{
+					"dbf_id": 86111,
+					"count": 2
+				},
+				{
 					"dbf_id": 80121,
 					"count": 2
 				},
 				{
-					"dbf_id": 79607,
-					"count": 2
-				},
-				{
-					"dbf_id": 78275,
+					"dbf_id": 77714,
 					"count": 2
 				},
 				{
 					"dbf_id": 77557,
-					"count": 2
-				},
-				{
-					"dbf_id": 77149,
-					"count": 2
-				},
-				{
-					"dbf_id": 77148,
 					"count": 2
 				},
 				{
@@ -1479,10 +1443,6 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 70395,
-					"count": 2
-				},
-				{
 					"dbf_id": 70202,
 					"count": 2
 				},
@@ -1495,23 +1455,23 @@
 					"count": 2
 				},
 				{
-					"dbf_id": 69526,
+					"dbf_id": 65597,
 					"count": 2
 				},
 				{
-					"dbf_id": 65597,
-					"count": 2
+					"dbf_id": 86626,
+					"count": 1
 				},
 				{
 					"dbf_id": 86539,
 					"count": 1
 				},
 				{
-					"dbf_id": 79767,
+					"dbf_id": 86120,
 					"count": 1
 				},
 				{
-					"dbf_id": 75881,
+					"dbf_id": 86092,
 					"count": 1
 				},
 				{
@@ -1520,18 +1480,6 @@
 				},
 				{
 					"dbf_id": 72536,
-					"count": 1
-				},
-				{
-					"dbf_id": 66939,
-					"count": 1
-				},
-				{
-					"dbf_id": 64673,
-					"count": 1
-				},
-				{
-					"dbf_id": 62359,
 					"count": 1
 				}
 			]
@@ -1925,7 +1873,23 @@
 			"deck_id": 5128,
 			"cards": [
 				{
-					"dbf_id": 86552,
+					"dbf_id": 78373,
+					"count": 1
+				},
+				{
+					"dbf_id": 69643,
+					"count": 1
+				},
+				{
+					"dbf_id": 86417,
+					"count": 2
+				},
+				{
+					"dbf_id": 84623,
+					"count": 2
+				},
+				{
+					"dbf_id": 84301,
 					"count": 2
 				},
 				{
@@ -1934,14 +1898,6 @@
 				},
 				{
 					"dbf_id": 79772,
-					"count": 2
-				},
-				{
-					"dbf_id": 79581,
-					"count": 2
-				},
-				{
-					"dbf_id": 78373,
 					"count": 2
 				},
 				{
@@ -1954,10 +1910,6 @@
 				},
 				{
 					"dbf_id": 77244,
-					"count": 2
-				},
-				{
-					"dbf_id": 76318,
 					"count": 2
 				},
 				{
@@ -1977,19 +1929,19 @@
 					"count": 2
 				},
 				{
+					"dbf_id": 93881,
+					"count": 1
+				},
+				{
 					"dbf_id": 77313,
 					"count": 1
 				},
 				{
-					"dbf_id": 76316,
+					"dbf_id": 74894,
 					"count": 1
 				},
 				{
-					"dbf_id": 66876,
-					"count": 1
-				},
-				{
-					"dbf_id": 63125,
+					"dbf_id": 72007,
 					"count": 1
 				}
 			]
