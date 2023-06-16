@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.6</title>
+            <pubDate>Fri, 16 Jun 2023 17:05:49 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 26.4.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve handling of Hearthstone log directory&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2629</sparkle:version>
+            <sparkle:shortVersionString>2.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="76011944" sparkle:dsaSignature="MCwCFD0wCZgzKWuCsWWSz2LhHCTWneutAhRFM9tCL3BKbe9BgDjSz+YQxl5a3g==" sparkle:edSignature="OnRVY9Cz0GkG/8moQRxCJtgwCxwgJghvzW/hdGl8kba7bvYja6PIT73iwyUqgmcoRHvHSDNZSJyr24b/lvRRBw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.6/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.5</title>
             <pubDate>Thu, 01 Jun 2023 22:59:39 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
