@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.9</title>
+            <pubDate>Mon, 10 Jul 2023 10:54:08 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed secrets not showing in Twist mode&lt;/li&gt;
+&lt;li&gt;Add support for Hidden Meaning&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2634</sparkle:version>
+            <sparkle:shortVersionString>2.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="76124898" sparkle:dsaSignature="MCwCFHs55SlAuMtRfCEE1JhfkQU67AKNAhQu1nJHVPv4oS0Ic9mMmeR9tqkk6A==" sparkle:edSignature="qlyECef1m22ERXAUSOcgRQ41C6u5N79AYQNipW+ymz1kFOOj8q+i5+Pie1/eYzTpoSmlLVC6vDaILjSjuQ59Bw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.9/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.8</title>
             <pubDate>Thu, 06 Jul 2023 19:57:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
