@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.4.10</title>
+            <pubDate>Thu, 13 Jul 2023 22:02:53 -0400</pubDate><description>&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated with support for the new Quests and Quest Rewards.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the initial board state used for simulations could be slightly incorrect in some cases.&lt;/li&gt;
+&lt;li&gt;We are actively investigating simulation issues and should have more improvements soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2635</sparkle:version>
+            <sparkle:shortVersionString>2.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="76125432" sparkle:dsaSignature="MC0CFQCOqJcpiZtyge/WinyzGeclrFFciwIULpewmkzcbSl9hgINpIA3lfKsB2s=" sparkle:edSignature="OY5GZbM8AThhNkA/ScpZMB+Iy9Oj4D3V0Yp/pQGhR0bCZ24NSOOHdMfVut2pbwSqaRfpkRh4rPFGxLhNfwURDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.4.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.4.9</title>
             <pubDate>Mon, 10 Jul 2023 10:54:08 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
