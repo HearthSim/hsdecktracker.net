@@ -14,11 +14,13 @@
 	"arena": {
 		"current_sets": [
 			"CORE",
-			"THE_SUNKEN_CITY",
-			"REVENDRETH",
+			"ULDUM",
+			"BLACK_TEMPLE",
+			"DARKMOON_FAIRE",
 			"RETURN_OF_THE_LICH_KING",
 			"PATH_OF_ARTHAS",
-			"BATTLE_OF_THE_BANDS"
+			"BATTLE_OF_THE_BANDS",
+			"TITANS"
 		],
 		"banned_secrets": []
 	},
