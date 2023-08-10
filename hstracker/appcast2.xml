@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.5.1</title>
+            <pubDate>Thu, 10 Aug 2023 19:36:15 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for HSReplay overall statistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added missing Zombeees Hunter secret to list of available secrets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Annihilan Battlemaster&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2641</sparkle:version>
+            <sparkle:shortVersionString>2.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="76790453" sparkle:dsaSignature="MCwCFFs3yY6I7CX/o4kHSoIKQy3pzIjsAhQ3Md7H4MPSkNGPxXwAxgoP8frijg==" sparkle:edSignature="+580u5PaF03NAnPiloOgby8K+rO3e9E9yYGUAITxpF0SRi4eCCIEmKUKEDQ7gMs0j6aMPjuWzJ+C+kf4UyoiBg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.5.1/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.0</title>
             <pubDate>Tue, 01 Aug 2023 17:44:59 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
