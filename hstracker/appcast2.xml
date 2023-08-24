@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.5.2</title>
+            <pubDate>Wed, 23 Aug 2023 22:14:42 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for patch 27.2.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bob's Buddy&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for the new Minions and Anomalies.&lt;/li&gt;
+&lt;li&gt;Added support for Murky.&lt;/li&gt;
+&lt;li&gt;Fixed various issues related to cards and mechanics added with Hearthstone 27.2.0.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Menagerie Mug, Menagerie Jug and Tide Oracle Morgl could crash the simulation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2660</sparkle:version>
+            <sparkle:shortVersionString>2.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77646178" sparkle:dsaSignature="MCwCFAxTe/na/uHMgiY97gdEZ4OG1okwAhRq9tgxM8hMW4JNurVeRxYrdbjVug==" sparkle:edSignature="GSofy+DX1wSTDvA5lzmFpgB/rclYIPhz6addXtYDsh5bSHoYJv6TbtmlnV8IGNZRzBBxhB7naP5Xpsos+y+nDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.5.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.1</title>
             <pubDate>Thu, 10 Aug 2023 19:36:15 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
