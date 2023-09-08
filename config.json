@@ -50,7 +50,7 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.21.4",
+		"min_required_version": "1.21.8",
 		"sentry_reporting": true,
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
