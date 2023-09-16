@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.5.4</title>
+            <pubDate>Sat, 16 Sep 2023 14:32:47 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 27.2.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed turn timer, card turn number, etc... not updating after previous change&lt;/li&gt;
+&lt;li&gt;Fixed Tier 7 pre lobby showing as disabled&lt;/li&gt;
+&lt;li&gt;Added missing Caverns of Time icon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue with a player having multiple Recurring Nightmares.&lt;/li&gt;
+&lt;li&gt;Fixed various card issues related to cards updated in Hearthstone 27.2.2.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2670</sparkle:version>
+            <sparkle:shortVersionString>2.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="77747761" sparkle:dsaSignature="MCwCFE7KdjsEO11skKGtbUV4jne2oNAbAhQ59J2aFSJvxPJC7JdxDlwmHypvrA==" sparkle:edSignature="BZvVX9zr8ksiYtvLR9ZAs+YLLoAouZnZ3OBuFp5uLNHoHkSHPimBSskK5OBLzoxMYNDVOuMggsr6deJ4bgk9Cg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.5.4/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.3</title>
             <pubDate>Thu, 24 Aug 2023 21:32:02 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bob's Buddy&lt;/strong&gt;&lt;/p&gt;
