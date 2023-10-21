@@ -266,6 +266,54 @@
 		{
 			"dbf_id": 86291,
 			"short_name": "Togwaggle"
+		},
+		{
+			"dbf_id": 92960,
+			"short_name": "Denathrius"
+		},
+		{
+			"dbf_id": 103500,
+			"short_name": "Inge"
+		},
+		{
+			"dbf_id": 71916,
+			"short_name": "Mutanus"
+		},
+		{
+			"dbf_id": 103477,
+			"short_name": "Thorim"
+		},
+		{
+			"dbf_id": 99033,
+			"short_name": "Voone"
+		},
+		{
+			"dbf_id": 101130,
+			"short_name": "Hoggar"
+		},
+		{
+			"dbf_id": 89293,
+			"short_name": "Sylvanas"
+		},
+		{
+			"dbf_id": 68192,
+			"short_name": "Guff"
+		},
+		{
+			"dbf_id": 101345,
+			"short_name": "E.T.C."
+		},
+		{
+			"dbf_id": 67186,
+			"short_name": "Jailer"
+		},
+		{
+			"dbf_id": 97813,
+			"short_name": "Putricide"
+		},
+		{
+			"dbf_id": 96870,
+			"short_name": "Enhance-o"
 		}
 	],
 	"battlegrounds_tag_overrides": [
