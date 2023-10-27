@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.5.10</title>
+            <pubDate>Thu, 26 Oct 2023 21:19:47 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 27.6.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where the attack counters were not correctly handling Titans.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Plagues were not correctly added back to the deck when Helya is in play.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2686</sparkle:version>
+            <sparkle:shortVersionString>2.5.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78249802" sparkle:dsaSignature="MCwCFAnFFGbmUmqMVqOYWYOnr1jUVV63AhQtLpGYcWydIr/9OVJzIjiaWL+KTQ==" sparkle:edSignature="aVRC4YJ/WKDvetpv92T9DQf8rHDxyvOIxkA2HeXWrZ8uqzhHIb3Y8hvVN246JLUI66cUvfCMTOcSgbFqJVBnBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.5.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.9</title>
             <pubDate>Tue, 17 Oct 2023 20:06:48 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
