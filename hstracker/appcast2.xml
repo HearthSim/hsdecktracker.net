@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.5.12</title>
+            <pubDate>Mon, 06 Nov 2023 09:46:51 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issue with corrupted battlegrounds opponent board on macOS Sonoma (issue #1329)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2689</sparkle:version>
+            <sparkle:shortVersionString>2.5.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78254848" sparkle:dsaSignature="MCwCFCx2IEviKbk+ZZJh/Igs8J1Qgp0EAhQoUEd8+WLWd1paeBpw+4fcktZVkQ==" sparkle:edSignature="c+ScaCBtsA115S04zjd3g+8SzZ+t2+wU0qmhGDYFgbt2reB8+GRG6L7PcF0VRNn0PzP1cZ0/1whzPeyE5qgNBQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.5.12/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.11</title>
             <pubDate>Sat, 28 Oct 2023 22:02:51 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
