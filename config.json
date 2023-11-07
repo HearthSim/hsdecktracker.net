@@ -15,11 +15,11 @@
 		"current_sets": [
 			"CORE",
 			"PATH_OF_ARTHAS",
-			"DALARAN",
-			"DARKMOON_FAIRE",
-			"THE_BARRENS",
-			"BATTLE_OF_THE_BANDS",
-			"TITANS"
+			"WONDERS",
+			"TITANS",
+			"DRAGONS",
+			"ULDUM",
+			"WILD_WEST"
 		],
 		"banned_secrets": []
 	},
