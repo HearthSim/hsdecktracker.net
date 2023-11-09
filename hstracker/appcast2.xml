@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.0</title>
+            <pubDate>Wed, 08 Nov 2023 20:37:28 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.0.0&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2692</sparkle:version>
+            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78863669" sparkle:dsaSignature="MCwCFE9lCJO1/3lGtvbT9YxhHnsJ+khvAhRSNrxNC0PdtSjhrRloRoSMUplcEg==" sparkle:edSignature="/uJc4iyAhBVMUSZ3IEp2QnyEkabxpPLbWfvQX9njzicP7MUKZIu55PR7BDC0dgBRrw7O0uVRP0/Mk7sdoZenAg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.0/HSTracker.app.zip"/>
+        </item><item>
             <title>2.5.12</title>
             <pubDate>Mon, 06 Nov 2023 09:46:51 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
