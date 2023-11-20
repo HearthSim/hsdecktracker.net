@@ -314,6 +314,10 @@
 		{
 			"dbf_id": 96870,
 			"short_name": "Enhance-o"
+		},
+		{
+			"dbf_id": 61911,
+			"short_name": "Aranna"
 		}
 	],
 	"battlegrounds_tag_overrides": [
