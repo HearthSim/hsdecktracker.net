@@ -59,6 +59,9 @@
 	"tier7": {
 		"disabled": false
 	},
+	"mulligan_guide": {
+		"disabled": false
+	},
 	"update_info": {
 		"image_update_hearthstone_version": 183876
 	},
