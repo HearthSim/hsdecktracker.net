@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.1</title>
+            <pubDate>Tue, 28 Nov 2023 21:34:58 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.0.3&lt;/li&gt;
+&lt;li&gt;Added Excavate counters.&lt;/li&gt;
+&lt;li&gt;Added support for a number of older cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Sigils were not treated as spells.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Snipe occasionally did not appear as a valid secret.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Love Everlasting and similar cards were not treated as spells.
+&lt;strong&gt;Bob's Buddy&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Admiral Eliza Goreblade was not simulated correctly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2707</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78945288" sparkle:dsaSignature="MCwCFAujwZM0Nvcf7aT6PE5x7vat4NIyAhQwzYbTdrJBM7DtTi6UWpksiuPXGg==" sparkle:edSignature="Un2PHK6q073v7Ev/6fa85UgBfU1FVwOe395GlH2wNgK/ktXaSnIKvcDed5lHXR2ZZw5TZkVTGDDZyGWFQNKaAA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.1/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.0</title>
             <pubDate>Wed, 08 Nov 2023 20:37:28 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
