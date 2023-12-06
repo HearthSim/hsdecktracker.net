@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.2</title>
+            <pubDate>Tue, 05 Dec 2023 20:46:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.2.0&lt;/li&gt;
+&lt;li&gt;Added a spell school counter!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix HSTracker stuck on splash screen if there is issue accessing remote config (issue #1332)&lt;/li&gt;
+&lt;li&gt;Make flavor text black again&lt;/li&gt;
+&lt;li&gt;The Battlegrounds minion overlay no longer shows minions from tavern tier 7 unless Secrets of Norgannon is active.&lt;/li&gt;
+&lt;li&gt;Fixed an issue that caused the deck builder to not show appropriate multi-class cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Fairy Tale Caroler's Battlecry (with Rylak Metalhead).&lt;/li&gt;
+&lt;li&gt;There are likely still issues with some new cards in Bob's Buddy. We will update these in the coming days.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2717</sparkle:version>
+            <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79327848" sparkle:dsaSignature="MC0CFQCCOarhxac23//VYHiW4naS1N2nzgIUZTcR8Fa7boBnb1T1erNJW/JYFjU=" sparkle:edSignature="1ULHufBW4x8o7FtUAihS7xUv67GLcNpYJg731VgxkFSnefvKHzDnn/BwJl9NEE4LBOmhfqpdXXfJQFUYKdg+DA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.1</title>
             <pubDate>Tue, 28 Nov 2023 21:34:58 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
