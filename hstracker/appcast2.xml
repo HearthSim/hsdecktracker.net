@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.3</title>
+            <pubDate>Sun, 10 Dec 2023 19:58:23 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.2.1&lt;/li&gt;
+&lt;li&gt;Added Battlegrounds spells to the Battlegrounds minion list overlay!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed hero picking overlay not working&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the attack counters would not correctly handle Walking Mountain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for spell triggers during combat (such as extra battlecries/deathrattles and start of combat effects).&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Audacious Anchor could crash the simulation.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Battlecries from Rylak Metalhead were not simulated correctly after being triggered by Hawkstrider Herald.&lt;/li&gt;
+&lt;li&gt;Fixed various simulation issues related to recently introduced and updated cards.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2725</sparkle:version>
+            <sparkle:shortVersionString>2.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79340866" sparkle:dsaSignature="MCwCFGEg9uVdYIS6o9zgi3bDCpCh+gXjAhQLYOpoU9uG30/M0o0n+jifRpkdLg==" sparkle:edSignature="inx9uhI9X1gHJ9pScSn0eNXPn5lfo6cGQ3AID3mWXh4aHRKzCeJtGpljbMW9PHuT4rTOjTIOTYtA7otPKySNBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.2</title>
             <pubDate>Tue, 05 Dec 2023 20:46:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
