@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.4</title>
+            <pubDate>Tue, 19 Dec 2023 20:01:53 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.2.3&lt;/li&gt;
+&lt;li&gt;Constructed: Improve importing of Whizbang decks&lt;/li&gt;
+&lt;li&gt;Battlegrounds: Added support for Venomous and Reborn to the Last Known Board and Final Board features.&lt;/li&gt;
+&lt;li&gt;Battlegrounds: Improved the behaviour of the Bob's Buddy panel at the end of a match.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Constructed: Fixed an issue causing the popup with a link to the Mulligan guide sometimes incorrectly identifying the First/Coin state.&lt;/li&gt;
+&lt;li&gt;Battlegrounds: Fixed an issue causing the hero picking overlay and popup not disappearing when HDT was started during the hero picking phase.&lt;/li&gt;
+&lt;li&gt;Battlegrounds: Add missing Recurring Nightmare deathrattles for simulating combat results&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2738</sparkle:version>
+            <sparkle:shortVersionString>2.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79481830" sparkle:dsaSignature="MCwCFHia+QL060iqAgPxpzW9LVxGTzrKAhQUqLWHXcehW07oQ+Ve21vHr0xFnw==" sparkle:edSignature="HRrVW/lsaq30cpF0C43WheNNwmo+DP6aqjZp7cUocJoCUjVeuUO7OJ1tq94YViMSgcDc0wuDdqbHSnQ1WSohCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.4/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.3</title>
             <pubDate>Sun, 10 Dec 2023 19:58:23 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
