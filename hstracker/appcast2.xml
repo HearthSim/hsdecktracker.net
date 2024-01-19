@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.5</title>
+            <pubDate>Fri, 19 Jan 2024 07:35:48 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.4.0&lt;/li&gt;
+&lt;li&gt;Added tooltips for some battlegrounds overlays&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed several ambiguous layouts&lt;/li&gt;
+&lt;li&gt;Fixed excavate/spell school counter showing non localized strings (issue #1335)&lt;/li&gt;
+&lt;li&gt;Fixed support for tier 7 trials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Admiral Eliza Goreblade was not simulated correctly.&lt;/li&gt;
+&lt;li&gt;Added support for Murozond (via Rylak).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2749</sparkle:version>
+            <sparkle:shortVersionString>2.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79671771" sparkle:dsaSignature="MCwCFGwZvjokEEmO2OMD4VSHtHYba2dCAhQywSa+fcK9fMA9V93zW1cHu3EOwA==" sparkle:edSignature="8uH3I3aHZ+82dVQ23ReI8NFSTP3Z8j/suzdvuJGg1PdVyivLeRtcPC+YGC4HQ5Z/QQMPPtXqM4deIGRnUGctDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.5/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.4</title>
             <pubDate>Tue, 19 Dec 2023 20:01:53 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
