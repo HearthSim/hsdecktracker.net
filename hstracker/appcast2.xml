@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.6</title>
+            <pubDate>Wed, 31 Jan 2024 10:25:08 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.4.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Summoning Ward not appearing in the Mage secret tracker.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the attack counter incorrectly accounted for Mega-Windfury despite Silence (e.g. a silenced Walking Mountain).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2753</sparkle:version>
+            <sparkle:shortVersionString>2.6.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79675003" sparkle:dsaSignature="MCwCFEgcG2o62LpFctLpVR7kqBuXbxIgAhQrhKR/D5wcqgPpGcTXifkbSDFgGA==" sparkle:edSignature="7Ppynq7K7dibnk9lDIXwA0fUsKytJscI2fjHmJKSSIHE5Rqs2MsCfUY1ZKo8hUD8fXFNRm/kDhC26cAEDWglBw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.6/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.5</title>
             <pubDate>Fri, 19 Jan 2024 07:35:48 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
