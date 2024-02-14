@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.7</title>
+            <pubDate>Tue, 13 Feb 2024 20:47:40 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.6.0&lt;/li&gt;
+&lt;li&gt;There are likely still issues with some new cards in Bob's Buddy. We will update these in the coming days.&lt;/li&gt;
+&lt;li&gt;The Battlegrounds Quest Picking Overlay will return as soon as there's enough data for quests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where secrets would be incorrectly grayed out when dormant minions or portals were on the board.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Plagues moving into the opponent's hand through effects such as Sir Finley, Sea Guide were unintentionally revealed.&lt;/li&gt;
+&lt;li&gt;Fix authorization token automatic renewal not working and requiring a restart to solve&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2764</sparkle:version>
+            <sparkle:shortVersionString>2.6.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79861246" sparkle:dsaSignature="MC0CFQCQeY8v9MeSF6iOlfn7Yp1F6r0rrQIUThh1ikWpM7D1BlSjCS2CoGr9pv8=" sparkle:edSignature="TeLYEg1swdVHBOHi58dmHsa+5vqgJqLg1IfO/h84sVE9ywp+UApL8WhhffmZgTCdsZSPu0Tszge3rTGCqePkAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.7/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.6</title>
             <pubDate>Wed, 31 Jan 2024 10:25:08 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
