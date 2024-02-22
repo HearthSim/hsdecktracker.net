@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.8</title>
+            <pubDate>Thu, 22 Feb 2024 17:02:51 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 28.6.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enable combat simulations for Diremuck Forager when the opponent's board is full.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2766</sparkle:version>
+            <sparkle:shortVersionString>2.6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79863234" sparkle:dsaSignature="MC0CFQCDclJcFr+tqHhhUAs4K0SH+Y2I7wIUQ/OS0RLVW6IOl7lwlhmBnohELhU=" sparkle:edSignature="y36ywPstEtW2hVaCQCbOlwajgOgQr2JtUpjO0FqshZYKCwl7MNTvgInsxpUZfIw/6DQTlTggB0MR35ftxfgLAQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.8/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.7</title>
             <pubDate>Tue, 13 Feb 2024 20:47:40 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
