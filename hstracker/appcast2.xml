@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.9</title>
+            <pubDate>Tue, 12 Mar 2024 21:47:41 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.0.0&lt;/li&gt;
+&lt;li&gt;Started using data more appropriate for the current MMR in the Tier7 quest and hero picking overlays.&lt;/li&gt;
+&lt;li&gt;Added an in-game Mulligan Guide for HSReplay.net Premium subscribers! This feature is available in Ranked, Casual, Friendly Challenge and Arena.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hide tavern spells based on available races&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2786</sparkle:version>
+            <sparkle:shortVersionString>2.6.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80568731" sparkle:dsaSignature="MCwCFCsMKWP9ZYIZsirOihgfhBFCJhNlAhR8flKIlk+qmwcdxVv1hnTlHGmfDg==" sparkle:edSignature="FpE4VH9lsOAwCf61ogZ4+9sB/6d6kSdhaqvG/lpUkINjghhSv4pJrRx8b0H/rkUHhH4eU99NSNwQwJpTo559DA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.9/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.8</title>
             <pubDate>Thu, 22 Feb 2024 17:02:51 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
