@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.6.10</title>
+            <pubDate>Wed, 13 Mar 2024 20:54:07 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue that could cause deck that are legal in Standard to appear in the Wild section.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2787</sparkle:version>
+            <sparkle:shortVersionString>2.6.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="81094184" sparkle:dsaSignature="MCwCFD1DaV2GQqo0SyIYQajRoZd++YRvAhQ1w5crVqrfcqakNRMJIbBIQtyZgA==" sparkle:edSignature="Negu2wI3OkJIVmOpUpc/dhvUV3pcFWc28ze14W6+y/vI1q8JRY0mlj5OneFIKLJ4Elro3+iRmQxhIPXQXd9bDg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.6.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.9</title>
             <pubDate>Tue, 12 Mar 2024 21:47:41 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
