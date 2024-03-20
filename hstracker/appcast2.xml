@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.0</title>
+            <pubDate>Tue, 19 Mar 2024 20:51:44 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial support for Year of Pegasus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Attempted to fix issues with mulligan overlay&lt;/li&gt;
+&lt;li&gt;Fixed import from deck strings&lt;/li&gt;
+&lt;li&gt;Fixed dredge top/bottom cards not resetting after game is over&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2791</sparkle:version>
+            <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="81101174" sparkle:dsaSignature="MCwCFEVwCiHnziaf7D/0I/5lrUKmQfV5AhRWdBCvxlbBis4/Bnj06T1QYsY9SA==" sparkle:edSignature="/KuFL+X6SO91C6JlwNWkXfRt8OIdHfED+GY2a+QFcjzWqGEPaFfluubgC8KiOpZruy+MCEt5KIs+ks4s6u2WDg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.0/HSTracker.app.zip"/>
+        </item><item>
             <title>2.6.10</title>
             <pubDate>Wed, 13 Mar 2024 20:54:07 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
