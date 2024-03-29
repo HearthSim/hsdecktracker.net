@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.1</title>
+            <pubDate>Thu, 28 Mar 2024 21:42:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.0.3&lt;/li&gt;
+&lt;li&gt;Added support for Zilliax Deluxe 3000's custom cost in the deck list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Deck Manager curve display and crash when resizing&lt;/li&gt;
+&lt;li&gt;Fixed Whizbang decks using previous deck&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2800</sparkle:version>
+            <sparkle:shortVersionString>2.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78520722" sparkle:dsaSignature="MCwCFD48t0QSZ0IcTxgcPfxYmo91tlMLAhQCkLEOm9n2a/P8qOF8nOulywfaAQ==" sparkle:edSignature="SjkNK6SDqmZTLk+8T2qSLUQQDwruNHYthxkDeOHnoYI9uOJf4jsEl5WdoAN40HgOM7PIepwF5U5EYFeZkSFFDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.1/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.0</title>
             <pubDate>Tue, 19 Mar 2024 20:51:44 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
