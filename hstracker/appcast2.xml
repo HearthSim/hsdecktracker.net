@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.2</title>
+            <pubDate>Wed, 17 Apr 2024 22:22:39 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.2.0&lt;/li&gt;
+&lt;li&gt;Added support for E.T.C. sideboard&lt;/li&gt;
+&lt;li&gt;Better dark mode icons in the deck manager&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue causing the Mulligan Guide to not show data for Zilliax Deluxe 3000&lt;/li&gt;
+&lt;li&gt;Fixed Battlegrounds session scaling issue
+&lt;strong&gt;Notes&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Most Battlegrounds features are disabled in Duos right now. We'll be investigating what's possible in the coming days!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2821</sparkle:version>
+            <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78604424" sparkle:dsaSignature="MC4CFQCADiG9JwSm/+ND1WXvZKxDavFOdgIVAJT1HFTPeqNcDnZUraGs+zGjcdwZ" sparkle:edSignature="n9W5IUf547iPirlS5Xg12hnoU2F0QMdxx/Yp7cd31K0f82e1XZ3BytZ0OTzaDILdaxRSND/1tFIqFuaBCohYAA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.2/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.1</title>
             <pubDate>Thu, 28 Mar 2024 21:42:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
