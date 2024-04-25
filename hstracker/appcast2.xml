@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.3</title>
+            <pubDate>Thu, 25 Apr 2024 17:39:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.2.2&lt;/li&gt;
+&lt;li&gt;Added a new setting to show the available Minion Types in the Battlegrounds session panel!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed decks containing certain Zilliax Deluxe 3000 cosmetics not showing HSReplay.net statistics.&lt;/li&gt;
+&lt;li&gt;Fixed various crashes related to the Battlegrounds overlay.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Pack Tactics.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Golden Goose.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Silithid Burrower.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Teron Gorefiend's hero power (Rapid Reanimation).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2829</sparkle:version>
+            <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78629349" sparkle:dsaSignature="MCwCFBHVR0kmI3yiDokCPngECj9BGSlzAhQvT1mhljZHWf32Xh754xIUruBG1Q==" sparkle:edSignature="YuNSA4JIjk9rbnVtsGdjHv5iZqH8KBDH06VRbxbJq3xAcP9Jj2f0GjYP49CSD05wEun911cMPR1AHCIs0fUjCg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.3/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.2</title>
             <pubDate>Wed, 17 Apr 2024 22:22:39 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
