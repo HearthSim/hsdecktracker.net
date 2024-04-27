@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.4</title>
+            <pubDate>Sat, 27 Apr 2024 07:55:58 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect card database for missing cards&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2832</sparkle:version>
+            <sparkle:shortVersionString>2.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="78631918" sparkle:dsaSignature="MCwCFGCGAwGsubBawsyuNF9ezTteg+zVAhRs+t4pwy0Zrezahdkg5UtV0YHy1A==" sparkle:edSignature="jrPEB1gbdqezx7i2YM6q6pK2j1OKonEY743xNdZDGXIIFTkNGqIev4lnWb6HZ5PwqscVSR/vKkcFCTFCHR47Bg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.4/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.3</title>
             <pubDate>Thu, 25 Apr 2024 17:39:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
