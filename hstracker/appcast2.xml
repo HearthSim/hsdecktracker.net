@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.6</title>
+            <pubDate>Sun, 26 May 2024 14:10:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.4.2&lt;/li&gt;
+&lt;li&gt;Start tracking the last known board state in Battlegrounds Duos!
+Hover over heroes on the leaderboard as usual to see the last board you encountered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed ETC sideboard sizing issue&lt;/li&gt;
+&lt;li&gt;Fixes mulligan overlay not showing for new decks&lt;/li&gt;
+&lt;li&gt;Fixed Bargain Bin not appearing as a possible secret.&lt;/li&gt;
+&lt;li&gt;Fixed an issue causing the last known board state in Battlegrounds sometimes showing a board from the wrong hero.&lt;/li&gt;
+&lt;li&gt;Fixed an issue causing the death counter in Battlegrounds to sometimes be misaligned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed opposing Boon of Beetles not being simulated correctly.&lt;/li&gt;
+&lt;li&gt;Fixed various minor simulation issues.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2876</sparkle:version>
+            <sparkle:shortVersionString>2.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79036971" sparkle:dsaSignature="MC0CFEG9dj0ZY2x164M6+wysKMLa8y3vAhUAgaQxGBVWN99qcGWZ0IAEy2T+USM=" sparkle:edSignature="9WGMPkJ6fhb9kdPQSZgnbrjgQ1AZH0EImS/Tte16BPzt0PTCUoiqusfsyE1HuLw56ztiY4viylS4ZYwq8omGBw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.6/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.5</title>
             <pubDate>Tue, 14 May 2024 20:50:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
