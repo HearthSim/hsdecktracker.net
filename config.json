@@ -15,7 +15,7 @@
 		"disabled": false,
 		"min_required_version": "1.27.0",
 		"sentry_reporting": false,
-		"sentry_min_required_version": "1.28.2",
+		"sentry_min_required_version": "1.28.4",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
