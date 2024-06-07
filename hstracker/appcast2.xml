@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.7</title>
+            <pubDate>Thu, 06 Jun 2024 21:05:17 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added automatic deck importing for the new Twist season!&lt;/li&gt;
+&lt;li&gt;Added automatic deck importing for Loaner decks!
+Added Tier7 Hero Picking stats in Duos!&lt;/li&gt;
+&lt;li&gt;Added Bob's Buddy in Duos!&lt;br /&gt;
+&lt;em&gt;You may occasionally see a partial result, in case where we don't see one of the teammates.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where the session recap would show really bad Duos losses as 5th place.&lt;/li&gt;
+&lt;li&gt;Hide some Battlegrounds overlays when quitting Hearthstone&lt;/li&gt;
+&lt;li&gt;Improved positioning for Battlegrounds dead opponent tracking&lt;/li&gt;
+&lt;li&gt;Fixed Rat Pack and Lil' Rage missing from Battlegrounds minion list&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2890</sparkle:version>
+            <sparkle:shortVersionString>2.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79086868" sparkle:dsaSignature="MC0CFQCAFRwrlLE1pFMp2THkexd27N/wvgIUckIuWD3S7Zg2T+t5b1ryOl+wNi8=" sparkle:edSignature="KeX/5A7kk1W67jmVondNbPU1BUgiBJQzbNLW+Oz1BWZvg/05Y78N7aX3RQFEXPLWWzdbyYYx/wWPvFSGUj13AQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.7/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.6</title>
             <pubDate>Sun, 26 May 2024 14:10:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
