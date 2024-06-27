@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>2.7.10</title>
+            <pubDate>Thu, 27 Jun 2024 16:16:30 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 29.6.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed secret handling in Battlegrounds&lt;/li&gt;
+&lt;li&gt;Fixed crash when Bob's Buddy hit an unsupported interaction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bobs Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Tarecgosa.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Golden Persistent Poet.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Sky Pirate (Scallywag's summon).&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Teron Gorefiend's hero power (Rapid Reanimation).&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results in Duos due to minions being unable to attack.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Teron Gorefiend's hero power (Rapid Reanimation).&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Sky Pirate (Scallywag's summon).&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Sr. Tomb Diver.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2906</sparkle:version>
+            <sparkle:shortVersionString>2.7.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="79221918" sparkle:dsaSignature="MCwCFHfWZQL6HQ3cH0jBd6axizDpHbFUAhRKfj2LxyO7J0mQG/G1M9L9cQI4Mw==" sparkle:edSignature="EQA/Jerr95QfA+mTTtg5TVqe5ArJo+U+nC1OJEB9Xgjc9bdvpA8BiWuI2P1HbB/l35/8Mql7YZlHKq2R8Y3UAQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/2.7.10/HSTracker.app.zip"/>
+        </item><item>
             <title>2.7.9</title>
             <pubDate>Mon, 17 Jun 2024 17:59:29 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
