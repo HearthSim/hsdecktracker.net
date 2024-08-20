@@ -13,7 +13,7 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.29.5",
+		"min_required_version": "1.31.0",
 		"sentry_reporting": false,
 		"sentry_min_required_version": "1.30.3",
 		"metric_sampling": 1,
