@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.2</title>
+            <pubDate>Tue, 20 Aug 2024 18:01:37 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 30.2.0&lt;/li&gt;
+&lt;li&gt;Slightly reduced the number of games shown in the session recap from 10 to 8 to free up some vertical screen space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added over 70 implementations for the new trinkets and new or updated cards.&lt;br /&gt;
+&lt;em&gt;We'll be monitoring the simulation accuracy and will likely issue another update within the coming days.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2935</sparkle:version>
+            <sparkle:shortVersionString>3.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80199860" sparkle:dsaSignature="MC0CFF+XbR7oHG0wjD+8TpK8AXh1ye7iAhUAkHXVWX3MTbbdABiMEhAm8mOcoUQ=" sparkle:edSignature="mqQiqNeuYUCBFRrm22v72vy6nejPxbjrmByqkBc1NOS1vhNghTP9g0hjNEm8AkWjNWhk3k8vERrmclE3xYngDg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.1</title>
             <pubDate>Thu, 08 Aug 2024 22:25:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
