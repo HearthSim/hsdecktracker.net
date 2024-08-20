@@ -296,11 +296,5 @@
 			"short_name": "Tae'thelan"
 		}
 	],
-	"battlegrounds_tag_overrides": [
-		{
-			"dbf_id": 104535,
-			"tag": 3081,
-			"value": 0
-		}
-	]
+	"battlegrounds_tag_overrides": []
 }
