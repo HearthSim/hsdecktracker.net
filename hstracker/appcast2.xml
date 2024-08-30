@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.3</title>
+            <pubDate>Fri, 30 Aug 2024 13:26:54 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 30.2.2&lt;/li&gt;
+&lt;li&gt;Automatically show Tavern Tier 7 in the Battlegrounds minion browser when you have Pagle's Fishing Rod.&lt;/li&gt;
+&lt;li&gt;Added a setting to always show Tavern Tier 7 in the Battlegrounds minion browser.
+You'll find this setting under Preferences &amp;gt; Battlegrounds &amp;gt; Always show Tavern Tier 7.&lt;/li&gt;
+&lt;li&gt;Added golden cards to the Battlegrounds minion browser: hover over the cards for a little longer to see the golden version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed color of Composition Stats header in light theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a simulation crash that could cause the odds to spin forever.&lt;/li&gt;
+&lt;li&gt;Added support for the Blood Golem Sticker trinket.&lt;/li&gt;
+&lt;li&gt;Fixed a major simulation issue with the Bronze Timepiece trinket.&lt;/li&gt;
+&lt;li&gt;Fixed trinkets from Souvenir Stand not being incorporated into the simulations.&lt;/li&gt;
+&lt;li&gt;Fixed a simulation issue when Flourishing Frostling triggers Moss of the Schloss.&lt;/li&gt;
+&lt;li&gt;Fixed a simulation crash when the Boom Controller trinket was present.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2945</sparkle:version>
+            <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80207429" sparkle:dsaSignature="MC0CFQCANUT2X2LgaaXbmKpdDzGLWlvgNwIUWrO34XOk+V8Ln8WAipiY8smJnf8=" sparkle:edSignature="2qucqZAY8SVo7PUwjOccnfr4J+wVZl4UBgPhYiETPPuhKLe+hpzygmKSPjDFm38lEHfgkGjTqH3ksf8r/+DCDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.2</title>
             <pubDate>Tue, 20 Aug 2024 18:01:37 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
