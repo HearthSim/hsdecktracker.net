@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.4</title>
+            <pubDate>Wed, 11 Sep 2024 10:09:33 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 30.4.0&lt;/li&gt;
+&lt;li&gt;Show exact card counts, even when there's more than 9 cards in the deck.&lt;/li&gt;
+&lt;li&gt;Automatically show Tavern Tier 7 in the Battlegrounds minion browser when Pagle's Fishing Rod or Thorim's Hero Power is offered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Plagues not being tracked correctly after playing Helya.&lt;/li&gt;
+&lt;li&gt;Fixed Plagues not being removed from the deck list when playing Steamcleaner.&lt;/li&gt;
+&lt;li&gt;Fixed minions from Tavern Tier 7 not appearing when filtering for a specific minion type&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased the maximum simulation time when Leapfroggers are present.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2958</sparkle:version>
+            <sparkle:shortVersionString>3.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80352042" sparkle:dsaSignature="MC0CFERhEq8LD6p1XGKJ1j89M8RZPtqDAhUAjjJLrk7/7xLZdIf54bbJtvatyuw=" sparkle:edSignature="nv1ra6A9UurOxAzFHm0t/d+jlaYlL06SN1OTnQhre1Egc/ZQCLt9GtW7pBgDNsLHZ80PHDcKFrVVkdeyhCbBAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.4/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.3</title>
             <pubDate>Fri, 30 Aug 2024 13:26:54 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
