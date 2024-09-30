@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.5</title>
+            <pubDate>Mon, 30 Sep 2024 09:42:36 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 30.4.3&lt;/li&gt;
+&lt;li&gt;Added card mark for Forged cards in the opponent's hand&lt;/li&gt;
+&lt;li&gt;Show the tourist in the opponent's deck list when they play a tourist card.&lt;/li&gt;
+&lt;li&gt;Added Battlegrounds Trinket picking stats to the overlay!&lt;br /&gt;
+&lt;em&gt;Try this feature for free with your weekly Tier7 trials and subscribe to Tier7 for unlimited access.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Note that overlay positioning will be fixed in the versions&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the attack counter sometimes ignoring Windfury and Mega-Windfury.&lt;/li&gt;
+&lt;li&gt;Fixed the deck list not correctly updating for plagues with Augmented Elekk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed various simulation interactions between Persistent Poet and All minions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2975</sparkle:version>
+            <sparkle:shortVersionString>3.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80401018" sparkle:dsaSignature="MCwCFEyeRJPjP4JQqOTO48WAKbLaS5GtAhQhM0+OwGfvSj5AQpYvkt6LVsVE/A==" sparkle:edSignature="CH1EzueZCcHOQe4ncHLHlfAtbUaGhEcXlBfbYG4bwyhj9ewnK+iinc6eXd57YdNFtolCScBgJewDa1FKWlQtDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.4</title>
             <pubDate>Wed, 11 Sep 2024 10:09:33 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
