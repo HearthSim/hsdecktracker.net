@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.6</title>
+            <pubDate>Tue, 01 Oct 2024 21:06:25 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash when opening Battlegrounds preferences pane&lt;/li&gt;
+&lt;li&gt;Fixed crash when opponent discovers a card&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>2981</sparkle:version>
+            <sparkle:shortVersionString>3.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="80396968" sparkle:dsaSignature="MC0CFGfjhEjT8CHmZ8eersdqom98o8YEAhUAls5PomJM+qbdd1gr1xwpFC0ewVM=" sparkle:edSignature="eADdcdWgCNYNZGZunGl4xP5FxsiZaPVsRWcB/OPD7MAeDc4NPBDqt4xwT37Bdo3YKyINID2b3K6e5xbCGqbFCA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.6/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.5</title>
             <pubDate>Mon, 30 Sep 2024 09:42:36 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
