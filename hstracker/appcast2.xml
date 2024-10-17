@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.8</title>
+            <pubDate>Thu, 17 Oct 2024 15:51:56 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 30.6.2&lt;/li&gt;
+&lt;li&gt;Added a new icon to the opponents hand to better differentiate a card's identity from the identity of the card that drew it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed tracking of decks using Prince Renathal&lt;/li&gt;
+&lt;li&gt;Fixed an info leak related to forged cards that where shuffled into the opponents deck and drawn again later.&lt;/li&gt;
+&lt;li&gt;Fixed crash during start up&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3000</sparkle:version>
+            <sparkle:shortVersionString>3.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="81133752" sparkle:dsaSignature="MCwCFBlvd/Qn0VaIH5Ka81/l7NTY6fTpAhQklqC0F5yeyCyzq3B60FU801yZOA==" sparkle:edSignature="Ell0MSiCsvFF+Gadar2Pi8ggRytVzL8hwA1x/JPzw2tyk7oKO2X4VkiUMGFzYXlhquIWhEeBj8srxQ2f8bMdDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.8/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.7</title>
             <pubDate>Thu, 10 Oct 2024 22:59:31 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
