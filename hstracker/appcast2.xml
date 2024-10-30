@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.0.9</title>
+            <pubDate>Wed, 30 Oct 2024 19:45:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 31.0.0&lt;/li&gt;
+&lt;li&gt;Added new-style counters! They will automatically pop up when they're relevant in a game and feature rich tooltips appropriate to the current game state.&lt;br /&gt;
+&lt;em&gt;We're still working on making them individually configurable but wanted to share our current progress with you. The old counters are still but are disabled by default.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added code to prevent a crash during start up&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3004</sparkle:version>
+            <sparkle:shortVersionString>3.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="81907568" sparkle:dsaSignature="MCwCFC9hkpW9CzCu032bYmo5XOGFeaYnAhQV3uguF7XlnY2m1J2CqmO856GkGA==" sparkle:edSignature="G/gMg7xeRQwypg7fXhVAvqtwVdp3NwDaWNgiGg0W9cdKBEe6WXS4XcDpeJNw2fxPuAIKWJFQPfSK6vom5kPTCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.0.9/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.8</title>
             <pubDate>Thu, 17 Oct 2024 15:51:56 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
