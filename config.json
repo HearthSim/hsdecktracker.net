@@ -656,6 +656,16 @@
 			"name": "Cat Constellation"
 		},
 		{
+			"dbf_id": 96671,
+			"name": "Eonar, the Life-Binder",
+			"card_id": "TTN_903"
+		},
+		{
+			"dbf_id": 96707,
+			"name": "Spontaneous Growth",
+			"card_id": "TTN_903t"
+		},
+		{
 			"dbf_id": 95772,
 			"name": "Ultimate Infestation"
 		},
@@ -1249,6 +1259,10 @@
 			"name": "Outrider's Axe"
 		},
 		{
+			"dbfId": 110902,
+			"name": "Captain's Log"
+		},
+		{
 			"dbf_id": 65694,
 			"name": "Golem Parts"
 		},
@@ -1263,6 +1277,14 @@
 		{
 			"dbf_id": 102028,
 			"name": "T.N.T."
+		},
+		{
+			"dbfId": 110737,
+			"name": "Asteroid"
+		},
+		{
+			"dbfId": 106364,
+			"name": "Eruption"
 		},
 		{
 			"dbf_id": 64372,
