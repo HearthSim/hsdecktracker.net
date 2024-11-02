@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.0</title>
+            <pubDate>Fri, 01 Nov 2024 20:27:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved related cards shown for counters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed some rare crashes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3012</sparkle:version>
+            <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="82082637" sparkle:dsaSignature="MCwCFDIPU+1AJi2vsbKWvDcX+pGTgwHxAhRLEw2VU48E18eCRQQ5dr6p46CREg==" sparkle:edSignature="jihCTt1oct30FmrxkONXLehUmJWkmqhCuZi8QoX+BeHrLlldKfgj5SARMJUvetOhs85KIviXqod3SgX1yQS0AA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.0.9</title>
             <pubDate>Wed, 30 Oct 2024 19:45:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
