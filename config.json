@@ -298,12 +298,7 @@
 	],
 	"battlegrounds_tag_overrides": [
 		{
-			"dbf_id": 95286,
-			"tag": 1456,
-			"value": 1
-		},
-		{
-			"dbf_id": 113405,
+			"dbf_id": 70163,
 			"tag": 1456,
 			"value": 0
 		}
