@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.1</title>
+            <pubDate>Tue, 12 Nov 2024 21:08:06 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added counter for The Ceaseless Expanse.&lt;/li&gt;
+&lt;li&gt;Added support for cards that will be recasted by Mistah Vistah effect&lt;/li&gt;
+&lt;li&gt;Added a delay to most tooltip displays&lt;/li&gt;
+&lt;li&gt;Added tooltips for related cards.
+Hovering over cards in hand or deck now shows their related cards. These tooltips will automatically appear for opponents when relevant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed several crashes due to early object releases&lt;/li&gt;
+&lt;li&gt;Fixed crash when attempting to display a golden BG minion&lt;/li&gt;
+&lt;li&gt;Fixed Jade Idol counter resetting to 1 when drawing Jade Spirit or Aya&lt;/li&gt;
+&lt;li&gt;Fixed deck card counter display when showing more than 9 cards&lt;/li&gt;
+&lt;li&gt;Fixed crash when setting in hand color using a non RGB colorspace&lt;/li&gt;
+&lt;li&gt;Fixed initial location of link opponent deck panel&lt;/li&gt;
+&lt;li&gt;Improved position of trinket picking overlay&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3053</sparkle:version>
+            <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="73640043" sparkle:dsaSignature="MCwCFE6LcRJDFZauiBnTmJZQIKOxDQXHAhQlQKaIoXTML0ZGfn2ZakOYgnw3zA==" sparkle:edSignature="8j3W29Uzo2ZYCdTDqpMh6Nf9ozLprrs8gku3ZsCM6UanZ/oOXjX9tFwWqrecYP6zCfF/TNMnMYM4wAPn77/HCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.1/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.0</title>
             <pubDate>Fri, 01 Nov 2024 20:27:20 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
