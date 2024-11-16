@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.2</title>
+            <pubDate>Sat, 16 Nov 2024 15:43:25 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed some crashes related to related cards manager&lt;/li&gt;
+&lt;li&gt;Added code to prevent several other crashes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3065</sparkle:version>
+            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="73735931" sparkle:dsaSignature="MCwCFBYVN0Ldr+Rt4ZqMCO1ayEI9JIsDAhRHNMNVQH957f4O9cqpnM+gAZaavQ==" sparkle:edSignature="k9kAVjjporqOomB+8ZZS/xSaP7cNKWex7cLbNv3PN1gFpOb5DytFzFVckQ9dT9gP3oEFBGeiCdpQpZZVHqCWCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.1</title>
             <pubDate>Tue, 12 Nov 2024 21:08:06 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
