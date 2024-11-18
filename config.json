@@ -1564,6 +1564,98 @@
 		{
 			"dbf_id": 97529,
 			"name": "Frost Tyrant"
+		},
+		{
+			"dbf_id": 300,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 47788,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 51837,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 57764,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 64686,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 66935,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 93725,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 103831,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 108387,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 110716,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 114187,
+			"name": "Life Tap"
+		},
+		{
+			"dbf_id": 2744,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 51468,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 51838,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 64687,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 66936,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 93726,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 97867,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 103832,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 108388,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 110717,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 111892,
+			"name": "Soul Tap"
+		},
+		{
+			"dbf_id": 114188,
+			"name": "Soul Tap"
 		}
 	]
 }
