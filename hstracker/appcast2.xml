@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.5</title>
+            <pubDate>Wed, 04 Dec 2024 09:34:58 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 31.2.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added card icons for cards that return to hand at the end of the turn (Corpsicle, Libram of Divinity).&lt;/li&gt;
+&lt;li&gt;Fixed forge icon not appearing when the forged card was drawn by another card.&lt;/li&gt;
+&lt;li&gt;Fixed The Ceaseless Expanse counter not increasing when fracking is played.&lt;/li&gt;
+&lt;li&gt;Fixed some active effects appearing on the wrong side.&lt;/li&gt;
+&lt;li&gt;Fixed Pro gamer's Rock, Paper and Scissors cards appearing in the decklist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update tier 7 hero picking overlay for hero reroll.&lt;br /&gt;
+&lt;em&gt;They might take a time to load or may not be quite working yet, be patient&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3099</sparkle:version>
+            <sparkle:shortVersionString>3.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="74015823" sparkle:dsaSignature="MCwCFCj2UeAJ1dxBBkGbUcszQuA5HN8YAhRfR85KlP7rVAIPldwZyquWXa8d1Q==" sparkle:edSignature="2zebYRlbvCTsurGlp3qwVr28IUHYv7lcZygyzB39Qan/z8FXjyJybbw9ow5Q+DOS0rVDexYRbv0GWdY8imrcCQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.4</title>
             <pubDate>Sat, 23 Nov 2024 14:48:51 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
