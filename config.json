@@ -1,7 +1,9 @@
 {
 	"news": {
-		"id": 20,
-		"items": []
+		"id": 21,
+		"items": [
+			"As we approach 2025 we have a brand-new [Feature Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHjZO86VSk0lLudsCdoNg0JlxL-eCtstmyYT7_k-HyWAv-jA/viewform?usp=sf_link) - help us shape the future of HDT!"
+		]
 	},
 	"collection_banner": {
 		"visible": true,
