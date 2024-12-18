@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.6</title>
+            <pubDate>Wed, 18 Dec 2024 15:57:33 -0300</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 31.2.2&lt;/li&gt;
+&lt;li&gt;Added indicator for Incindius' Eruption buffs.&lt;/li&gt;
+&lt;li&gt;Added related card tooltip to Grand Magister Rommath.&lt;/li&gt;
+&lt;li&gt;Added related card tooltips to most cards that resurrect from the Graveyard.&lt;br /&gt;
+&lt;em&gt;Abominable Bowman, All Fel Breaks Loose, Amulet of Undying, Animate Dead, Anyfin Can Happen, Bloodreaver Gul'dan, Body Wrapper, Bonecaller, Boneshredder, Catrina Muerte, Counterfeit Blade, Da Undatakah, Defense Attorney Nathanos, Eternal Servitude, Habeas Corpses, Hadronox, Infantry Reanimator, Jewel of N'Zoth, Lesser Diamond Spell Stone, Mass Resurrection, N'Zoth, God of the Deep, N'Zoth, The Corruptor, Onyx Bishop, Psychopomp, Raise Dead, Rally!, Resurrect, Revive Pet, Tamsin's Phylactery, Tomb Lurker, Twilight's Call, Unending Swarm, Vectus, Witching Hour, Xyrella, the Devout&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added counters for Beetle stats, Spells played and the Undead attack bonus.&lt;/li&gt;
+&lt;li&gt;Fixed Sleeping Sea Glass appearing in the available minion list in Duos.&lt;/li&gt;
+&lt;li&gt;Fixed the Tier7 hero picking stats not updating when rerolling a skin.
+&lt;ul&gt;
+&lt;li&gt;Fixed secrets not being passed correctly to BobsBuddy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3122</sparkle:version>
+            <sparkle:shortVersionString>3.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="74048441" sparkle:dsaSignature="MCwCFHQ3DejwNI6Hfbvc2zoFA+7TLavUAhRnqFvpOXTfoDasgBUWhgOheGUOQg==" sparkle:edSignature="G0rjoRBIo6UEeOTIyKpuh0TgK7n+y/Sj7gjOGJ5Cl1m46O/8APVDSYhNIZzP95LYZZb0nDPKiTz11EKxil1/Cw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.6/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.5</title>
             <pubDate>Wed, 04 Dec 2024 09:34:58 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
