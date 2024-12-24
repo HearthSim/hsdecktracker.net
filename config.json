@@ -294,6 +294,30 @@
 		{
 			"dbf_id": 105431,
 			"short_name": "Tae'thelan"
+		},
+		{
+			"dbf_id": 113310,
+			"short_name": "Marin"
+		},
+		{
+			"dbf_id": 116926,
+			"short_name": "Nobundo"
+		},
+		{
+			"dbf_id": 117409,
+			"short_name": "Zerek"
+		},
+		{
+			"dbf_id": 104671,
+			"short_name": "Floop"
+		},
+		{
+			"dbf_id": 58044,
+			"short_name": "Lich"
+		},
+		{
+			"dbf_id": 84867,
+			"short_name": "Holmes"
 		}
 	],
 	"battlegrounds_tag_overrides": [
