@@ -329,51 +329,6 @@
 			"dbf_id": 114088,
 			"tag": 3166,
 			"value": -1
-		},
-		{
-			"dbf_id": 107937,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 66618,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 117555,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 114477,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 113128,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 103726,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 103591,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 98867,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 72065,
-			"tag": 1456,
-			"value": 0
 		}
 	],
 	"draw_card_blacklist": [
