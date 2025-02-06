@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.8</title>
+            <pubDate>Wed, 05 Feb 2025 19:38:35 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 31.4.2&lt;/li&gt;
+&lt;li&gt;Added counters to Protoss minions cost reduction and Alien Encounters.&lt;/li&gt;
+&lt;li&gt;Added related card tooltips to Starlight Whelp. &lt;br /&gt;
+&lt;em&gt;We will continue adding more tooltips in the coming updates&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Added active effects to Warp Gate, Shield Battery and Construct Pylons.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3146</sparkle:version>
+            <sparkle:shortVersionString>3.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="74287699" sparkle:dsaSignature="MCwCFGZZdR5RYq7ODp2GfEmilNGDc8jTAhRnU8p6OrkGCB5tn24vTP3BgG3H+Q==" sparkle:edSignature="DIBDqAI7T9PeE2P2rXkC5YtpCGBCxnMDr/bh2XGwAg590o6b5SB5i5FJg9l9zR7zU0xl2rITojbk9S77ALIjAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.8/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.7</title>
             <pubDate>Wed, 22 Jan 2025 19:53:05 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
