@@ -19,7 +19,7 @@
     "metric_sampling": 1,
     "log_lines_kept": 150,
     "can_remove_lich_king": true,
-    "data_quality_warning": false
+    "data_quality_warning": true
   },
   "tier7": {
     "disabled": false
