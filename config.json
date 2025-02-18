@@ -322,6 +322,10 @@
     {
       "dbf_id": 97186,
       "short_name": "Jailer"
+    },
+    {
+      "dbf_id": 120358,
+      "short_name": "Kerrigan"
     }
   ],
   "battlegrounds_tag_overrides": [
@@ -331,7 +335,7 @@
       "value": -1
     },
     {
-      "dbf_id": 95006,
+      "dbf_id": 115589,
       "tag": 1456,
       "value": 1
     }
