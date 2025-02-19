@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.1.9</title>
+            <pubDate>Tue, 18 Feb 2025 22:18:21 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 31.6.2&lt;/li&gt;
+&lt;li&gt;Improved how unknown cards are handled after a Hearthstone update.\&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3149</sparkle:version>
+            <sparkle:shortVersionString>3.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="57929045" sparkle:dsaSignature="MCwCFF7QincxXCBji50hTHPrEILM1EXfAhRYkI9FhpTYyKPLQzh5/R5UOWnqrA==" sparkle:edSignature="EtjGjJT1izgj514rCiCmKi9MN66M88ANmRhS73tsESdZm/NmBTkg86kb/BkbbXogvr94YNKWsegi0Bre4VueBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.1.9/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.8</title>
             <pubDate>Wed, 05 Feb 2025 19:38:35 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
