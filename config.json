@@ -950,6 +950,10 @@
       "name": "Power Word: Shield"
     },
     {
+      "dbf_id": 120786,
+      "name": "Power Word: Shield"
+    },
+    {
       "dbf_id": 39468,
       "name": "Purify"
     },
@@ -1283,6 +1287,10 @@
       "name": "Hookfist-3000"
     },
     {
+      "dbf_id": 120574,
+      "name": "Hookfist-3000"
+    },
+    {
       "dbf_id": 84623,
       "name": "Light of the Phoenix"
     },
@@ -1392,6 +1400,10 @@
     },
     {
       "dbf_id": 61622,
+      "name": "Prize Vendor"
+    },
+    {
+      "dbf_id": 120429,
       "name": "Prize Vendor"
     },
     {
@@ -1601,6 +1613,34 @@
     {
       "dbf_id": 97529,
       "name": "Frost Tyrant"
+    },
+    {
+      "dbf_id": 117302,
+      "name": "Ancient of Yore"
+    },
+    {
+      "dbf_id": 115184,
+      "name": "Illusion"
+    },
+    {
+      "dbf_id": 111415,
+      "name": "Braingill"
+    },
+    {
+      "dbf_id": 114012,
+      "name": "Divination"
+    },
+    {
+      "dbf_id": 114654,
+      "name": "Grim Harvest"
+    },
+    {
+      "dbf_id": 114966,
+      "name": "Sanguine Infestation"
+    },
+    {
+      "dbf_id": 114070,
+      "name": "Emerald Portal"
     },
     {
       "dbf_id": 300,
