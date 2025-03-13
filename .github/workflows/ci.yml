@@ -3,6 +3,14 @@ name: CI
 on: [push]
 
 jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Lint config.json
+        run: cat config.json | jq
   build:
     runs-on: ubuntu-22.04
     steps:
@@ -30,7 +38,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-22.04
-    needs: build
+    needs: [lint, build]
     if: github.ref == 'refs/heads/master'
     concurrency: deploy_to_s3
     permissions:
