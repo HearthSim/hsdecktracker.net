@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.0</title>
+            <pubDate>Tue, 18 Mar 2025 20:29:53 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added counter for Reska, the Pit Boss.&lt;/li&gt;
+&lt;li&gt;Changed opponent's The Ceaseless Expanse Counter to start appearing when it costs 50.&lt;/li&gt;
+&lt;li&gt;Fixed Sasquawk related cards appearing when they are not relevant.&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Freezing Trap not being marked as excluded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added missing Russian to HSTracker language selection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Illidan and Gorefiend interaction.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Gentle Stag.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Gemsplitter.&lt;/li&gt;
+&lt;li&gt;Add Bob's Buddy support for Incubation Mutation Anomaly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3161</sparkle:version>
+            <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="58342797" sparkle:dsaSignature="MC0CFG9GyetgevaCVPP3ics7v0al2PhIAhUAkilVe/Q2zwAmwyMGWxi480FeJzs=" sparkle:edSignature="cYj/KtTHNJDlVWb0XIgMztORsesv0wPcMOIh4j3Rhrlv50IioI1civCH7uA+t0/EZUAd+9CTjvBEW7jH1pbyDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.1.10</title>
             <pubDate>Fri, 28 Feb 2025 09:30:58 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
