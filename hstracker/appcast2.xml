@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.1</title>
+            <pubDate>Wed, 26 Mar 2025 22:31:59 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add card highlights for cards that will be drawn or summoned.&lt;br /&gt;
+&lt;em&gt;Hovering over cards in hand or deck now highlight cards in the deck that can be drawn or summoned by the hovered card&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Added card highlights for: &lt;br /&gt;
+&lt;em&gt;Harbinger of Winter, Northern Navigation, Bartend-O-Bot, Blindeye Sharpshooter, Cliff Dive, Dirdra Rebel Captain, GuitarSoloist,
+RushTheStage, UmpiresGrasp, Arkonite Revelation, Chia Drake, Embrace of Nature,
+Oaken Summons, Peaceful Piper, Summer Flowerchild, Take to the Skies, Tortollan Traveler,
+Ungoro Brochure, Costumed Singer, Pendant of Earth, Banjosaur, Barak Kodobane, Bargain Bin,
+Birdwatching, Fetch!, Master's Call, Messenger Buzzard, Mystery Egg, Ten Gallon Hat,
+Trusty Fishing Rod, Arcanologist, Blazing Accretion, Mes'Adune the Fractured, Saruun,
+Under the Sea, Volume Up, Watercolor Artist, Chrono Boost, Lift Off, Nydus Worm, Alarmed Securitybot,
+Boogie Down, Cardboard Golem, Hi Ho Silverwing, Interstellar Researcher, Libram of Clarity,
+Pipsi Painthoof, Trinket Artist, Benevolent Banker, Chalk Artist, Creation Protocol, Scale Replica,
+Thrive in the Shadows, Blink, Dig for Treasure, Elven Minstrel, Pit Stop, Raiding Party,Cactus Cutter,
+Cosmonaut, Fairy Tale Forest, Flowrider, Hagatha the Fabled, Triangulate, Turbulus, Crane Game, Dirge of Despair,
+Game Master Nemsy, Loken Jailer of Yogg Saron, Sketch Artist, Movement of Gluttony, Movement of Pride,
+Blackrock 'n' Roll, Chorus Riff, Quality Assurance, Steam Guardian, Town Crier, Caricature Artist, Cattle Rustler,
+Colifero the Artist, Ethereal Oracle, Instrument Tech, Magatha Bane of Music, Malygos the Spellweaver,
+Plucky Paintfin, Therazane, Thunderbringer, Tram Operator, Troubled Mechanic, Weapons Attendant.&lt;/em&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;em&gt;We will continuing adding more highlights in the coming updates.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Made the new Fatigue counter appear more appropriately for the opponent.&lt;/li&gt;
+&lt;li&gt;Changed when Player's Protoss minions discount counter is shown, now it won't appear if there is no minion to benefit from it.&lt;/li&gt;
+&lt;li&gt;Fixed board attack displaying negative values.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3168</sparkle:version>
+            <sparkle:shortVersionString>3.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="58397605" sparkle:dsaSignature="MC0CFQCE61yFmXlqm02I5s0QOyE14KQw1AIUXU25aoB4zwIunln0c4uq6IVODOI=" sparkle:edSignature="TIJ+lCy6nnK/EpJJjqOghndhMbiC7xo7DP11WgbUoH9ghAKiBWWhFqnG/m/h3WvF63jVXFZEnatVtic0Kq/iCA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.1/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.0</title>
             <pubDate>Tue, 18 Mar 2025 20:29:53 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
