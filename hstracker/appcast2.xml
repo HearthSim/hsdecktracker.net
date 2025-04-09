@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.2</title>
+            <pubDate>Tue, 08 Apr 2025 21:12:27 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Updated for Hearthstone 32.0.3&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Made card highlights, counters and related cards work during discover.&lt;/li&gt;
+&lt;li&gt;Added Imbue counter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Return Policy related cards&lt;/li&gt;
+&lt;li&gt;Fixed an issue causing Oasis Ally to not appear in the secret tracker.&lt;/li&gt;
+&lt;li&gt;Changed Aessina counter to show when opponent generated a Wild God from Malorne the Waywatcher.&lt;/li&gt;
+&lt;li&gt;Fixed an issue with Flavor Text not appearing in full screen mode&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3180</sparkle:version>
+            <sparkle:shortVersionString>3.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="58418886" sparkle:dsaSignature="MCwCFAoMDy9xmrzdGtCAft4/4beu504BAhQDVlZjgJMh9d9nx1dP3ACfMvZq1w==" sparkle:edSignature="9m5meo1xC6+LWQowhKoXlAmq+CnpQXDh//Mp7vaXLWQD6KQtIMqo5VA+gbvt1O/Ty9RFt4RaZb286TVkv8HqAg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.1</title>
             <pubDate>Wed, 26 Mar 2025 22:31:59 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
