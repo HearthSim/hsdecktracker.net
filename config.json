@@ -755,6 +755,10 @@
       "name": "Research Project"
     },
     {
+	  "dbf_id": 115635,
+	  "name": "Smoldering Grove"
+    },
+    {
       "dbf_id": 69500,
       "name": "Arcane Intellect"
     },
@@ -1166,6 +1170,10 @@
       "name": "Mortal Coil"
     },
     {
+	  "dbf_id": 115753,
+	  "name": "Conflagrate"
+    },
+    {
       "dbf_id": 86538,
       "name": "Darkshire Librarian"
     },
@@ -1450,6 +1458,10 @@
       "name": "Dancing Swords"
     },
     {
+	  "dbf_id": 115648,
+	  "name": "Petal Picker"
+    },
+    {
       "dbf_id": 72583,
       "name": "Treasure Guard"
     },
@@ -1460,6 +1472,10 @@
     {
       "dbf_id": 71228,
       "name": "Whelp Bonker"
+    },
+    {
+	  "dbf_id": 115631,
+	  "name": "Amirdrassil"
     },
     {
       "dbf_id": 9082,
