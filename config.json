@@ -333,6 +333,11 @@
       "dbf_id": 114088,
       "tag": 3166,
       "value": -1
+    },
+    {
+      "dbf_id": 120681,
+      "tag": 1456,
+      "value": 0
     }
   ],
   "draw_card_blacklist": [
@@ -755,8 +760,8 @@
       "name": "Research Project"
     },
     {
-	  "dbf_id": 115635,
-	  "name": "Smoldering Grove"
+      "dbf_id": 115635,
+      "name": "Smoldering Grove"
     },
     {
       "dbf_id": 69500,
@@ -1170,8 +1175,8 @@
       "name": "Mortal Coil"
     },
     {
-	  "dbf_id": 115753,
-	  "name": "Conflagrate"
+      "dbf_id": 115753,
+      "name": "Conflagrate"
     },
     {
       "dbf_id": 86538,
@@ -1458,8 +1463,8 @@
       "name": "Dancing Swords"
     },
     {
-	  "dbf_id": 115648,
-	  "name": "Petal Picker"
+      "dbf_id": 115648,
+      "name": "Petal Picker"
     },
     {
       "dbf_id": 72583,
@@ -1474,8 +1479,8 @@
       "name": "Whelp Bonker"
     },
     {
-	  "dbf_id": 115631,
-	  "name": "Amirdrassil"
+      "dbf_id": 115631,
+      "name": "Amirdrassil"
     },
     {
       "dbf_id": 9082,
