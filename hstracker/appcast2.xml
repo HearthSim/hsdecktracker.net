@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.3</title>
+            <pubDate>Tue, 29 Apr 2025 20:50:05 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Updated for Hearthstone 32.2.0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Added tracking for Repackage Box.&lt;/li&gt;
+&lt;li&gt;Added related card tooltips for Brillant Macaw and Contraband Stash.&lt;/li&gt;
+&lt;li&gt;Added counters for Flickering Lightbot and SeaShanty.&lt;/li&gt;
+&lt;li&gt;Added Related Cards Tooltips to Twisted Webweaver.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect display for the Colossus and Asteroid Damage counters&lt;/li&gt;
+&lt;li&gt;Fixed an issue where cards destroyed by Wheel of Death!!! and The 8 Hands from Beyond appeared on opponent's decklist.&lt;/li&gt;
+&lt;li&gt;Fixed The Ceaseless Expanse counter not being accurate in some edge cases (Paladin Auras and Dirty Rat).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3191</sparkle:version>
+            <sparkle:shortVersionString>3.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="58971621" sparkle:dsaSignature="MCwCFAVlJDkm3mHEXWDepSYegoMozvLEAhQzFdF+uBUEOTtLvqVuK1eby9rKew==" sparkle:edSignature="dqBWv+DQPlaf2HpzHwbCDB2KDOVb1e5BIjzv+51u1Pet+siLo5v1hrVVQ14Z7szeZi04f9qzDFiib+fkJBSqCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.2</title>
             <pubDate>Tue, 08 Apr 2025 21:12:27 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
