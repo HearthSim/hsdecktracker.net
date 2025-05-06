@@ -338,6 +338,11 @@
       "dbf_id": 120681,
       "tag": 1456,
       "value": 0
+    },
+    {
+      "dbf_id": 97535,
+      "tag": 1456,
+      "value": 1
     }
   ],
   "draw_card_blacklist": [
