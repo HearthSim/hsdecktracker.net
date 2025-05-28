@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.8</title>
+            <pubDate>Wed, 28 May 2025 09:53:16 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash when playing Bolide Behemoth (issue #1371)&lt;/li&gt;
+&lt;li&gt;Fixed an issue where spells countered by Counterspell were being counted for Counters and Related Card Tooltips.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3217</sparkle:version>
+            <sparkle:shortVersionString>3.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59950086" sparkle:dsaSignature="MCwCFGQRfxoRtE1+lqVZ9hdV1TLfallcAhQHrvL02LIB30Kl5rHIoI5gWlV90g==" sparkle:edSignature="6qSXYhirQnF0n7LylqL015Je9/9ZMtuFwXIqqjh9UKg14UoRPEk3jlRZHfWpqAYyz7M7O2g5NRx6nt2t+d+YAg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.8/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.7</title>
             <pubDate>Fri, 23 May 2025 14:07:56 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
