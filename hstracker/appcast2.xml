@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.9</title>
+            <pubDate>Tue, 03 Jun 2025 19:04:07 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 32.4&lt;/li&gt;
+&lt;li&gt;Added cards chosen by Overplanner to the top of the deck and cards shuffled by Sir Finley, Sea Guide to the bottom of the deck.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where some of the opponent's counters were not appearing.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where Incindius' eruptions were not upgrading in the decklist.Add commentMore actions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3225</sparkle:version>
+            <sparkle:shortVersionString>3.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59968273" sparkle:dsaSignature="MCwCFAPdAbAqJRRmn6YtVJaVZXgeXzHvAhQW/p693ESbP6KYQJiuDpp2H4L6eQ==" sparkle:edSignature="UTO0DqcnrTzdyC/t5OxNfCrhqS4tbvkTFHZzD0lA0dnlhx4Q1CMuf8TdJgT1v5ybBa0yuRRHU3HTWSU/lsy9Aw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.9/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.8</title>
             <pubDate>Wed, 28 May 2025 09:53:16 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
