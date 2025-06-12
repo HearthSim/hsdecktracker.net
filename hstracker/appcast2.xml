@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.10</title>
+            <pubDate>Thu, 12 Jun 2025 17:35:58 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Bob's Buddy for Hearthstone 32.4.2.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3226</sparkle:version>
+            <sparkle:shortVersionString>3.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59974346" sparkle:dsaSignature="MC0CFB4Mcct7Rf/5zI0uAMQdOKfFNzQzAhUAlXeUIc6D92KaYstanZcPEWgLm4Q=" sparkle:edSignature="SfmHdTWkskx6tPiq39sySVTn3ZOJhGu9Qm26GvEZzHYnhZrXRoMZoWLYEHse7JbJpgxBsFwLV9QhL0+KxXoWBw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.10/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.9</title>
             <pubDate>Tue, 03 Jun 2025 19:04:07 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
