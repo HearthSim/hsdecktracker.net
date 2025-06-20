@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.2.11</title>
+            <pubDate>Fri, 20 Jun 2025 14:53:58 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added an Arena deck name template to the Importing preferences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issue with Arena game tracking with Underground Arena and deck import&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Fire-forged Evoker.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Rapid Reanimation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3228</sparkle:version>
+            <sparkle:shortVersionString>3.2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="60008906" sparkle:dsaSignature="MC0CFA8zhp/WkwLKMoAnNSmYkNyMvv5GAhUAjmJFrDhlAPq3IbDfZ9WM/w4xKgc=" sparkle:edSignature="Xa/fjiA+HXHkRrsSlhzdg33sMUHPv9mwQ02U0+9QRbL9ZsKMe6P3umWw+TvuhHb82REAGgg44tKb75/nvNS9Cg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.2.11/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.10</title>
             <pubDate>Thu, 12 Jun 2025 17:35:58 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
