@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.0</title>
+            <pubDate>Tue, 01 Jul 2025 20:41:51 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 33.0.0 (card highlights, counters, etc... will be added later)&lt;/li&gt;
+&lt;li&gt;Added related cards for Wallow the Wretched.&lt;/li&gt;
+&lt;li&gt;Added Card Highlights to many cards available in Arena.&lt;/li&gt;
+&lt;li&gt;Added Related Card Tooltips to many cards available in Arena.&lt;/li&gt;
+&lt;li&gt;Removed the counters with the old layout as these have been fully replaced by the new-style counters.Add commentMore actions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where some cards with a &amp;quot;Start of the Game&amp;quot; effect were revealed in the opponent's hand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the final placement not being detected correctly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3239</sparkle:version>
+            <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59725235" sparkle:dsaSignature="MCwCFCvgxbyD0e7BYwMlnIb4xQtC5sDQAhRdN7FgXH0b8jM8RYdPQ18I4J2utg==" sparkle:edSignature="2TOi7EAmlmlLY9L6U40gK1i/vC/GbpP7oADKMwWtOoJ9gqAscPpVrIiNyWwVg62RAF+DR/+iYGLhpFGo4XTVCQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.2.11</title>
             <pubDate>Fri, 20 Jun 2025 14:53:58 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
