@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.2</title>
+            <pubDate>Thu, 17 Jul 2025 18:16:10 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 33.0.3&lt;/li&gt;
+&lt;li&gt;Added counter for Lightray.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Dread Raptor not highlighting 3-cost minions in the deck.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated Bob's Buddy for Hearthstone 33.0.3.&lt;/li&gt;
+&lt;li&gt;Fixed Beetles counter when Silky Shimmermot is the only bettle-related minion on the board.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3267</sparkle:version>
+            <sparkle:shortVersionString>3.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59797212" sparkle:dsaSignature="MCwCFC4eRvmwsH/G8lU+N5o7l4Mv1VWzAhQ/dW6fg9/8n1AQhq1zN395tN5X5g==" sparkle:edSignature="ZniSLhQgRVV3wn3bCr4sJhWKJtVJOxuQnCVaH97UFAv1HD62QJVCDhqmtzSNTnIeKn2o0e1NCUtxRJ7yLE1hCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.1</title>
             <pubDate>Fri, 11 Jul 2025 12:51:42 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
