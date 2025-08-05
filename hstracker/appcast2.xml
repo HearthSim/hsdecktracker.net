@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.3</title>
+            <pubDate>Tue, 05 Aug 2025 16:54:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 33.2.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where Reach Equilibrium (Priest's Quest) would count as 3 spells in the spell counter.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3272</sparkle:version>
+            <sparkle:shortVersionString>3.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59630647" sparkle:dsaSignature="MCwCFHWCauyDQW/iMK2WcmpgxOy/UX+vAhRVm522XqG5gKzikCOjwQ09OjA1Vw==" sparkle:edSignature="Qk8uQIUOLp4d2ePDzUt/9FDGkryv7Ul2/yASJhH4tI7JN9+1NBM99LIGkDUYksufdMkJBPukJPHd0z3Dm6djAQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.2</title>
             <pubDate>Thu, 17 Jul 2025 18:16:10 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
