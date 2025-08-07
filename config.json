@@ -24,6 +24,11 @@
 	"tier7": {
 		"disabled": false
 	},
+	"sale": {
+		"enabled": true,
+		"id": 1,
+		"discount": 31
+	},
 	"mulligan_guide": {
 		"disabled": false
 	},
