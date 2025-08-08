@@ -13,10 +13,10 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.40.0",
+		"min_required_version": "1.46.5",
 		"sentry_reporting": false,
-		"sentry_min_required_version": "1.40.0",
-		"metric_sampling": 1,
+		"sentry_min_required_version": "1.46.5",
+		"metric_sampling": 0.01,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
 		"data_quality_warning": false
