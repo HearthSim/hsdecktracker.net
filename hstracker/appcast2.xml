@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.4</title>
+            <pubDate>Mon, 11 Aug 2025 13:53:29 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added potential fix for crash after Arena Underground loss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Glim Guardian.&lt;/li&gt;
+&lt;li&gt;Added support for Orc-estra Conductor&lt;/li&gt;
+&lt;li&gt;Added support for Tumbling Disaster&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3275</sparkle:version>
+            <sparkle:shortVersionString>3.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="59632051" sparkle:dsaSignature="MCwCFCPmPRD3e3e47xzxbEnR2dyZmRKdAhQl8iT2OfN2vLC9DiU6vLx/iu72EA==" sparkle:edSignature="AMJ0ZbIyvC5cTyR3j4OuAT8G14xdDdW3Dttnf10G/c+qXEEM3LJL4kl5Rbh/2F9PFeLYYTVN9j7uQg5Bj7xMDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.4/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.3</title>
             <pubDate>Tue, 05 Aug 2025 16:54:28 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
