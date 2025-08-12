@@ -16,7 +16,7 @@
 		"min_required_version": "1.46.5",
 		"sentry_reporting": false,
 		"sentry_min_required_version": "1.46.5",
-		"metric_sampling": 0.01,
+		"metric_sampling": 0.1,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
 		"data_quality_warning": false
