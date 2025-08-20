@@ -16,7 +16,7 @@
 		"min_required_version": "1.46.5",
 		"sentry_reporting": false,
 		"sentry_min_required_version": "1.46.5",
-		"metric_sampling": 0.1,
+		"metric_sampling": 1,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
 		"data_quality_warning": false
@@ -338,16 +338,6 @@
 			"dbf_id": 114088,
 			"tag": 3166,
 			"value": -1
-		},
-		{
-			"dbf_id": 87060,
-			"tag": 1456,
-			"value": 1
-		},
-		{
-			"dbf_id": 117912,
-			"tag": 1456,
-			"value": 0
 		}
 	],
 	"draw_card_blacklist": [
