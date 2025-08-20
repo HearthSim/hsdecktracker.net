@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.5</title>
+            <pubDate>Tue, 19 Aug 2025 21:51:47 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 33.2.2&lt;/li&gt;
+&lt;li&gt;Added hand tracking for cards copied by Rangari Scout and Tolin's Goblet.&lt;/li&gt;
+&lt;li&gt;Added related cards for Rest in Peace.&lt;/li&gt;
+&lt;li&gt;Added hand tracking for cards copied by Bottomless Toy Chest.&lt;/li&gt;
+&lt;li&gt;Changed Colossus Damage Counter to appear when opponent generated Protoss minions from Mothership.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Refined conditions for displaying the Blood Gem Counter.&lt;/li&gt;
+&lt;li&gt;Fixed Careful Investment being miscounted in the Gold Next Turn counter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Haunted Carapace.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Blue Whelp.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Roaring Recruiter.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Roaring Hydralisk.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3290</sparkle:version>
+            <sparkle:shortVersionString>3.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="68774679" sparkle:dsaSignature="MCwCFCwvRU6fPlVSCD8n7HaDjWS8birDAhRkc2esRT1brcIhV/VR4nu9KBEHQA==" sparkle:edSignature="6VsUDP3nMiGNlPvI+J5YiQW9OmQBEUkaK/+nKxQrqv7VSGhiVZAIYuTIKqLuYIQ3fFi77P0H/2YUG/NmxLuVAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.4</title>
             <pubDate>Mon, 11 Aug 2025 13:53:29 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
