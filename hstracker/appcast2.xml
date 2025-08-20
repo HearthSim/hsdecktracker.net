@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.7</title>
+            <pubDate>Wed, 20 Aug 2025 15:01:15 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed start up crash&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an issue where cards were wrongly marked as unsupported.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3294</sparkle:version>
+            <sparkle:shortVersionString>3.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59643629" sparkle:dsaSignature="MCwCFDt2u0DlBkGyB+TVszDwbYwm8sYKAhQUhFR8imSTcJURH7sme2CqfLGyzA==" sparkle:edSignature="3cBx3IghnVCznm9tR0aSEtRDY20u26X7SlQ4XGRwwSiXwH5LkT5Qkj8dBYUWlYPeqlq1NxXNq0ZgXAY6t2VYDA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.7/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.6</title>
             <pubDate>Wed, 20 Aug 2025 10:52:39 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
@@ -9,9 +27,6 @@
             <sparkle:version>3291</sparkle:version>
             <sparkle:shortVersionString>3.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <sparkle:tags>
-                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
             <enclosure length="68773596" sparkle:dsaSignature="MCwCFDwK5qk14L3LJh4lzJKuwXjzvUrAAhRLRYnjrdVAiIUN5TKXsDNLSKxS8w==" sparkle:edSignature="Y6HOLGOtYvyhlBUwM4aMswx0uolyVC43I3M2ZkjuXh5QKmivZOWE7+C+whWivL56EM5ODCihPIN71HFhXCr7DQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.6/HSTracker.app.zip"/>
         </item><item>
             <title>3.3.5</title>
