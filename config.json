@@ -628,6 +628,10 @@
 			"name": "Spread the Word"
 		},
 		{
+			"dbf_id": 118712,
+			"name": "Panther Mask"
+		},
+		{
 			"dbf_id": 55036,
 			"name": "Aeroponics"
 		},
@@ -1061,6 +1065,10 @@
 		{
 			"dbf_id": 103164,
 			"name": "Toy Boat"
+		},
+		{
+			"dbf_id": 118484,
+			"name": "Crystal Tusk"
 		},
 		{
 			"dbf_id": 2847,
