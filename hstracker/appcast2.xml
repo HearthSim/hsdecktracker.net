@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.9</title>
+            <pubDate>Thu, 11 Sep 2025 16:56:18 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added automatic display of Tavern Tier 7 minions in the overlay when Norgannon’s Reward is present.&lt;/li&gt;
+&lt;li&gt;Added card highlighting for Day of Rebirth cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved Gold Next Turn counter.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where opponent's rest in peace related cards would display the heroes swapped.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where counters were not correctly appearing/disappearing during discover phase.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where &amp;quot;Start of the Game&amp;quot; cards would be identified in opponent's hand when drawn by Nightmare Lord Xavius.&lt;/li&gt;
+&lt;li&gt;Fixed conditions for displaying the Blood Gem Counter.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where the Shop Elemental Buffs counter would not appear.&lt;/li&gt;
+&lt;li&gt;Increased delay to show counter tooltips on hover.&lt;/li&gt;
+&lt;li&gt;Tentatively fixed an issue that prevented MMR results from updating after ranked matches.&lt;/li&gt;
+&lt;li&gt;Fixed an issue where corpse counter would appear when the opponent is not a Warlock with Death Knight Tourist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Whirring Protector.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3309</sparkle:version>
+            <sparkle:shortVersionString>3.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="59741546" sparkle:dsaSignature="MCwCFGmDfd6pLahc8xaqYfgjPW+sZU1zAhQf5nPTkvl09XN2iagkn46sWMIh3A==" sparkle:edSignature="IMWR7Dft+XKAn4zDW5X1mrpGZHlFqWpdytuoHXLittOnpt0FT/wcsfNA5SFCPFHkBeeBFNtylHF4OIn1mAQNDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.9/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.8</title>
             <pubDate>Wed, 03 Sep 2025 11:07:37 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
