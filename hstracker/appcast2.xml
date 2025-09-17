@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.10</title>
+            <pubDate>Wed, 17 Sep 2025 16:20:00 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 33.4.2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3310</sparkle:version>
+            <sparkle:shortVersionString>3.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59741345" sparkle:dsaSignature="MCwCFBmakcy4detD/i+NXGC4xx6SPiwqAhR8dEIwf8vKeCF8Nc82e+c9bz35pQ==" sparkle:edSignature="QhyygxWBARdD34pxSGoHQPavqI2uvUMRT0X+EMpiMJT8CsAicGGFEz0CUPj9rkf3XNvzlrrgkWk8GpL9FW2pAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.10/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.9</title>
             <pubDate>Thu, 11 Sep 2025 16:56:18 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
