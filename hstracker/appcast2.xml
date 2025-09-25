@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.11</title>
+            <pubDate>Wed, 24 Sep 2025 20:19:52 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Filtered out unavailable cards: Opponent's counters and related cards on Arena are now hidden if they are not in the current card pool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Rallying Cry.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3312</sparkle:version>
+            <sparkle:shortVersionString>3.3.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="59751606" sparkle:dsaSignature="MC0CFBJRF0xq7w18T6YRLXMWqJJk+VOyAhUAjTeKV0Iy/+pcLgsUi/6ujBNJqHw=" sparkle:edSignature="TOqFzZ1GyB+THNfKDQwlbltGQBZzXK4uyETuEY7UKVwmYUi4BzSOlaoN5NPV9f46t/YEk+BdA0sIzri/HsXzCg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.11/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.10</title>
             <pubDate>Wed, 17 Sep 2025 16:20:00 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
