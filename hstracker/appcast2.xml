@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.3.13</title>
+            <pubDate>Wed, 08 Oct 2025 19:47:18 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed crash during Battlegrounds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3328</sparkle:version>
+            <sparkle:shortVersionString>3.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="59829649" sparkle:dsaSignature="MCwCFDZX/HEvdKBiYZ5VYzYET3+RB467AhQZO/Of1hLqcoX9gBwMfOqien/lcA==" sparkle:edSignature="+cuodv3xM7AIERJNW8z8lRyrW0IfXvepJ7QQxIThskm9b4zftPrghEq1U/HGPOtw7cy7IX45BmOWOnwtesiWDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.3.13/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.12</title>
             <pubDate>Tue, 07 Oct 2025 20:56:27 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
