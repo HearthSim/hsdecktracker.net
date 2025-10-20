@@ -335,6 +335,10 @@
 		{
 			"dbf_id": 116920,
 			"short_name": "Cenarius"
+		},
+		{
+			"dbf_id": 122925,
+			"short_name": "Loh"
 		}
 	],
 	"battlegrounds_tag_overrides": [
