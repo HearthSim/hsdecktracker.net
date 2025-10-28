@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.0</title>
+            <pubDate>Tue, 28 Oct 2025 19:28:59 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 34.0.0&lt;/li&gt;
+&lt;li&gt;Secret tracker now filters the list of possible secrets by the creator of the secret.&lt;br /&gt;
+&lt;em&gt;This means that only Fire secrets will appear when created by Pyrotechnician or only secrets from the past will appear when created by Tear Reality.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;It also works for Arena and Underground Arena, where the generation pool may be different from the draft pool.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Secret tracker now filters the list of possible secrets if they were drawn by a Tutor card.&lt;br /&gt;
+&lt;em&gt;This means that only Frost secrets will appear when drawn by Watercolor Artist or only Fire secrets when drawn by Living Flame.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Added Related Cards for Grey Sage Parrot.&lt;/li&gt;
+&lt;li&gt;Added deck highlight to Twilight Deceptor and Herald of Lokholar.
+&lt;strong&gt;Notes&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;More updates for patch 34.0 will be coming soon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3345</sparkle:version>
+            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="60406183" sparkle:dsaSignature="MCwCFAfsFfQkV91kajsXpJM4YkqqMyUYAhRdim6qIe0zT/vzlWNyMaQ72a1O0A==" sparkle:edSignature="2BMkA7qh5LmtI0kXFTm4smChYAyG9XH36POKBfTj0qwUkBOi64afVasocm2vPB7nJpKakrN1Eeoi68gXuSutCQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.3.14</title>
             <pubDate>Thu, 16 Oct 2025 17:46:57 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
