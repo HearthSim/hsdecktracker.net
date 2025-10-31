@@ -455,6 +455,18 @@
 			"name": "Parachute"
 		},
 		{
+			"dbf_id": 120142,
+			"name": "Fleeing Ur'zul"
+		},
+		{
+			"dbf_id": 120165,
+			"name": "Fleeing Incubus"
+		},
+		{
+			"dbf_id": 120167,
+			"name": "Fleeing Wrathguard"
+		},
+		{
 			"dbf_id": 56791,
 			"name": "Chaos Strike"
 		},
@@ -759,6 +771,10 @@
 			"name": "Starving Buzzard"
 		},
 		{
+			"dbf_id": 120788,
+			"name": "Arrow Retriever"
+		},
+		{
 			"dbf_id": 42013,
 			"name": "Carnassa's Brood"
 		},
@@ -850,6 +866,10 @@
 		{
 			"dbf_id": 61589,
 			"name": "Sayge, Seer of Darkmoon"
+		},
+		{
+			"dbf_id": 119649,
+			"name": "Temporal Construct"
 		},
 
 		{
@@ -1103,6 +1123,10 @@
 			"name": "Tortollan Ninja"
 		},
 		{
+			"dbf_id": 119815,
+			"name": "King Llane"
+		},
+		{
 			"dbf_id": 105142,
 			"name": "Dubious Purchase"
 		},
@@ -1159,6 +1183,10 @@
 			"name": "Flash of Lightning"
 		},
 		{
+			"dbf_id": 120437,
+			"name": "Primordial Overseer"
+		},
+		{
 			"dbf_id": 86229,
 			"name": "Framed"
 		},
@@ -1179,12 +1207,20 @@
 			"name": "Thorim, Stormlord"
 		},
 		{
+			"dbf_id": 120448,
+			"name": "Nascent Bolt"
+		},
+		{
 			"dbf_id": 2008,
 			"name": "Siltfin Spiritwalker"
 		},
 		{
 			"dbf_id": 71291,
 			"name": "Agony"
+		},
+		{
+			"dbf_id": 120483,
+			"name": "Shred of Time"
 		},
 		{
 			"dbf_id": 43122,
@@ -1353,6 +1389,10 @@
 		{
 			"dbf_id": 63701,
 			"name": "Stonemaul Anchorman"
+		},
+		{
+			"dbf_id": 120828,
+			"name": "For Glory!"
 		},
 		{
 			"dbf_id": 2221,
