@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.1</title>
+            <pubDate>Mon, 10 Nov 2025 20:09:09 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added card highlights for patch 34.0.0 cards&lt;/li&gt;
+&lt;li&gt;Added cards offered by Waveshaping to the bottom of the deck.&lt;/li&gt;
+&lt;li&gt;Added cards discovered by Kaldorei Cultivator to the bottom of the deck.&lt;/li&gt;
+&lt;li&gt;Added Timethief Rafaam Counter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed quests not showing in opponent deck list (#1387)&lt;/li&gt;
+&lt;li&gt;Filter the secret given to the opponent by Faceless Enigma.&lt;/li&gt;
+&lt;li&gt;Fixed crashes when Murozond, Unbounded's attack was set to infinity.&lt;/li&gt;
+&lt;li&gt;Fixed The Kingslayer not Highlighting Incindius' Eruptions.&lt;/li&gt;
+&lt;li&gt;Fixed fabled bundled cards not appearing as Legendary cards in the decklist.&lt;/li&gt;
+&lt;li&gt;Fixed King Llane not appearing in opponent's decklist.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3358</sparkle:version>
+            <sparkle:shortVersionString>3.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="60434889" sparkle:dsaSignature="MCwCFGpwt31TE8Fj8yP2mJ7IVPi9zoJAAhRl42nWtOMHYNEP+t1W7XfTSBPRbg==" sparkle:edSignature="Yx3eTz3c8ro6h5cUHX+taBbUYZiRwgBOSLjuPerQ5SrqMphtXdcJzc/ZxUcORqVQrqsg6gPpiwFC2a9zEWytDQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.1/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.0</title>
             <pubDate>Tue, 28 Oct 2025 19:28:59 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
