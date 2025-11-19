@@ -24,10 +24,17 @@
 	"tier7": {
 		"disabled": false
 	},
-	"sale": {
-		"enabled": false,
-		"id": 1,
-		"discount": 31
+	"sales": {
+		"battlegrounds": {
+			"enabled": false,
+			"id": 2,
+			"discount": 25
+		},
+		"traditional": {
+			"enabled": false,
+			"id": 1,
+			"discount": 25
+		}
 	},
 	"mulligan_guide": {
 		"disabled": false
