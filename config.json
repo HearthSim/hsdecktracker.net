@@ -2,7 +2,7 @@
 	"news": {
 		"id": 23,
 		"items": [
-			"We have a new [HDT Feature Survey](https://docs.google.com/forms/d/1x5TgskQnFFqPLG2baBz22oTYATp8hEHoijhF0vJcE2I/) so you can help us to decide what to add next."
+			"Black Friday arrives to the Tavern! [Unlock Premium + Tier7 at 25% OFF](https://hsreplay.net/premium/) for a limited time!"
 		]
 	},
 	"collection_banner": {
@@ -26,12 +26,12 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": false,
+			"enabled": true,
 			"id": 2,
 			"discount": 25
 		},
 		"traditional": {
-			"enabled": false,
+			"enabled": true,
 			"id": 1,
 			"discount": 25
 		}
