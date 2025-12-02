@@ -13,9 +13,9 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.46.9",
+		"min_required_version": "1.48.13",
 		"sentry_reporting": false,
-		"sentry_min_required_version": "1.46.9",
+		"sentry_min_required_version": "1.48.13",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
