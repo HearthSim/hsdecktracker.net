@@ -2,7 +2,7 @@
 	"news": {
 		"id": 23,
 		"items": [
-			"Black Friday arrives to the Tavern! [Unlock Premium + Tier7 at 25% OFF](https://hsreplay.net/premium/?utm_source=hdt&utm_medium=client&utm_campaign=news_bar) for a limited time!"
+			"[Check out the best Brawselium decks in HSReplay.](https://hsreplay.net/decks/?gameType%3DTAVERN_BRAWL?utm_source=hdt&utm_medium=client&utm_campaign=news_bar)"
 		]
 	},
 	"collection_banner": {
@@ -26,12 +26,12 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": true,
+			"enabled": false,
 			"id": 2,
 			"discount": 25
 		},
 		"traditional": {
-			"enabled": true,
+			"enabled": false,
 			"id": 1,
 			"discount": 25
 		}
