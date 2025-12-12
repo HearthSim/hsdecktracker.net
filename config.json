@@ -346,6 +346,14 @@
 		{
 			"dbf_id": 122925,
 			"short_name": "Loh"
+		},
+		{
+			"dbf_id": 126537,
+			"short_name": "Chromie"
+		},
+		{
+			"dbf_id": 127696,
+			"short_name": "Murozond"
 		}
 	],
 	"battlegrounds_tag_overrides": [
