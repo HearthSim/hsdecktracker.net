@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.5</title>
+            <pubDate>Sat, 13 Dec 2025 11:32:53 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated for Hearthstone 34.2.2&lt;/li&gt;
+&lt;li&gt;Add unknown cards shuffled by Sky Mother Aviana, Blasteroid, Academic Espionage and Agency Espionage. This way the player can know how many were drawn and how many are left in the deck.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed importing of deck strings with Fabled Cards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support for Dramaloc.&lt;/li&gt;
+&lt;li&gt;Added support for Costume Enthusiast.&lt;/li&gt;
+&lt;li&gt;Added support for Imposing Percussionist.&lt;/li&gt;
+&lt;li&gt;Added support for Soul Rewinder.&lt;/li&gt;
+&lt;li&gt;Added support for Ashen Corruptor.&lt;/li&gt;
+&lt;li&gt;Added support for Timewarped Nellie's Ship.&lt;/li&gt;
+&lt;li&gt;Tentatively fixed incorrect simulation results due to Apexis Guardian.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to fighting a dead opponent.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Blue Volumizer;&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Green Volumizer;&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Red Volumizer;&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Deathwing Hero Power.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Bluesy Siren.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Apexis Guardian.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Saltscale Honcho.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Flighty Scout.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Bluesy Siren.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Timewarped Scourfin.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Expert Aviator.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3382</sparkle:version>
+            <sparkle:shortVersionString>3.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="60849062" sparkle:dsaSignature="MC4CFQCDUy5TfOAWUZDEm2AW26uq3eYbfQIVAJFtdHN+WarsQwA85vC1CBSq97Xf" sparkle:edSignature="XSIhSg2cxvs+AqR2SmmKoECL71PksLCst8AryOCOZ6Ha0JIyuLCffjKHDk+qfgO9iLJZZqZsH8al4qBFGr/kCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.4</title>
             <pubDate>Thu, 04 Dec 2025 20:11:18 -0500</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
