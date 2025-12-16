@@ -1,9 +1,7 @@
 {
 	"news": {
-		"id": 23,
-		"items": [
-			"[Check out the best Brawselium decks in HSReplay.](https://hsreplay.net/decks/?utm_source=hdt&utm_medium=client&utm_campaign=news_bar#gameType=TAVERN_BRAWL)"
-		]
+		"id": 24,
+		"items": []
 	},
 	"collection_banner": {
 		"visible": true,
