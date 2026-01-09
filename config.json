@@ -354,7 +354,13 @@
 			"short_name": "Murozond"
 		}
 	],
-	"battlegrounds_tag_overrides": [
+	"battlegrounds_tag_overrides": 
+	[
+		{
+			"dbf_id": 95271,
+			"tag": 1456,
+			"value": 0
+		},
 		{
 			"dbf_id": 126820,
 			"tag": 1456,
