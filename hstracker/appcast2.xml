@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.7</title>
+            <pubDate>Tue, 13 Jan 2026 18:16:21 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 34.4.0&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new counters: Minions that Died this Turn and Overload this game.&lt;/li&gt;
+&lt;li&gt;Added deck highlight for Finality.&lt;/li&gt;
+&lt;li&gt;Added Flames Of Infinity to secret tracker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed an info leak involving Nightmare Fuel and Deja Vu.&lt;/li&gt;
+&lt;li&gt;Updated Right Most Tavern Minion Buff counter-related cards.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3406</sparkle:version>
+            <sparkle:shortVersionString>3.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="60962394" sparkle:dsaSignature="MCwCFFDM3BAfK8Q4WbzEqpLZxEQY/ci3AhQX4l5H9TenK2gehyNZNUeG5Ru/6g==" sparkle:edSignature="p4FdWib+lUPrvqMJJpP5AbLMHQk9wUr5UWtnF4hBFvJXAKXee5ergZ0QZWQ+4PHmqwsYqcJKQsJT2zPKVs+VDg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.7/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.6</title>
             <pubDate>Sat, 10 Jan 2026 15:37:39 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Hearthstone&lt;/strong&gt;:&lt;/p&gt;
