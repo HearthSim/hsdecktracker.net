@@ -354,8 +354,7 @@
 			"short_name": "Murozond"
 		}
 	],
-	"battlegrounds_tag_overrides": 
-	[
+	"battlegrounds_tag_overrides": [
 		{
 			"dbf_id": 95271,
 			"tag": 1456,
@@ -526,6 +525,10 @@
 		{
 			"dbf_id": 69684,
 			"name": "Spectral Sight"
+		},
+		{
+			"dbf_id": 121064,
+			"name": "Press the Advantage"
 		},
 		{
 			"dbf_id": 59723,
@@ -875,6 +878,10 @@
 		{
 			"dbf_id": 98097,
 			"name": "Unchained Gladiator"
+		},
+		{
+			"dbf_id": 121189,
+			"name": "Fragment of Nothing"
 		},
 		{
 			"dbf_id": 47438,
@@ -1278,6 +1285,10 @@
 		{
 			"dbf_id": 115753,
 			"name": "Conflagrate"
+		},
+		{
+			"dbf_id": 121168,
+			"name": "Eternal Toil"
 		},
 		{
 			"dbf_id": 86538,
