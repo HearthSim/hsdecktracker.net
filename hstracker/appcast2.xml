@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.8</title>
+            <pubDate>Tue, 27 Jan 2026 17:26:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 3.4.2&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Elwynn Boar counter.&lt;/li&gt;
+&lt;li&gt;Added Chogall and Magister Dawngrasp related cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Attempted fix for an info leak involving Nightmare Fuel and Deja Vu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3412</sparkle:version>
+            <sparkle:shortVersionString>3.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61040044" sparkle:dsaSignature="MC0CFQCSfcKYTU8KFTtRz2WUsNjAkkIoRwIUAzLnAmkl4X4GRtw/FnZ2xrrmP+c=" sparkle:edSignature="tmFSyk799jsqdXj3LlzAMChU4GwqjtYO7WlYajZGc7IFiJ1KxjGXGU15YotOB36edxlk1mNIJvBxXhKIZ3F5DA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.8/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.7</title>
             <pubDate>Tue, 13 Jan 2026 18:16:21 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Updated for Hearthstone 34.4.0&lt;/strong&gt;&lt;/p&gt;
