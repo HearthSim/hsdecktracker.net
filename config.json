@@ -34,6 +34,10 @@
 			"discount": 25
 		}
 	},
+	"spoilers": {
+		"enabled": true,
+		"start_time": 1770608026
+	},
 	"mulligan_guide": {
 		"disabled": false
 	},
