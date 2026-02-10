@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.9</title>
+            <pubDate>Tue, 10 Feb 2026 10:00:37 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 3.4.6&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Reminisce related cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Cho'gall related cards appearing twice.&lt;/li&gt;
+&lt;li&gt;Fixed Secret Tracker not handling cards created by Timelooper Toki.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3417</sparkle:version>
+            <sparkle:shortVersionString>3.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61096190" sparkle:dsaSignature="MC4CFQCJmRULRRkxa0C7wOABMwe3aJjxIgIVAJElHgsEne8dmqkbOFhoO/TAp8ey" sparkle:edSignature="WRkW08DNSfkEv7fzhmuajUmUIstills0Kp3ELIa8menhpkxj2NVbKnsviVn4nEfqbN+LDEarf24hjGUmYDJtDw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.9/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.8</title>
             <pubDate>Tue, 27 Jan 2026 17:26:30 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Updated for Hearthstone 3.4.2&lt;/strong&gt;&lt;/p&gt;
