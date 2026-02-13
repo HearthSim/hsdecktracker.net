@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.10</title>
+            <pubDate>Thu, 12 Feb 2026 20:15:07 -0500</pubDate><description>&lt;p&gt;&lt;strong&gt;Hearthstone&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added support to Splendiferous Whizbang's Decks.&lt;/li&gt;
+&lt;li&gt;Fixed Warmaster Blackhorn not available for deck construction
+&lt;strong&gt;Battlegrounds&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Added Whelp Buff counter to the overlay.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Burgeoning Whelp not considering itself for the Whelp buff.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Burgeoning Whelp buff not being applied to the Whelps summoned during combat.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Twilight Hatchling and Whelp Watcher summoning Whelps in the wrong ordering scope.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to:&lt;br /&gt;
+&lt;em&gt;Photobomber, Stoneshell Guardian, Defiant Shipwright, Lovesick Balladist, Timewarped Collector, Timewarped Astrogrill and Peggy Sturdybone&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Added simulation support for:&lt;br /&gt;
+&lt;em&gt;Timewarped StoneDrake and Timewarped Magnanimoose&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Added simulation support for Burgeoning Whelp's global extra stats to whelps.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3425</sparkle:version>
+            <sparkle:shortVersionString>3.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61196059" sparkle:dsaSignature="MC0CFQCObmJmhVxK0PQmHXNK5dkUaPcukwIUX0SUVjtbnTX7FjOA4DH5CC/xM4Y=" sparkle:edSignature="/RbSM64at+tfyCihL/nUbzbkOeHkxr36TItT1VVSFtOiu+iJdU8ViMvsTdKWxCsVeQHmBpLWvsZpJjCOYuLdCQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.10/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.9</title>
             <pubDate>Tue, 10 Feb 2026 10:00:37 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Updated for Hearthstone 3.4.6&lt;/strong&gt;&lt;/p&gt;
