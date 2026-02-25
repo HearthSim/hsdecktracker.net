@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.4.11</title>
+            <pubDate>Wed, 25 Feb 2026 13:54:20 -0500</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 34.6.2&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Lightray Counter wrongly increasing on Hero Power.&lt;/li&gt;
+&lt;li&gt;Fixed Free Refresh Counter getting stuck when a Free Refresh option is just offered.
+&lt;strong&gt;Battlegriounds&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Photobomber not dealing deathrattle damage after reborning.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results due to Timewarped Promo Drake not buffing correctly.&lt;/li&gt;
+&lt;li&gt;Fixed an error in simulations due to Timewarped Ragnaros trying to deal damage to an empty board.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3431</sparkle:version>
+            <sparkle:shortVersionString>3.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61203020" sparkle:dsaSignature="MCwCFEug3tTs41J4f6rm4eJYgE1wasClAhQkhbLKtXLoLayo7F3SEeQhVHPheQ==" sparkle:edSignature="5BwYdedElB41sfDnFjs5JrWXIb9s7oCqK5F440wfJNlfII8ki/G7XKAKi1k8kk+lr3C9WfpVK8xAvNzASsDXAw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.4.11/HSTracker.app.zip"/>
+        </item><item>
             <title>3.4.10</title>
             <pubDate>Thu, 12 Feb 2026 20:15:07 -0500</pubDate><description>&lt;p&gt;&lt;strong&gt;Hearthstone&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
