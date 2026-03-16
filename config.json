@@ -1,7 +1,9 @@
 {
 	"news": {
 		"id": 24,
-		"items": []
+		"items": [
+			"CATACLYSM arrives to the Tavern! [Unlock Premium + Tier7 at 25% OFF](https://hsreplay.net/premium/?utm_source=hdt&utm_medium=client&utm_campaign=news_bar) for a limited time!"
+		]
 	},
 	"collection_banner": {
 		"visible": true,
@@ -24,13 +26,13 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": false,
-			"id": 2,
+			"enabled": true,
+			"id": 4,
 			"discount": 25
 		},
 		"traditional": {
-			"enabled": false,
-			"id": 1,
+			"enabled": true,
+			"id": 3,
 			"discount": 25
 		}
 	},
