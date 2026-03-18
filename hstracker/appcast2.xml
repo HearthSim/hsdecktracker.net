@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.1</title>
+            <pubDate>Tue, 17 Mar 2026 20:06:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for CATACLYSM expansion&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Herald Counter.&lt;/li&gt;
+&lt;li&gt;Added Deathwing Worldbreaker discount given by Ultraxion.&lt;/li&gt;
+&lt;li&gt;Added trial cards to collection syncing.
+&lt;strong&gt;Battlegrounds&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Added counter sorting by numerical value. This improves the visibility of important counters.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results where:
+&lt;ul&gt;
+&lt;li&gt;Tavish’s Hero Power would not trigger at the start of combat when the opponent had no minions.&lt;/li&gt;
+&lt;li&gt;Minions targeted by Tasmin’s Hero Power could incorrectly buff themselves when their Deathrattle was triggered by another minion.&lt;/li&gt;
+&lt;li&gt;Twilight Whelp tokens would not attack when summoned by Twilight Hatchling.&lt;/li&gt;
+&lt;li&gt;Beetles summoned by Boon of Beetles were missing Taunt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3437</sparkle:version>
+            <sparkle:shortVersionString>3.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61695272" sparkle:dsaSignature="MC0CFGFYLESA4TJCro4PyualnWcxl2BlAhUAjCn3JKW0/0YdcGG5pIEQHvthCn0=" sparkle:edSignature="iDVS8x7WyenquWiaNMUsDBDrLIKWVYJieRDDp+5cMHX6AF2zUhJmk9lBTEitRS3ojMb2oRV0qWWMZkpKF6nvDg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.1/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.0</title>
             <pubDate>Wed, 11 Mar 2026 19:55:30 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;** Updated for Hearthstone 35.0.0**&lt;/p&gt;
