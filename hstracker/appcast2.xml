@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.2</title>
+            <pubDate>Fri, 27 Mar 2026 19:45:24 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Bob's Buddy&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect simulation results where:&lt;/li&gt;
+&lt;li&gt;Timewapred Festergut cards added to hand were not counting stats for Dramaloc&lt;/li&gt;
+&lt;li&gt;Timewarped Red Whelp start of combat attacks were each missing 3 points of damage&lt;/li&gt;
+&lt;li&gt;Timewarped Embalmer ability was not resetting when made golden during combat&lt;/li&gt;
+&lt;li&gt;Irate Rooster was sometimes causing incorrect second attacker when Wingmen hero power was present&lt;/li&gt;
+&lt;li&gt;Golden Twilight Broodmother was incorrectly summoning golden whelps&lt;/li&gt;
+&lt;li&gt;Bird Buddy avenge triggers in a mirror match were not resolving in the correct order&lt;/li&gt;
+&lt;li&gt;Multiple twilight hatchling triggers could cause a Fish of N'zoth killed within &amp;quot;attack immediately&amp;quot; scope to receive the wrong number of deathrattles&lt;/li&gt;
+&lt;li&gt;Reborn minions killed within a twilight hatchling &amp;quot;attack immediately&amp;quot; scope were not saving Jelly Belly&lt;/li&gt;
+&lt;li&gt;Fixed Teron Gorefiend hero power resummoned minion position in cases when the minion destroyed summons multiple minions from reborn and/or deathrattle&lt;/li&gt;
+&lt;li&gt;Grease Bot and Timewarped Guard were missing divine shield after being reborn in combat&lt;/li&gt;
+&lt;li&gt;Icesnarl ability could prevent it form being killed&lt;/li&gt;
+&lt;li&gt;Timewarped Warghoul was not identifying minions with bonus deathrattles as candidates to trigger&lt;/li&gt;
+&lt;li&gt;Golden Timewarped Stonedrake start of combat ability was being double applied&lt;/li&gt;
+&lt;li&gt;Timewarped Whirl-O-Tron was not properly copying Stitched Salvager&lt;/li&gt;
+&lt;li&gt;Show Cyclist deathrattle was bot being copied properly to Fish of N'Zoth&lt;/li&gt;
+&lt;li&gt;The minion chosen from Thorim Stormlord hero power was appearing in the wrong hand position when a Flighty Scout was also purchased on the first turn. This was causing Expert Aviator rallies to apply to the wrong minion in hand.&lt;/li&gt;
+&lt;li&gt;Timewarped Magnanimoose and Timewarped Nellie's Ship were not identifying the correct summoned candidate(s) for the friendly player.&lt;/li&gt;
+&lt;li&gt;Added simulation support for Baby N'Zoth.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3440</sparkle:version>
+            <sparkle:shortVersionString>3.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="61698282" sparkle:dsaSignature="MC0CFQCHcCYUmkht/27aUyeMiw9G7mOL8wIUMr3rL2MrIqZkM3UduBaQb4JfdPo=" sparkle:edSignature="EqZBnB9zncEGTs9GxRIwY4Q1lL9DZvNu8P82xrPrfOzw9O/KWpNB4WgncpOrx0FZNWwLXrkgUSRale0Yczv+BA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.1</title>
             <pubDate>Tue, 17 Mar 2026 20:06:12 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Updated for CATACLYSM expansion&lt;/strong&gt;&lt;/p&gt;
