@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.3</title>
+            <pubDate>Sat, 28 Mar 2026 10:05:41 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixes crash when starting up with verison 3.5.2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3441</sparkle:version>
+            <sparkle:shortVersionString>3.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61699359" sparkle:dsaSignature="MCwCFFqhrZF1HOu+EE4lZH8jTfrEUH59AhRS6B7SVdVTg6UTcJBAGSNXOL0HCg==" sparkle:edSignature="6xG31s74yVjkjqnKN0wyJqjI4d3Bg//Ivbo5eukGuI5Y5HLn7pfA4f8UffEwvuenLKLQf6U355cZxCstAHiuBw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.2</title>
             <pubDate>Fri, 27 Mar 2026 19:45:24 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Bob's Buddy&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
