@@ -2,7 +2,6 @@
 	"news": {
 		"id": 24,
 		"items": [
-			"CATACLYSM arrives to the Tavern! [Unlock Premium + Tier7 at 25% OFF](https://hsreplay.net/premium/?utm_source=hdt&utm_medium=client&utm_campaign=news_bar) for a limited time!",
 			"We have a new [Battlegrounds Feature Survey](https://docs.google.com/forms/d/1P0IqLe9figuSxQoc2xjNh_5i-Ti8bAABHfT7pTtgHd8/) so you can help us to decide what to add next."
 		]
 	},
@@ -27,12 +26,12 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": true,
+			"enabled": false,
 			"id": 4,
 			"discount": 25
 		},
 		"traditional": {
-			"enabled": true,
+			"enabled": false,
 			"id": 3,
 			"discount": 25
 		}
@@ -974,6 +973,10 @@
 			"name": "Divine Favor"
 		},
 		{
+			"dbf_id": 114632,
+			"name": "Ursine Maul"
+		},
+		{
 			"dbf_id": 102790,
 			"name": "Hammer of Wrath"
 		},
@@ -1790,6 +1793,26 @@
 		{
 			"dbf_id": 114654,
 			"name": "Grim Harvest"
+		},
+		{
+			"dbf_id": 127410,
+			"name": "Consumption"
+		},
+		{
+			"dbf_id": 122637,
+			"name": "Sheltered Survivor"
+		},
+		{
+			"dbf_id": 122712,
+			"name": "Shrine of Twilight"
+		},
+		{
+			"dbf_id": 122779,
+			"name": "Mend"
+		},
+		{
+			"dbf_id": 122770,
+			"name": "Broxigar's Last Stand"
 		},
 		{
 			"dbf_id": 114966,
