@@ -14,9 +14,9 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.49.8",
+		"min_required_version": "1.51.6",
 		"sentry_reporting": false,
-		"sentry_min_required_version": "1.49.8",
+		"sentry_min_required_version": "1.51.6",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
 		"can_remove_lich_king": true,
@@ -27,9 +27,9 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": false,
-			"id": 4,
-			"discount": 25
+			"enabled": true,
+			"id": 5,
+			"discount": 10
 		},
 		"traditional": {
 			"enabled": false,
