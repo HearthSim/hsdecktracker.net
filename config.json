@@ -363,6 +363,14 @@
 		{
 			"dbf_id": 127696,
 			"short_name": "Murozond"
+		},
+		{
+			"dbf_id": 126535,
+			"short_name": "Clocksworth"
+		},
+		{
+			"dbf_id": 129684,
+			"short_name": "Genn"
 		}
 	],
 	"battlegrounds_tag_overrides": [
