@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.5</title>
+            <pubDate>Mon, 20 Apr 2026 19:27:20 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update card database to correct version (should fix problem tracking games)
+&lt;strong&gt;Bob's Buddy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Numerous fixes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3455</sparkle:version>
+            <sparkle:shortVersionString>3.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="61935695" sparkle:dsaSignature="MCwCFGf8QoiPYLfN8eyfZWX82A+B7Q61AhQbFLglEyHAmqc3G+YCHq+pKn7wfQ==" sparkle:edSignature="mcK56/MOCje/cZXyKwiwPsAHCrBWsOZ5Z8OmOn2iyzUrvw6IJf74B3OmX2JCsx+rTX+j8b+0LWILiZLYalewBg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.4</title>
             <pubDate>Tue, 14 Apr 2026 21:23:53 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Updated for Hearthstone 35.2.0&lt;/strong&gt;&lt;/p&gt;
