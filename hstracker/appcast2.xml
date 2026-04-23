@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.6</title>
+            <pubDate>Wed, 22 Apr 2026 20:29:53 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed issue with mulligan guide staying on screen&lt;/li&gt;
+&lt;li&gt;Fixed issue with game trackers not working&lt;/li&gt;
+&lt;li&gt;Fixed issue with matches not recording properly
+&lt;strong&gt;Hearthstone&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Added card icon to Eternal Firebolt that returned to hand at the end of the turn.
+&lt;strong&gt;Battlegrounds&lt;/strong&gt;:&lt;/li&gt;
+&lt;li&gt;Added counter for Demon Fodder.&lt;/li&gt;
+&lt;li&gt;Updated all counters.&lt;/li&gt;
+&lt;li&gt;Added simulation support for Repicating Cathedral trinket&lt;/li&gt;
+&lt;li&gt;Added simulation support for Rewinder Portrait trinket&lt;/li&gt;
+&lt;li&gt;Added simulation support for Tichondrius&lt;/li&gt;
+&lt;li&gt;Added simulation support for Old Soul&lt;/li&gt;
+&lt;li&gt;Added simulation support for Maelstrom Emergent&lt;/li&gt;
+&lt;li&gt;Added simulation support for Balinda Stonehearth&lt;/li&gt;
+&lt;li&gt;Added simulation support for Lorewalker Scroll trinket&lt;/li&gt;
+&lt;li&gt;Added Support for Living Azerite and Azerite Portrait Trinket.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results where:
+&lt;ul&gt;
+&lt;li&gt;Blood gems played during combat were incorrectly triggering certain trinkets&lt;/li&gt;
+&lt;li&gt;Banana Slamma and Slamma Sticker trinket were incorrectly buffing health&lt;/li&gt;
+&lt;li&gt;Not properly taking into account presence of multiple hero damaged rewind effects&lt;/li&gt;
+&lt;li&gt;Stomping Stegodon rallys could multiply extensively and cause OutOfMemory exception&lt;/li&gt;
+&lt;li&gt;Falling Sky Golem was missing stats from deathrattle counter when reborn or resummoned&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Revised/Added full support for all cards that generate minions to hand during combat&lt;/li&gt;
+&lt;li&gt;Generated minion pool has been scoped to player tier and races in the lobby (when relevant)&lt;/li&gt;
+&lt;li&gt;Ensured minions added to hand this way can also be summoned (e.g., via Expert Aviator)&lt;/li&gt;
+&lt;li&gt;Updated relevant minion changes for Hotfix Patch 35.2.1&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results where Sly Raptor was not considering the correct pool of minions in the lobby to summon.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results where:
+&lt;ul&gt;
+&lt;li&gt;Scarlet Savior was not receiving divine shield when buffed at start of combat&lt;/li&gt;
+&lt;li&gt;Tide Raiser was not buffing properly when adjacent minions were killed via cleave damage&lt;/li&gt;
+&lt;li&gt;Deep Blue Spellcraft spell stats were outdated&lt;/li&gt;
+&lt;li&gt;Tavish Stormpike hero power trigger order was outdated&lt;/li&gt;
+&lt;li&gt;Golden Expert Aviator could cause the simulator to fail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3464</sparkle:version>
+            <sparkle:shortVersionString>3.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="61937826" sparkle:dsaSignature="MCwCFHfq0JAx/sza8dNSUfpge5fCEDpjAhQnbGLk4jJ52/cid70aFnQozgS/pA==" sparkle:edSignature="DxVvUWI8PoYnBz3AErP3I8/s6NQfVDPZmGZ28YRer0PksPo1htcKh6Wa0gffe+S+hKNM4Lisw+2IOVjY/jEzAA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.6/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.5</title>
             <pubDate>Mon, 20 Apr 2026 19:27:20 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
