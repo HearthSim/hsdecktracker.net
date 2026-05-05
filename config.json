@@ -686,6 +686,10 @@
 			"name": "Frost Lotus Blossom"
 		},
 		{
+			"dbf_id": 123481,
+			"name": "Heartroot Stones"
+		},
+		{
 			"dbf_id": 108617,
 			"name": "Overgrown Beanstalk"
 		},
@@ -811,6 +815,10 @@
 		{
 			"dbf_id": 69969,
 			"name": "Flare"
+		},
+		{
+			"dbf_id": 123486,
+			"name": "Tame Pet"
 		},
 		{
 			"dbf_id": 84007,
