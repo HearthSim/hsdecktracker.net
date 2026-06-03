@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.5.11</title>
+            <pubDate>Wed, 03 Jun 2026 17:50:10 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 35.6.0&lt;/strong&gt;
+&lt;strong&gt;Note&lt;/strong&gt;: Hearthstone now has a native Apple Silicon binary which is currently not supported by HSTracker. Follow the instructions from the alert to use HSTracker while support is added. A future alert will notify you when the problem has been fixed.&lt;/p&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect Muradin's Last Stand Counter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Timewarp tavern button visibility based on current meta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved simulation accuracy for cast spell interactions.&lt;/li&gt;
+&lt;li&gt;Fixed Deathly Phylactery trinket deathrattle simulation behavior.&lt;/li&gt;
+&lt;li&gt;Fixed Humon'gozz incorrectly applying extra tavern spell buffs.&lt;/li&gt;
+&lt;li&gt;Fixed hero power ordering when Tavish appears before Brukan's Lightning.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect attack/health bonuses when opponent hero is Kel'Thuzad.&lt;/li&gt;
+&lt;li&gt;Fixed Leeroy Jenkins incorrectly targeting friendly Stitched Salvager.&lt;/li&gt;
+&lt;li&gt;Fixed Sly Raptor summon pool to correctly include Rylak.&lt;/li&gt;
+&lt;li&gt;Fixed Time Management showing both options as always valid.&lt;/li&gt;
+&lt;li&gt;Fixed Friendly Geist interaction with Tavern Spell buffs.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3509</sparkle:version>
+            <sparkle:shortVersionString>3.5.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="74934503" sparkle:dsaSignature="MC0CFAnRmuQEReAfnv3Ce+66RW8isd7wAhUAgYEKZvFvGsOp/9MXoNPi6lGuQAw=" sparkle:edSignature="shr5xBpjPNMVBWpxhef/8l4AsBec8aVO+HdkSVkA6c4Wqwa8nmEcWcaR8qaU3MIsH9e2gF1DUadyd/rF1RbVCg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.5.11/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.10</title>
             <pubDate>Fri, 29 May 2026 09:53:15 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
