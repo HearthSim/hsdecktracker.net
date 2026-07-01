@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.0</title>
+            <pubDate>Tue, 30 Jun 2026 20:27:42 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.0.0&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added related card highlighting for Sketchy Information.&lt;/li&gt;
+&lt;li&gt;Added related card highlighting for Ice Fishing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed various minor simulation issues.&lt;/li&gt;
+&lt;li&gt;Fixed hero power trigger order at the start of combat.&lt;/li&gt;
+&lt;li&gt;Fixed Soul Fermenter triggering before other effects.&lt;/li&gt;
+&lt;li&gt;Fixed Tarecgosa with Training Certificate to mirror in-game behavior.&lt;/li&gt;
+&lt;li&gt;Added support for Wildfeather Duster.&lt;/li&gt;
+&lt;li&gt;Fixed Sr. Tomb Diver targeting minions that are no longer alive.&lt;/li&gt;
+&lt;li&gt;Fixed Banana Slamma not multiplying attack on friendly minion summon and healing reborn beasts incorrectly.&lt;/li&gt;
+&lt;li&gt;Fixed Lord of the Ruins buffing minions that have already died.&lt;/li&gt;
+&lt;li&gt;Fixed Pack Tactics not copying deathrattles correctly.&lt;/li&gt;
+&lt;li&gt;Fixed Deathtouch Apple with multiple copies and charge tracking.&lt;/li&gt;
+&lt;li&gt;Fixed Silent Enforcer golden resolution between triggers.&lt;/li&gt;
+&lt;li&gt;Fixed reborn not always occurring after deathrattle.&lt;/li&gt;
+&lt;li&gt;Fixed beetle passive buff scaling.&lt;/li&gt;
+&lt;li&gt;Fixed Disguised Graverobber destroying an undead instead of itself.&lt;/li&gt;
+&lt;li&gt;Fixed Training Certificate doubling golden Tarecgosa only once.&lt;/li&gt;
+&lt;li&gt;Fixed Scarlet Survivor regaining Divine Shield after being made golden.&lt;/li&gt;
+&lt;li&gt;Fixed max stats from killed passive scaling minions.&lt;/li&gt;
+&lt;li&gt;Fixed goldenized deathrattle trigger order.&lt;/li&gt;
+&lt;li&gt;Fixed Seafloor Recruiter unable to target minions without a tribe.&lt;/li&gt;
+&lt;li&gt;Fixed Shifting Tide with multiple Tentacle of C'Thun triggers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3526</sparkle:version>
+            <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75326314" sparkle:dsaSignature="MC0CFA95ychjIcRSMvI8A63whcnH9MQwAhUAlPOy4Yq4oXHU58+vbXvIxfKixwI=" sparkle:edSignature="tlWWdDtuYGSJ2Xn461gaK9Mwh5iCvUuMiS/toA4UMHVr6elqKIRfgjJ4F8BFiQDGLTomZsW1vhBlxj+T283KCA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.5.12</title>
             <pubDate>Thu, 11 Jun 2026 17:36:36 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 35.6.2&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Hearthstone&lt;/h2&gt;
