@@ -12,11 +12,9 @@
 	"bobs_buddy": {
 		"disabled": false,
 		"min_required_version": "1.52.20",
-		"sentry_reporting": false,
 		"sentry_min_required_version": "1.52.23",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
-		"can_remove_lich_king": true,
 		"data_quality_warning": false
 	},
 	"tier7": {
@@ -40,9 +38,6 @@
 	},
 	"mulligan_guide": {
 		"disabled": false
-	},
-	"update_info": {
-		"image_update_hearthstone_version": 183876
 	},
 	"battlegrounds_short_names": [
 		{
