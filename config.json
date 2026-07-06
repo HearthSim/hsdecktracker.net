@@ -27,9 +27,9 @@
 			"discount": 10
 		},
 		"traditional": {
-			"enabled": false,
-			"id": 3,
-			"discount": 25
+			"enabled": true,
+			"id": 4,
+			"discount": 16
 		}
 	},
 	"spoilers": {
