@@ -641,6 +641,10 @@
 			"name": "Mark of Y'Shaarj"
 		},
 		{
+			"dbf_id": 126225,
+			"name": "Spider Rider"
+		},
+		{
 			"dbf_id": 56057,
 			"name": "Rising Winds"
 		},
@@ -1176,6 +1180,10 @@
 			"name": "Nerubian Ambush!"
 		},
 		{
+			"dbf_id": 125988,
+			"name": "Blackpaw's Whip"
+		},
+		{
 			"dbf_id": 62888,
 			"name": "Field Contact"
 		},
@@ -1284,6 +1292,14 @@
 			"name": "Thorim, Stormlord"
 		},
 		{
+			"dbf_id": 126410,
+			"name": "Frostshatter"
+		},
+		{
+			"dbf_id": 126411,
+			"name": "Frostshatter Elemental"
+		},
+		{
 			"dbf_id": 122999,
 			"name": "Muradin's Last Stand"
 		},
@@ -1390,6 +1406,14 @@
 		{
 			"dbf_id": 38770,
 			"name": "DOOM!"
+		},
+		{
+			"dbf_id": 126477,
+			"name": "The Unseen Atlas"
+		},
+		{
+			"dbf_id": 127174,
+			"name": "Found Gear!"
 		},
 		{
 			"dbf_id": 69945,
@@ -1524,6 +1548,10 @@
 			"name": "Crooked Cook"
 		},
 		{
+			"dbf_id": 125643,
+			"name": "Escape Artist"
+		},
+		{
 			"dbf_id": 101966,
 			"name": "Gold Panner"
 		},
@@ -1566,6 +1594,10 @@
 		{
 			"dbf_id": 284,
 			"name": "Novice Engineer"
+		},
+		{
+			"dbf_id": 127322,
+			"name": "P1CK-P0K3T"
 		},
 		{
 			"dbf_id": 61622,
@@ -1794,6 +1826,30 @@
 		{
 			"dbf_id": 117302,
 			"name": "Ancient of Yore"
+		},
+		{
+			"dbf_id": 126210,
+			"name": "Black Market Auctioneer"
+		},
+		{
+			"dbf_id": 127698,
+			"name": "Snoot Hoarder"
+		},
+		{
+			"dbf_id": 126421,
+			"name": "Tripped Beast Tripwire"
+		},
+		{
+			"dbf_id": 126424,
+			"name": "Tripped Arcane Tripwire"
+		},
+		{
+			"dbf_id": 129675,
+			"name": "Blight"
+		},
+		{
+			"dbf_id": 126260,
+			"name": "Sawbones"
 		},
 		{
 			"dbf_id": 115184,
