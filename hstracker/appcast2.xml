@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.1</title>
+            <pubDate>Tue, 14 Jul 2026 20:39:36 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Hearthstone&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Animal Companion Counter not updating.&lt;/li&gt;
+&lt;li&gt;Added support to Commander Beatrix.&lt;/li&gt;
+&lt;li&gt;Added Counter for Cards played for 2 Mana (Jade Guardians)&lt;/li&gt;
+&lt;li&gt;Added Void Soul Counter&lt;/li&gt;
+&lt;li&gt;Added Active Effect for Jilhouse Manastorm&lt;/li&gt;
+&lt;li&gt;Fixed Animal Companion Counter not appearing for the opponent.&lt;/li&gt;
+&lt;li&gt;Added support to Azalina Soulsever decks.&lt;/li&gt;
+&lt;li&gt;Changed Aessina counter to display when Malorne is in the deck and 10 or more minions had died.&lt;/li&gt;
+&lt;li&gt;Fixed Abyssal Curse counter not updating.&lt;/li&gt;
+&lt;li&gt;Added Imp Gang Stooge's token to the bottom of the deck.
+&lt;strong&gt;Battlegrounds&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The minion browser now shows Tavern Tier 7 automatically in more cases.&lt;/li&gt;
+&lt;li&gt;Fixed Bob's Buddy getting stuck in the combat state in rare cases.&lt;/li&gt;
+&lt;li&gt;Fixed incorrect simulation results where:
+&lt;ul&gt;
+&lt;li&gt;Multiple minions killed by Tunnel Blaster could fail apply a deathrattle tavern spell&lt;/li&gt;
+&lt;li&gt;Multiple replica cathedrals were triggering more than once per spell&lt;/li&gt;
+&lt;li&gt;Diremuck Forager was failing to summon a minion added to hand mid-combat&lt;/li&gt;
+&lt;li&gt;Player attack order was not rechecking when Illidan Wingmen resulted in larger boards from summons&lt;/li&gt;
+&lt;li&gt;Rokara hero power was not granting stats for some attacks immediately scopes&lt;/li&gt;
+&lt;li&gt;Minions destroyed by Soul Fermenter were not adhering to deathrattle then reborn order&lt;/li&gt;
+&lt;li&gt;Ingenious Inventor deathrattle was not being copied properly&lt;/li&gt;
+&lt;li&gt;Secrets in duos games were triggering for teammates&lt;/li&gt;
+&lt;li&gt;Lesser/Greater crystal ball was failing to capture charges/state for certain copied trinkets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Added simulation support for Dr. Boom's Monster&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3558</sparkle:version>
+            <sparkle:shortVersionString>3.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75356211" sparkle:dsaSignature="MCwCFF2GileMliR5u+IhZ1ZwnIawYXXTAhQoE7WTYokN/gY5yoo6oWRGqB0p2w==" sparkle:edSignature="na+6e4pxUB77UhSVjjVzzf+LbZniuds1Z2Ul3JZ02Ol9OOVkHUPUceAZb7JpqDqNyYkwAMAyCqEXMZCWUrEvBg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.1/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.0</title>
             <pubDate>Tue, 30 Jun 2026 20:27:42 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.0.0&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Hearthstone&lt;/h2&gt;
