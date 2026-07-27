@@ -27,7 +27,7 @@
 			"discount": 10
 		},
 		"traditional": {
-			"enabled": true,
+			"enabled": false,
 			"id": 4,
 			"discount": 16
 		}
