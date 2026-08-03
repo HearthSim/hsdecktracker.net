@@ -363,6 +363,10 @@
 		{
 			"dbf_id": 129684,
 			"short_name": "Genn"
+		},
+		{
+			"dbf_id": 98726,
+			"short_name": "Teron"
 		}
 	],
 	"battlegrounds_tag_overrides": [
