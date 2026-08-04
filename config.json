@@ -367,6 +367,14 @@
 		{
 			"dbf_id": 98726,
 			"short_name": "Teron"
+		},
+		{
+			"dbf_id": 132608,
+			"short_name": "Lord Xavius"
+		},
+		{
+			"dbf_id": 132578,
+			"short_name": "Tras'tath"
 		}
 	],
 	"battlegrounds_tag_overrides": [
