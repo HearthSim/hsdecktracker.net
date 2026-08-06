@@ -40,6 +40,9 @@
 	"mulligan_guide": {
 		"disabled": false
 	},
+	"mulligan_gv2": {
+		"enable_tavern_brawl": false
+	},
 	"battlegrounds_short_names": [
 		{
 			"dbf_id": 81569,
