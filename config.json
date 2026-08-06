@@ -12,8 +12,8 @@
 	"bobs_buddy": {
 		"disabled": false,
 		"min_required_version": "1.55.0",
-		"min_recommended_version": "1.55.1",
-		"sentry_min_required_version": "1.55.1",
+		"min_recommended_version": "1.55.2",
+		"sentry_min_required_version": "1.55.2",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
 		"data_quality_warning": true
