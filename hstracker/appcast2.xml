@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.3</title>
+            <pubDate>Thu, 06 Aug 2026 21:00:10 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.2&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved Settings pane layouts (thanks @tusbar)&lt;/li&gt;
+&lt;li&gt;Improved French translations (thanks @tusbar)&lt;/li&gt;
+&lt;li&gt;Fixed import of decks with sideboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added King Of The Underbelly Band to the decklist.&lt;/li&gt;
+&lt;li&gt;Improve secret tracker with secrets created by Mage's Quest reward The Origin Stone.&lt;/li&gt;
+&lt;li&gt;Added a counter for Infest the Scullery.&lt;/li&gt;
+&lt;li&gt;Added cards to the bottom of the deck by Sphere of Sapience.&lt;/li&gt;
+&lt;li&gt;Fixed decklist not updating with the card shuffled by Shattered Reflection.&lt;/li&gt;
+&lt;li&gt;Fixed Vengeful Spirit highlighting weapons in the decklist.&lt;/li&gt;
+&lt;li&gt;Added support to Hemet, Jungle Hunter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Significantly improved how fast Bob's Buddy calculates the combat odds.&lt;/li&gt;
+&lt;li&gt;Fixed Accord-O-Tron not appearing in the Gold Next Turn counter.&lt;/li&gt;
+&lt;li&gt;Fixed an issue that could cause the Trinket overlay to be partially obscured when another choice was queued up (e.g. Kerrigan's Zerg pick).&lt;/li&gt;
+&lt;li&gt;Fixed some Bob's Buddy predictions in Duos.&lt;/li&gt;
+&lt;li&gt;And many more fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3610</sparkle:version>
+            <sparkle:shortVersionString>3.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="75686232" sparkle:dsaSignature="MCwCFED97xqk9tjgmKH+hxpXxRQV9Cz2AhQm2WOeL4rYfQ6YRMcf7/Ho+3ISMw==" sparkle:edSignature="OgEyHAGOAHV1da9Cm7NIzx4R/BUapHR+rAb1bO+cPfsAenE1DFjNBSxlgaF4/6pe/gJuca2+bqOgEsXR/0QOCw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.2</title>
             <pubDate>Thu, 23 Jul 2026 21:06:45 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.0.3&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Hearthstone&lt;/h2&gt;
