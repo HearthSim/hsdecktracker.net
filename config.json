@@ -41,7 +41,7 @@
 		"disabled": false
 	},
 	"mulligan_gv2": {
-		"enable_tavern_brawl": false
+		"enable_tavern_brawl": true
 	},
 	"battlegrounds_short_names": [
 		{
