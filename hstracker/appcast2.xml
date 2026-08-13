@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.4</title>
+            <pubDate>Wed, 12 Aug 2026 21:56:11 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;New Premium feature: Mulligan G-V2!&lt;br /&gt;
+&lt;em&gt;As a free user, you can try it for 5 games per week.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3613</sparkle:version>
+            <sparkle:shortVersionString>3.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure length="76193744" sparkle:dsaSignature="MCwCFAlQujNw74Zyysh3sSBJHt1xuKerAhQMKy4R7SWcK/SQVq881sTmpYzzcA==" sparkle:edSignature="5pfIYOh+REfRr8uLx5wipyZIvtMC0t1ov0GbMVTkoPuHHFU4/3/m1cqwhJJm2d3AFlzYjEwl0wjHcRB+xMG8AA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.4/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.3</title>
             <pubDate>Thu, 06 Aug 2026 21:00:10 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.2&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Fixes&lt;/h2&gt;
