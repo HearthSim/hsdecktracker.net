@@ -23,7 +23,7 @@
 	},
 	"sales": {
 		"battlegrounds": {
-			"enabled": true,
+			"enabled": false,
 			"id": 6,
 			"discount": 10
 		},
