@@ -11,12 +11,12 @@
 	},
 	"bobs_buddy": {
 		"disabled": false,
-		"min_required_version": "1.55.2",
-		"min_recommended_version": "1.55.6",
-		"sentry_min_required_version": "1.55.13",
+		"min_required_version": "1.55.6",
+		"min_recommended_version": "1.56.0",
+		"sentry_min_required_version": "1.56.0",
 		"metric_sampling": 1,
 		"log_lines_kept": 150,
-		"data_quality_warning": true
+		"data_quality_warning": false
 	},
 	"tier7": {
 		"disabled": false
