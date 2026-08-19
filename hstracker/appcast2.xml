@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.5</title>
+            <pubDate>Tue, 18 Aug 2026 23:01:23 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.2.2&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added counters for Eternal Knight and Ancestral Automaton.&lt;/li&gt;
+&lt;li&gt;Fixed issues that could cause Latest Games to not work in Duos.&lt;/li&gt;
+&lt;li&gt;Updated the list of Trinkets that cause Tavern Tier 7 to appear.&lt;/li&gt;
+&lt;li&gt;Fixed a number of incorrect combat odds.&lt;/li&gt;
+&lt;li&gt;Fixed a crash when Sandy was on the board in Duos.&lt;/li&gt;
+&lt;li&gt;Fixed a recent issue with incorrect combat odds around Polarizing Beatboxer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3624</sparkle:version>
+            <sparkle:shortVersionString>3.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="76236787" sparkle:dsaSignature="MCwCFGH7DPmzFsHxiumF/CO5nL+PFzxVAhQ3WXk8YcqXNDr2v6IYmmf3iWWrTQ==" sparkle:edSignature="XFBcF0zK3Hv2swJxGEmoDEwg01I7ykT5a6AT6vHnUShP8/EHR50r+NhJSLqQo6LENMtqtzsCAqNpDoBqSIL1Bw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.5/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.4</title>
             <pubDate>Wed, 12 Aug 2026 21:56:11 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
