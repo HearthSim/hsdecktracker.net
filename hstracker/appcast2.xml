@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.6</title>
+            <pubDate>Wed, 26 Aug 2026 08:07:47 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the secret tracker incorrectly un-excluding secrets when the played minion died later in the turn from something other than a &amp;quot;minion played&amp;quot; secret.&lt;/li&gt;
+&lt;li&gt;Fixed start-of-game effects such as Azalina Soulsever revealing opponent deck information before the mulligan was over.&lt;/li&gt;
+&lt;li&gt;The opponent's counters now account for Azalina Soulsever copying half of your deck into theirs.&lt;/li&gt;
+&lt;li&gt;Corpses can now be tracked and shown for you too, not just the opponent, with a checkbox for each at Options &amp;gt; Player/Opponent.&lt;/li&gt;
+&lt;li&gt;Fixed the secret tracker revealing which secret The Origin Stone cast from a Discover, which is not public information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Composition, Hero, Quest, Trinket guides are now available.&lt;/li&gt;
+&lt;li&gt;Tavern minion and filtering is now available.&lt;/li&gt;
+&lt;li&gt;Fixed the spell counter for Naga cards (Thaumaturgist and friends) counting in groups of 4 instead of 3.&lt;/li&gt;
+&lt;li&gt;Fixed Rot Hide Gnoll incorrectly appearing in the minion pool.&lt;/li&gt;
+&lt;li&gt;Fixed the Lockbox filter appearing in the Minions browser in lobbies without Pirates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed golden Choral Mrrrglr and Costume Enthusiast enchantments not being captured.&lt;/li&gt;
+&lt;li&gt;Fixed Dramaloc Sticker's enchantment not being captured on the opponent's trinket.&lt;/li&gt;
+&lt;li&gt;Fixed Toreth's Blessing not capturing its minion's remaining Divine Shield hits.&lt;/li&gt;
+&lt;li&gt;Fixed Fang Anklet's permanent Beast attack/health bonus not being captured.&lt;/li&gt;
+&lt;li&gt;Fixed Elementals' bonus attack/health from other Elementals not being captured.&lt;/li&gt;
+&lt;li&gt;Fixed a Dark Gift attached to a magnetized minion not being captured.&lt;/li&gt;
+&lt;li&gt;Fixed miscounted magnetized Auto Assembler modules in some cases.&lt;/li&gt;
+&lt;li&gt;Fixed Sneed's New Shredder's Deathrattle summons occasionally being misattributed to a hidden magnetized Auto Assembler module.&lt;/li&gt;
+&lt;li&gt;Fixed a rare false-positive combat prediction triggered during the shopping phase.&lt;/li&gt;
+&lt;li&gt;Fixed the Bob's Buddy panel sometimes staying visible after a Battlegrounds match ended.&lt;/li&gt;
+&lt;li&gt;Fixed Fang Anklet's permanent Beast bonus being incorrectly captured on a non-ghost opponent board.&lt;/li&gt;
+&lt;li&gt;Fixed miscounted Auto Assembler Deathrattles when the board had no space left for the summon.&lt;/li&gt;
+&lt;li&gt;Fixed opponent hand tracking in Duos sometimes mixing up the two opponents' hands.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3657</sparkle:version>
+            <sparkle:shortVersionString>3.6.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="70915225" sparkle:dsaSignature="MC0CFQCTOve5TRUKsLbS8U/9jmOhJx6dIAIUW/h0cpsbBzkRT5AEyQ00yro5uHY=" sparkle:edSignature="IrV5Yi+baXtQ1O1MLMPC3JJeh01yD1TCGoLW3z5pq30NLdmZWbtI9t425qgirDjy49hz3ovhK6IpPPN0PDnkBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.6/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.5</title>
             <pubDate>Tue, 18 Aug 2026 23:01:23 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.2.2&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Battlegrounds&lt;/h2&gt;
