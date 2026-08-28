@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.7</title>
+            <pubDate>Fri, 28 Aug 2026 14:56:24 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed incorrect card database causing missing overlays and other issues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added The OutFinder, our Discover assistant for Constructed and Arena!&lt;br /&gt;
+&lt;em&gt;Hover any card that Discovers or generates cards to see its full pool, along with the cost, attack and health distributions. Keyword breakdowns and pool filters are available to HSReplay.net Premium subscribers, and through your Mulligan Guide and Arenasmith trials.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Expanded pool coverage to over 700 Discover and card generation effects across every class.&lt;/li&gt;
+&lt;li&gt;Right-click a card with a large pool to open the full pool browser, with cost and keyword filters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a crash in Battlegrounds Duos matches when Scoutmaster Tavish's Lock and Load hero power fired. (#1432)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3666</sparkle:version>
+            <sparkle:shortVersionString>3.6.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="71770581" sparkle:dsaSignature="MC0CFQCRCU2MeptPeVsF5QOvQy+vNN/1KQIUWWuZ2O/W2bWfG3i4+/I1uL9KITY=" sparkle:edSignature="BruPDGUw1LVFJBR30SmCdRzhki44mazyTTycMD/zfXK1nI926ZTQE4Jsx2HeGimvM19mQW3qw+xwU0ik1wp7Bw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.7/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.6</title>
             <pubDate>Wed, 26 Aug 2026 08:07:47 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
