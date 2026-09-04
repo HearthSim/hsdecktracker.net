@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.8</title>
+            <pubDate>Thu, 03 Sep 2026 22:07:44 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.4.2&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed empty sideboard panels briefly appearing in the deck tracker.&lt;/li&gt;
+&lt;li&gt;Fixed a crash when the game watchers were started from two threads at once.&lt;/li&gt;
+&lt;li&gt;Fixed random crashes on macOS 26 caused by overlay artwork being composed off the main thread. Card, minion, experience and Mercenaries ability images are now built in a thread-safe way.&lt;/li&gt;
+&lt;li&gt;Fixed a crash when a card hud finished downloading its source card image, which was cropped on the download thread.&lt;/li&gt;
+&lt;li&gt;Fixed a crash when an overlay window was shown for the first time from a background thread.&lt;/li&gt;
+&lt;li&gt;Fixed a second log reader being left running when tracking was started twice while Hearthstone was still loading.&lt;/li&gt;
+&lt;li&gt;Fixed a crash when the counters were rebuilt at the start or end of a match while the counters overlay was reading them.&lt;/li&gt;
+&lt;li&gt;Fixed a crash in the constructed lobby when the mulligan guide deck badges refreshed, which could happen while browsing decks with the mouse.&lt;/li&gt;
+&lt;li&gt;Fixed The OutFinder's percentages and median values being formatted with the region configured in macOS instead of the language HSTracker is set to.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the Tavern Pinning panel staying on screen after a Battlegrounds match ended, following the player back into the lobby and into other game modes.&lt;/li&gt;
+&lt;li&gt;Fixed the Tier7 pre-lobby widget staying stuck on its loading spinner when HSTracker was started while Hearthstone was already in the Battlegrounds lobby.&lt;/li&gt;
+&lt;li&gt;Fixed the composition guides never loading in the Battlegrounds lobby, leaving the tab stuck on its loading state until a match started.&lt;/li&gt;
+&lt;li&gt;Fixed the composition and hero guide header art fading out too early, leaving it dimmer than intended.&lt;/li&gt;
+&lt;li&gt;Fixed the session MMR being formatted with the region configured in macOS instead of the language HSTracker is set to.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed magnetized Auto Assembler Deathrattle observations never being applied to the simulation.&lt;/li&gt;
+&lt;li&gt;Fixed Auto Assembler Deathrattles not being detected on dual-race Mechs.&lt;/li&gt;
+&lt;li&gt;Fixed Objectives not capturing their second and third script data values.&lt;/li&gt;
+&lt;li&gt;Fixed an Auto Assembler on the board having its own innate Deathrattle counted twice.&lt;/li&gt;
+&lt;li&gt;Fixed the Eternal Legion counter not being read, including Eternal Portrait's accumulated bonus.&lt;/li&gt;
+&lt;li&gt;Fixed Scoutmaster Tavish's Lock and Load minion not being captured when it fired before the combat snapshot.&lt;/li&gt;
+&lt;li&gt;Fixed Nellie's Ship and Magnanimoose enchantments being attached more than once during a combat.&lt;/li&gt;
+&lt;li&gt;Fixed Auto Assembler Deathrattles being miscounted when the host minion had other Deathrattles.&lt;/li&gt;
+&lt;li&gt;Fixed the Sanlayn Scribe counter not being captured in Duos.&lt;/li&gt;
+&lt;li&gt;Fixed an Auto Assembler Deathrattle that summoned nothing being counted a second time alongside a later Deathrattle from the same minion.&lt;/li&gt;
+&lt;li&gt;Fixed the win, tie, loss and lethal percentages being formatted with the region configured in macOS instead of the language HSTracker is set to, and Duos partial results no longer marking their win and loss rates as a lower bound.&lt;/li&gt;
+&lt;li&gt;Fixed Auto Assembler and Sea Star Crab Deathrattle observations from an earlier combat carrying over into the next one.&lt;/li&gt;
+&lt;li&gt;Fixed Auto Assembler Deathrattle firings never being reconciled when the minion summoned nothing, leaving them to be counted against a later combat.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3700</sparkle:version>
+            <sparkle:shortVersionString>3.6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="71792237" sparkle:dsaSignature="MCwCFESu+DAIzkvcmhheEYIMKLV3N7FAAhQwGGZyvulge0vRL4fRLbne4V1m0w==" sparkle:edSignature="BO72O2V5Dd9NGUJXamCLyMlBmyUiwYUPFNorjo4HUyNnfYEMwLMTiK9V0sFu0Y2YxWZ0xBGOM5wKe+vVJ/N1Cw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.8/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.7</title>
             <pubDate>Fri, 28 Aug 2026 14:56:24 -0400</pubDate><description>&lt;h2&gt;Fixes&lt;/h2&gt;
 &lt;ul&gt;
