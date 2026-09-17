@@ -1168,12 +1168,20 @@
 			"name": "Bleed"
 		},
 		{
+			"dbf_id": 127055,
+			"name": "Disguised Operator"
+		},
+		{
 			"dbf_id": 68458,
 			"name": "Shiv"
 		},
 		{
 			"dbf_id": 573,
 			"name": "Shiv"
+		},
+		{
+			"dbf_id": 127054,
+			"name": "SI:7 Supplier"
 		},
 		{
 			"dbf_id": 126895,
@@ -1396,6 +1404,10 @@
 			"name": "Backfire"
 		},
 		{
+			"dbf_id": 132838,
+			"name": "Crate of Contraband"
+		},
+		{
 			"dbf_id": 102646,
 			"name": "Chamber of Viscidus"
 		},
@@ -1502,6 +1514,10 @@
 		{
 			"dbf_id": 63118,
 			"name": "Outrider's Axe"
+		},
+		{
+			"dbf_id": 127014,
+			"name": "Land Ho!"
 		},
 		{
 			"dbf_id": 110902,
