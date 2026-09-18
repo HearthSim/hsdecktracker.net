@@ -1408,6 +1408,10 @@
 			"name": "Crate of Contraband"
 		},
 		{
+			"dbf_id": 127024,
+			"name": "Imp-formant"
+		},
+		{
 			"dbf_id": 102646,
 			"name": "Chamber of Viscidus"
 		},
