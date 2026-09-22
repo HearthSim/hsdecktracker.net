@@ -381,38 +381,7 @@
 			"short_name": "Tras'tath"
 		}
 	],
-	"battlegrounds_tag_overrides": [
-		{
-			"dbf_id": 95271,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 121135,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 117499,
-			"tag": 1456,
-			"value": 1
-		},
-		{
-			"dbf_id": 93099,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 127105,
-			"tag": 1456,
-			"value": 0
-		},
-		{
-			"dbf_id": 114088,
-			"tag": 3166,
-			"value": -1
-		}
-	],
+	"battlegrounds_tag_overrides": [],
 	"draw_card_blacklist": [
 		{
 			"dbf_id": 87267,
