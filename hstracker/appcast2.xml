@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.12</title>
+            <pubDate>Tue, 22 Sep 2026 19:23:35 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The player and opponent deck trackers, the secret helper and the &amp;quot;know your opponent's deck?&amp;quot; prompt are now part of the overlay rather than windows of their own, so they sit where Hearthstone Deck Tracker puts them, keep their place when the game's resolution changes, and are cut away wherever Hearthstone draws over the board.&lt;/li&gt;
+&lt;li&gt;Hovering a card in a deck tracker, the secret helper or the graveyard list now shows the card again without having to unlock the windows first, does so without stopping clicks reaching Hearthstone, and shows the same card preview as the rest of the overlay, on the side Hearthstone Deck Tracker puts it and without disappearing after three seconds, and that preview is now taken away whichever way the cursor leaves the list.&lt;/li&gt;
+&lt;li&gt;Added an Overdrawn list to both deck trackers, showing the cards Godfrey the Betrayer has burned into the void, and Godfrey's Atlas now appears in the active effects.&lt;/li&gt;
+&lt;li&gt;The deck trackers, the secret helper and the graveyard list are now drawn entirely by HSTracker's newer drawing code, which all four overlay themes were matched against pixel for pixel.&lt;/li&gt;
+&lt;li&gt;The deck trackers can now be scaled and faded independently for you and your opponent, centred vertically, and the order of their sections changed, from the new Overlay layout settings pane.&lt;/li&gt;
+&lt;li&gt;Fixed the mulligan guide staying on screen and its win rates staying on the deck list after the mulligan, until the opponent had taken a turn, and the numbers it shows once the mulligan is over now rate the cards you kept rather than the ones you were first offered.&lt;/li&gt;
+&lt;li&gt;The mulligan guide no longer appears in practice games against the AI, where HSReplay has no win rates to show for most of the deck.&lt;/li&gt;
+&lt;li&gt;Fixed hovering a counter showing the card pool of a card hovered earlier instead of the counter's own cards.&lt;/li&gt;
+&lt;li&gt;Changing the card theme now redraws the deck trackers, their counters and the Battlegrounds minion list at once, instead of leaving the old theme on screen until the next card was drawn.&lt;/li&gt;
+&lt;li&gt;The counters, the active effects, the turn timers, the board damage icons and the maximum resources widgets can now be dragged to wherever you want them while the windows are unlocked, and stay there, as they can in Hearthstone Deck Tracker.&lt;/li&gt;
+&lt;li&gt;While the windows are unlocked the overlay no longer pops up card and counter tooltips over whatever you are dragging, the Battlegrounds session panel is now highlighted like everything else that can be moved, and both players' counters and active effects show example content so there is always something to take hold of.&lt;/li&gt;
+&lt;li&gt;Fixed the board damage number sitting too high on its icon.&lt;/li&gt;
+&lt;li&gt;Fixed HSTracker quitting while a Battlegrounds hero, minion or trinket was being picked when it briefly could not tell how large the Hearthstone window was.&lt;/li&gt;
+&lt;li&gt;Only official HSTracker releases send crash reports and usage statistics to HearthSim.&lt;/li&gt;
+&lt;li&gt;Added deck highlighting for Arrival of the Old Gods and Arrival of the Titans.&lt;/li&gt;
+&lt;li&gt;The opponent's hand now shows the cost reductions from M.O.T.H.E.R.&lt;/li&gt;
+&lt;li&gt;Added related cards for Arfus, showing the Lich King cards it can give.&lt;/li&gt;
+&lt;li&gt;Added a Related Cards settings pane for choosing which cards are listed under the opponent's related cards, including ones they have not played yet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The maximum resources widget now shows your Battlegrounds gold cap while it is raised above ten and your gold has not yet caught up to it, and has a Battlegrounds setting of its own.&lt;/li&gt;
+&lt;li&gt;Tavern pin markers no longer appear when the minion browser is turned off.&lt;/li&gt;
+&lt;li&gt;Flavor text no longer pops up over the board in Battlegrounds.&lt;/li&gt;
+&lt;li&gt;Fixed the overlay not showing fully during a Timewarp tavern.&lt;/li&gt;
+&lt;li&gt;The minion browser's minion type filter now lists the minion types in the current Battlegrounds season rather than every type in the card data, puts them in alphabetical order, and shows an icon for Aberration.&lt;/li&gt;
+&lt;li&gt;Fixed long comp names being cut short in the comp guides, and the guide text sitting too close to the headings above and below it.&lt;/li&gt;
+&lt;li&gt;Fixed the trinket guide tooltip not showing for some of the offered trinkets in the trinket shop.&lt;/li&gt;
+&lt;li&gt;Added a Battlegrounds setting for whether the Meta Snapshot link is offered between games.&lt;/li&gt;
+&lt;li&gt;Hovering a player on the leaderboard now also shows the Deity they were last seen building, and the size it had grown to, with its stats in white.&lt;/li&gt;
+&lt;li&gt;Added a counter for the size of your own Deity, which shows this game's Deity from the start and appears once it has grown large or you have three Aberrations on the board.&lt;/li&gt;
+&lt;li&gt;The session panel's available minion types now show this game's Deity in place of the Aberration icon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bob's Buddy now knows about the Deity a Deity Sigil will summon, and the stats it has grown to.&lt;/li&gt;
+&lt;li&gt;Fixed Bob's Buddy simulating your own objectives for your opponent instead of theirs.&lt;/li&gt;
+&lt;li&gt;Bob's Buddy now says it failed to load when an incomplete copy of the runtime it simulates with stops it running, instead of leaving the panel empty on every combat, and no longer sends the same failure to HearthSim over and over.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3876</sparkle:version>
+            <sparkle:shortVersionString>3.6.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="71173284" sparkle:dsaSignature="MC0CFH2PVBRn98qG4D+k7+T9JxBBaTBiAhUAlndHh4WbUcnI/XoUu4GvBvqRDcQ=" sparkle:edSignature="uuKu4BTOaZFws8Rt6VE0cyPE2OYD2CYxcNePLrHtX/QGkU58uknncFf4iVggeNOdVzpPugUAPsETLV7vULyyBQ==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.12/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.11</title>
             <pubDate>Wed, 16 Sep 2026 22:16:58 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
