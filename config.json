@@ -23,7 +23,7 @@
 	},
 	"battlegrounds_tavern_pool": {
 		"disabled": false,
-		"sampling": 1.0
+		"sampling": 0.1
 	},
 	"sales": {
 		"battlegrounds": {
