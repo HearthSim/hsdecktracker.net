@@ -14,12 +14,16 @@
 		"min_required_version": "1.58.1",
 		"min_recommended_version": "1.58.1",
 		"sentry_min_required_version": "1.58.2",
-		"metric_sampling": 1,
+		"metric_sampling": 1.0,
 		"log_lines_kept": 150,
 		"data_quality_warning": false
 	},
 	"tier7": {
 		"disabled": false
+	},
+	"battlegrounds_tavern_pool": {
+		"disabled": false,
+		"sampling": 1.0
 	},
 	"sales": {
 		"battlegrounds": {
