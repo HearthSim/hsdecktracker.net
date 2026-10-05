@@ -13,7 +13,7 @@
 		"disabled": false,
 		"min_required_version": "1.58.6",
 		"min_recommended_version": "1.58.6",
-		"sentry_min_required_version": "1.58.6",
+		"sentry_min_required_version": "1.58.7",
 		"metric_sampling": 1.0,
 		"log_lines_kept": 150,
 		"data_quality_warning": false
