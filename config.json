@@ -265,10 +265,6 @@
 			"short_name": "Inge"
 		},
 		{
-			"dbf_id": 71916,
-			"short_name": "Mutanus"
-		},
-		{
 			"dbf_id": 103477,
 			"short_name": "Thorim"
 		},
@@ -285,16 +281,8 @@
 			"short_name": "Sylvanas"
 		},
 		{
-			"dbf_id": 68192,
-			"short_name": "Guff"
-		},
-		{
 			"dbf_id": 101345,
 			"short_name": "E.T.C."
-		},
-		{
-			"dbf_id": 67186,
-			"short_name": "Jailer"
 		},
 		{
 			"dbf_id": 97813,
@@ -365,7 +353,7 @@
 			"short_name": "Murozond"
 		},
 		{
-			"dbf_id": 126535,
+			"dbf_id": 126532,
 			"short_name": "Clocksworth"
 		},
 		{
