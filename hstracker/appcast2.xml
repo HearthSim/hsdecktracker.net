@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.6.14</title>
+            <pubDate>Sun, 11 Oct 2026 14:32:17 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.6.3&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a bug that could cause HSReplay.net features to fail until logging in again.&lt;/li&gt;
+&lt;li&gt;Fixed hovering one of your cards, in hand or in the deck tracker, no longer highlighting the cards in your deck that it works with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added tiers, stats and armor when picking Sir Finley's hero power! (based on the hero's stats)&lt;/li&gt;
+&lt;li&gt;Changed the Hero Guides to match your current hero power(s) during the game.&lt;/li&gt;
+&lt;li&gt;Added the Rally icon to the Last Known Board tooltip.&lt;/li&gt;
+&lt;li&gt;Added custom graphics for Divine Shields that take more than 1 hit in the Last Known Board tooltip.&lt;/li&gt;
+&lt;li&gt;Made the Composition Stats consider the Deity of the match.&lt;/li&gt;
+&lt;li&gt;Fixed the MMR in the session widget briefly resetting at the end of a match.&lt;/li&gt;
+&lt;li&gt;Fixed the Latest Games showing a dash for MMR in certain situations.&lt;/li&gt;
+&lt;li&gt;Fixed Tier7 features occasionally not loading.&lt;/li&gt;
+&lt;li&gt;Fixed the pre-lobby screen not showing the Tier7 widget.&lt;/li&gt;
+&lt;li&gt;Fixed Aberrations occasionally showing the wrong Deity in the available minion types.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a number of incorrect combat odds.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3954</sparkle:version>
+            <sparkle:shortVersionString>3.6.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="71096754" sparkle:dsaSignature="MC0CFQCSOLy6xd/5jUTghfjeBtiWe+n0iAIUIGkgyvG7GfXZGKdQXdrAk8t9X3Y=" sparkle:edSignature="NsmSc5tgmM5Psv2qoIfafuKP56I1rMH7zk5ydtPtMmciNilY8u3lV5A7hQCwlj5ZrtAJjQUdghIsm4DAWOBBBA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.6.14/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.13</title>
             <pubDate>Thu, 24 Sep 2026 18:01:49 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
