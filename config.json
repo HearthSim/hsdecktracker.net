@@ -371,6 +371,10 @@
 		{
 			"dbf_id": 132578,
 			"short_name": "Tras'tath"
+		},
+		{
+			"dbf_id": 104567,
+			"short_name": "Nameless One"
 		}
 	],
 	"battlegrounds_tag_overrides": [],
