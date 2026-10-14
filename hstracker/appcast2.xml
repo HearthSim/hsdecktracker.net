@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.7.0</title>
+            <pubDate>Tue, 13 Oct 2026 19:59:05 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 37.0.0&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;New&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete German translations (thanks @marcelgross90)&lt;/li&gt;
+&lt;li&gt;A dialog now explains why logging in to HSReplay.net failed, with a button to try again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added counters for G'huun, C'Thun, Eye of the Empire, N'Zoth, Dream's End and Y'Shaarj, Titan Bane.&lt;/li&gt;
+&lt;li&gt;Added deck highlights, active effects and related cards for The Black Empire.&lt;/li&gt;
+&lt;li&gt;Fixed Lift Off, Gladiatorial Combat, Talanji of the Graves and Dirdra, Rebel Captain not highlighting cards in your deck.&lt;/li&gt;
+&lt;li&gt;Fixed a rare crash when hovering a card in your hand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In collaboration with Jeef, Comp Guides now occasionally adjust their tier based on what exactly is available in your specific match. You will see a notice on the Comp Guide when this happens.&lt;/li&gt;
+&lt;li&gt;The Tier7 lobby panel now refreshes in the background instead of showing a loading spinner every time it reappears.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bob's Buddy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a small remaining number of incorrect combat odds.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3967</sparkle:version>
+            <sparkle:shortVersionString>3.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="71474310" sparkle:dsaSignature="MCwCFGEvYCpObzWAAJwagmGl4mOTVHAzAhR3tFV7mwiXU13FuQN8KLoyJwMtVA==" sparkle:edSignature="vDa84UjwZr8o+Jzx63nyapWDBbdXbI9pP00HA/uT3+8DtZVssEqHdLjooivDjWm0gx9IVE3SgBvzej35KGUsAg==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker/releases/download/3.7.0/HSTracker.app.zip"/>
+        </item><item>
             <title>3.6.14</title>
             <pubDate>Sun, 11 Oct 2026 14:32:17 -0400</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 36.6.3&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Hearthstone&lt;/h2&gt;
