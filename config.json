@@ -50,331 +50,764 @@
 	"battlegrounds_short_names": [
 		{
 			"dbf_id": 81569,
-			"short_name": "Faelin"
+			"short_name": "Faelin",
+			"localized": {
+				"ruRU": "Фаэлин"
+			}
 		},
 		{
 			"dbf_id": 61910,
-			"short_name": "Aranna"
+			"short_name": "Aranna",
+			"localized": {
+				"ruRU": "Аранна"
+			}
 		},
 		{
 			"dbf_id": 60362,
-			"short_name": "Rafaam"
+			"short_name": "Rafaam",
+			"localized": {
+				"ruRU": "Рафаам"
+			}
 		},
 		{
 			"dbf_id": 62242,
-			"short_name": "Eudora"
+			"short_name": "Eudora",
+			"localized": {
+				"ruRU": "Юдора"
+			}
 		},
 		{
 			"dbf_id": 62266,
-			"short_name": "Hooktusk"
+			"short_name": "Hooktusk",
+			"localized": {
+				"deDE": "Haizahn",
+				"esES": "Colmigarfio",
+				"esMX": "Colmigarfio",
+				"frFR": "Double-Crochet",
+				"itIT": "Zannuncino",
+				"plPL": "Stalowy Kieł",
+				"ptBR": "Presagancho",
+				"ruRU": "Кривоклык"
+			}
 		},
 		{
 			"dbf_id": 73940,
-			"short_name": "Cariel"
+			"short_name": "Cariel",
+			"localized": {
+				"ruRU": "Кариэль"
+			}
 		},
 		{
 			"dbf_id": 77516,
-			"short_name": "Cookie"
+			"short_name": "Cookie",
+			"localized": {
+				"deDE": "Krümel",
+				"esES": "Cocinitas",
+				"esMX": "Cocinitas",
+				"frFR": "Macaron",
+				"itIT": "Dolcetto",
+				"plPL": "Ciastek",
+				"ptBR": "Cozito",
+				"ruRU": "Пирожок"
+			}
 		},
 		{
 			"dbf_id": 59806,
-			"short_name": "Deryl"
+			"short_name": "Deryl",
+			"localized": {
+				"deDE": "Steppke",
+				"esES": "Daryl",
+				"esMX": "Daryl",
+				"frFR": "Daryl",
+				"itIT": "Sfrl",
+				"plPL": "Daryl",
+				"ptBR": "Dário",
+				"ruRU": "Дэрил"
+			}
 		},
 		{
 			"dbf_id": 71458,
-			"short_name": "Blackthorn"
+			"short_name": "Blackthorn",
+			"localized": {
+				"deDE": "Schwarzdorn",
+				"esES": "Espina Negra",
+				"esMX": "Espina Negra",
+				"frFR": "Noirépine",
+				"itIT": "Spinanera",
+				"plPL": "Czarnokolcy",
+				"ptBR": "Abrunhal",
+				"ruRU": "Черношип"
+			}
 		},
 		{
 			"dbf_id": 60214,
-			"short_name": "Brann"
+			"short_name": "Brann",
+			"localized": {
+				"ruRU": "Бранн"
+			}
 		},
 		{
 			"dbf_id": 57633,
-			"short_name": "Edwin"
+			"short_name": "Edwin",
+			"localized": {
+				"ruRU": "Эдвин"
+			}
 		},
 		{
 			"dbf_id": 60213,
-			"short_name": "Elise"
+			"short_name": "Elise",
+			"localized": {
+				"esMX": "Elisa",
+				"frFR": "Élise",
+				"plPL": "Eliza",
+				"ruRU": "Элиза"
+			}
 		},
 		{
 			"dbf_id": 63604,
-			"short_name": "Omu"
+			"short_name": "Omu",
+			"localized": {
+				"ruRU": "Ому"
+			}
 		},
 		{
 			"dbf_id": 60372,
-			"short_name": "Flurgl"
+			"short_name": "Flurgl",
+			"localized": {
+				"deDE": "Flrrgl",
+				"plPL": "Grzybrl",
+				"ruRU": "Флургл"
+			}
 		},
 		{
 			"dbf_id": 57929,
-			"short_name": "George"
+			"short_name": "George",
+			"localized": {
+				"deDE": "Gustav",
+				"itIT": "Paolo",
+				"plPL": "Zbychu",
+				"ptBR": "Jorge",
+				"ruRU": "Джордж"
+			}
 		},
 		{
 			"dbf_id": 68129,
-			"short_name": "Guff"
+			"short_name": "Guff",
+			"localized": {
+				"plPL": "Guf",
+				"ruRU": "Гафф"
+			}
 		},
 		{
 			"dbf_id": 57634,
-			"short_name": "Illidan"
+			"short_name": "Illidan",
+			"localized": {
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 58534,
-			"short_name": "Toki"
+			"short_name": "Toki",
+			"localized": {
+				"ruRU": "Токи"
+			}
 		},
 		{
 			"dbf_id": 80832,
-			"short_name": "Ini"
+			"short_name": "Ini",
+			"localized": {
+				"ruRU": "Ини"
+			}
 		},
 		{
 			"dbf_id": 63601,
-			"short_name": "Jandice"
+			"short_name": "Jandice",
+			"localized": {
+				"plPL": "Jandis",
+				"ptBR": "Janice",
+				"ruRU": "Джандис"
+			}
 		},
 		{
 			"dbf_id": 61912,
-			"short_name": "Kael'thas"
+			"short_name": "Kael'thas",
+			"localized": {
+				"deDE": "Kael’thas",
+				"frFR": "Kael’thas",
+				"ruRU": "Кель'тас"
+			}
 		},
 		{
 			"dbf_id": 74631,
-			"short_name": "Kurtrus"
+			"short_name": "Kurtrus",
+			"localized": {
+				"ruRU": "Куртрус"
+			}
 		},
 		{
 			"dbf_id": 59807,
-			"short_name": "Jaraxxus"
+			"short_name": "Jaraxxus",
+			"localized": {
+				"ruRU": "Джараксус"
+			}
 		},
 		{
 			"dbf_id": 71908,
-			"short_name": "Nguyen"
+			"short_name": "Nguyen",
+			"localized": {
+				"ruRU": "Нгуен"
+			}
 		},
 		{
 			"dbf_id": 60366,
-			"short_name": "Millhouse"
+			"short_name": "Millhouse",
+			"localized": {
+				"deDE": "Millhaus",
+				"esES": "Molino",
+				"esMX": "Molino",
+				"frFR": "Milhouse",
+				"plPL": "Mełko",
+				"ruRU": "Миллхаус"
+			}
 		},
 		{
 			"dbf_id": 57946,
-			"short_name": "Millificent"
+			"short_name": "Millificent",
+			"localized": {
+				"esES": "Malífica",
+				"esMX": "Maleficia",
+				"itIT": "Millefica",
+				"plPL": "Niemiłka",
+				"ptBR": "Milévola",
+				"ruRU": "Миллифисент"
+			}
 		},
 		{
 			"dbf_id": 71916,
-			"short_name": "Mutanus"
+			"short_name": "Mutanus",
+			"localized": {
+				"ruRU": "Мутанус"
+			}
 		},
 		{
 			"dbf_id": 71454,
-			"short_name": "Saurfang"
+			"short_name": "Saurfang",
+			"localized": {
+				"esES": "Colmillosauro",
+				"esMX": "Colmillosauro",
+				"frFR": "Saurcroc",
+				"itIT": "Faucisaure",
+				"plPL": "Zaurzykieł",
+				"ruRU": "Саурфанг"
+			}
 		},
 		{
 			"dbf_id": 57947,
-			"short_name": "Patches"
+			"short_name": "Patches",
+			"localized": {
+				"deDE": "Glubschauge",
+				"esES": "Parches",
+				"esMX": "Parches",
+				"frFR": "Neunœil",
+				"itIT": "Sghigno",
+				"plPL": null,
+				"ptBR": "Remendo",
+				"ruRU": "Глазастик"
+			}
 		},
 		{
 			"dbf_id": 79618,
-			"short_name": "Azshara"
+			"short_name": "Azshara",
+			"localized": {
+				"plPL": "Aszara",
+				"ruRU": "Азшара"
+			}
 		},
 		{
 			"dbf_id": 89992,
-			"short_name": "Azshara"
+			"short_name": "Azshara",
+			"localized": {
+				"plPL": "Aszara",
+				"ruRU": "Азшара"
+			}
 		},
 		{
 			"dbf_id": 57924,
-			"short_name": "Wagtoggle"
+			"short_name": "Wagtoggle",
+			"localized": {
+				"deDE": "Wagtoggel",
+				"esES": "Flojatoga",
+				"frFR": "Cire-Reine",
+				"itIT": "Cobalda",
+				"plPL": "Brzęsitrzuch",
+				"ptBR": "Lumbafuba",
+				"ruRU": "Пыхлевих"
+			}
 		},
 		{
 			"dbf_id": 57892,
-			"short_name": "Ragnaros"
+			"short_name": "Ragnaros",
+			"localized": {
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 60212,
-			"short_name": "Reno"
+			"short_name": "Reno",
+			"localized": {
+				"ruRU": "Рено"
+			}
 		},
 		{
 			"dbf_id": 76562,
-			"short_name": "Scabbs"
+			"short_name": "Scabbs",
+			"localized": {
+				"deDE": "Schnipps",
+				"frFR": "Tchak",
+				"itIT": "Scabb",
+				"plPL": "Skubas",
+				"ptBR": "Sarno",
+				"ruRU": "Скаббс"
+			}
 		},
 		{
 			"dbf_id": 64480,
-			"short_name": "Silas"
+			"short_name": "Silas",
+			"localized": {
+				"ruRU": "Сайлас"
+			}
 		},
 		{
 			"dbf_id": 60211,
-			"short_name": "Finley"
+			"short_name": "Finley",
+			"localized": {
+				"esMX": "Aletardo",
+				"itIT": "Pinnus",
+				"plPL": "Płetwin",
+				"ptBR": "Finlei",
+				"ruRU": "Финли"
+			}
 		},
 		{
 			"dbf_id": 62268,
-			"short_name": "Kragg"
+			"short_name": "Kragg",
+			"localized": {
+				"ruRU": "Крагг"
+			}
 		},
 		{
 			"dbf_id": 77987,
-			"short_name": "Tavish"
+			"short_name": "Tavish",
+			"localized": {
+				"plPL": "Tawisz",
+				"ruRU": "Тавиш"
+			}
 		},
 		{
 			"dbf_id": 60367,
-			"short_name": "Tess"
+			"short_name": "Tess",
+			"localized": {
+				"ruRU": "Тесс"
+			}
 		},
 		{
 			"dbf_id": 59203,
-			"short_name": "Curator"
+			"short_name": "Curator",
+			"localized": {
+				"deDE": "Kurator",
+				"frFR": "Conservateur",
+				"plPL": null,
+				"ptBR": "Curador",
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 58021,
-			"short_name": "Akazamzarak"
+			"short_name": "Akazamzarak",
+			"localized": {
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 58024,
-			"short_name": "Lich King"
+			"short_name": "Lich King",
+			"localized": {
+				"deDE": "Lichkönig",
+				"esES": "Rey Exánime",
+				"esMX": "Rey Exánime",
+				"frFR": "Roi-liche",
+				"itIT": null,
+				"plPL": null,
+				"ptBR": "Lich Rei",
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 57893,
-			"short_name": "Rat King"
+			"short_name": "Rat King",
+			"localized": {
+				"deDE": "Rattenkönig",
+				"esES": null,
+				"esMX": "Rey Rata",
+				"frFR": "Roi des rats",
+				"itIT": null,
+				"plPL": null,
+				"ptBR": "Rei Rato",
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 57891,
-			"short_name": "Gallywix"
+			"short_name": "Gallywix",
+			"localized": {
+				"plPL": "Galiwiasz",
+				"ruRU": "Галливикс"
+			}
 		},
 		{
 			"dbf_id": 80247,
-			"short_name": "Vanndar"
+			"short_name": "Vanndar",
+			"localized": {
+				"plPL": "Vandar",
+				"ruRU": "Вандар"
+			}
 		},
 		{
 			"dbf_id": 79615,
-			"short_name": "Varden"
+			"short_name": "Varden",
+			"localized": {
+				"ruRU": "Варден"
+			}
 		},
 		{
 			"dbf_id": 59805,
-			"short_name": "Yogg-Saron"
+			"short_name": "Yogg-Saron",
+			"localized": {
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 64485,
-			"short_name": "Zephrys"
+			"short_name": "Zephrys",
+			"localized": {
+				"frFR": "Zéphrys",
+				"itIT": "Zefris",
+				"plPL": "Zefrys",
+				"ptBR": "Zéfiro",
+				"ruRU": "Зефрис"
+			}
 		},
 		{
 			"dbf_id": 74646,
-			"short_name": "Tamsin"
+			"short_name": "Tamsin",
+			"localized": {
+				"ruRU": "Тамсин"
+			}
 		},
 		{
 			"dbf_id": 61914,
-			"short_name": "Maiev"
+			"short_name": "Maiev",
+			"localized": {
+				"ruRU": "Майев"
+			}
 		},
 		{
 			"dbf_id": 86291,
-			"short_name": "Togwaggle"
+			"short_name": "Togwaggle",
+			"localized": {
+				"deDE": "Togwaggel",
+				"esES": "Togafloja",
+				"frFR": "Cire-Pilleur",
+				"itIT": "Cobaldo",
+				"plPL": "Trzęsibrzuch",
+				"ptBR": "Fubalumba",
+				"ruRU": "Вихлепых"
+			}
 		},
 		{
 			"dbf_id": 92960,
-			"short_name": "Denathrius"
+			"short_name": "Denathrius",
+			"localized": {
+				"plPL": "Denatrius",
+				"ruRU": "Денатрий"
+			}
 		},
 		{
 			"dbf_id": 103500,
-			"short_name": "Inge"
+			"short_name": "Inge",
+			"localized": {
+				"ruRU": "Инге"
+			}
 		},
 		{
 			"dbf_id": 103477,
-			"short_name": "Thorim"
+			"short_name": "Thorim",
+			"localized": {
+				"ruRU": "Торим"
+			}
 		},
 		{
 			"dbf_id": 99033,
-			"short_name": "Voone"
+			"short_name": "Voone",
+			"localized": {
+				"plPL": "Wun",
+				"ruRU": "Вун"
+			}
 		},
 		{
 			"dbf_id": 101130,
-			"short_name": "Hoggar"
+			"short_name": "Hoggar",
+			"localized": {
+				"frFR": "Larrrdeur",
+				"itIT": "Boccalarrrga",
+				"plPL": "Wyżerrr",
+				"ruRU": "Др-р-робитель"
+			}
 		},
 		{
 			"dbf_id": 89293,
-			"short_name": "Sylvanas"
+			"short_name": "Sylvanas",
+			"localized": {
+				"plPL": "Sylwana",
+				"ptBR": "Sylvana",
+				"ruRU": "Сильвана"
+			}
 		},
 		{
 			"dbf_id": 101345,
-			"short_name": "E.T.C."
+			"short_name": "E.T.C.",
+			"localized": {
+				"esES": "ETC",
+				"ptBR": "C.T.E"
+			}
 		},
 		{
 			"dbf_id": 97813,
-			"short_name": "Putricide"
+			"short_name": "Putricide",
+			"localized": {
+				"deDE": "Seuchenmord",
+				"esES": "Putricidio",
+				"esMX": "Putricidio",
+				"itIT": "Putricidio",
+				"plPL": "Przebrzyd",
+				"ptBR": "Putricida",
+				"ruRU": "Мерзоцид"
+			}
 		},
 		{
 			"dbf_id": 96870,
-			"short_name": "Enhance-o"
+			"short_name": "Enhance-o",
+			"localized": {
+				"deDE": null,
+				"esES": null,
+				"esMX": null,
+				"frFR": null,
+				"itIT": null,
+				"plPL": "Wzmacniano",
+				"ptBR": "Aprimorador",
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 61911,
-			"short_name": "Aranna"
+			"short_name": "Aranna",
+			"localized": {
+				"ruRU": "Аранна"
+			}
 		},
 		{
 			"dbf_id": 105434,
-			"short_name": "Holli'dae"
+			"short_name": "Holli'dae",
+			"localized": {
+				"deDE": "Holli‘dae",
+				"frFR": "Holli’dae",
+				"ruRU": "Гу'ляка"
+			}
 		},
 		{
 			"dbf_id": 105431,
-			"short_name": "Tae'thelan"
+			"short_name": "Tae'thelan",
+			"localized": {
+				"deDE": "Tae‘thelan",
+				"esES": "Tae'thalan",
+				"frFR": "Tae’thelan",
+				"plPL": "Tae'thalan",
+				"ruRU": "Тей'телан"
+			}
 		},
 		{
 			"dbf_id": 113310,
-			"short_name": "Marin"
+			"short_name": "Marin",
+			"localized": {
+				"ruRU": "Марин"
+			}
 		},
 		{
 			"dbf_id": 116926,
-			"short_name": "Nobundo"
+			"short_name": "Nobundo",
+			"localized": {
+				"ptBR": "Nobambo",
+				"ruRU": "Нобундо"
+			}
 		},
 		{
 			"dbf_id": 117409,
-			"short_name": "Zerek"
+			"short_name": "Zerek",
+			"localized": {
+				"ruRU": "Зерек"
+			}
 		},
 		{
 			"dbf_id": 104671,
-			"short_name": "Floop"
+			"short_name": "Floop",
+			"localized": {
+				"deDE": "Flurp",
+				"esES": "Flema",
+				"esMX": "Mucus",
+				"frFR": "Floup",
+				"itIT": "Melmo",
+				"plPL": "Fluś",
+				"ptBR": "Flupe",
+				"ruRU": "Хлюп"
+			}
 		},
 		{
 			"dbf_id": 58044,
-			"short_name": "Lich"
+			"short_name": "Lich",
+			"localized": {
+				"esES": "Exánime",
+				"esMX": "Exánime",
+				"frFR": "Liche",
+				"plPL": "Lisz",
+				"ruRU": "Лич"
+			}
 		},
 		{
 			"dbf_id": 84867,
-			"short_name": "Holmes"
+			"short_name": "Holmes",
+			"localized": {
+				"ruRU": "Холмс"
+			}
 		},
 		{
 			"dbf_id": 97186,
-			"short_name": "Jailer"
+			"short_name": "Jailer",
+			"localized": {
+				"deDE": "Kerkermeister",
+				"esES": "Carcelero",
+				"esMX": "Carcelero",
+				"frFR": "Geôlier",
+				"itIT": "Carceriere",
+				"plPL": null,
+				"ptBR": "Carcereiro",
+				"ruRU": null
+			}
 		},
 		{
 			"dbf_id": 120358,
-			"short_name": "Kerrigan"
+			"short_name": "Kerrigan",
+			"localized": {
+				"ruRU": "Керриган"
+			}
 		},
 		{
 			"dbf_id": 116920,
-			"short_name": "Cenarius"
+			"short_name": "Cenarius",
+			"localized": {
+				"frFR": "Cénarius",
+				"ruRU": "Кенарий"
+			}
 		},
 		{
 			"dbf_id": 122925,
-			"short_name": "Loh"
+			"short_name": "Loh",
+			"localized": {
+				"deDE": "Na'logo",
+				"ruRU": "Ло"
+			}
 		},
 		{
 			"dbf_id": 126537,
-			"short_name": "Chromie"
+			"short_name": "Chromie",
+			"localized": {
+				"esES": "Cromi",
+				"esMX": "Cromi",
+				"itIT": "Cromie",
+				"plPL": "Chronia",
+				"ptBR": "Crona",
+				"ruRU": "Хроми"
+			}
 		},
 		{
 			"dbf_id": 127696,
-			"short_name": "Murozond"
+			"short_name": "Murozond",
+			"localized": {
+				"ruRU": "Дорнозму"
+			}
 		},
 		{
 			"dbf_id": 126532,
-			"short_name": "Clocksworth"
+			"short_name": "Clocksworth",
+			"localized": {
+				"deDE": "Uhrig",
+				"esES": "Relojero",
+				"esMX": "Tictac",
+				"frFR": "Lapendule",
+				"itIT": "Tickins",
+				"plPL": "Trybiczek",
+				"ptBR": "Horácio",
+				"ruRU": "Часовщик"
+			}
 		},
 		{
 			"dbf_id": 129684,
-			"short_name": "Genn"
+			"short_name": "Genn",
+			"localized": {
+				"ruRU": "Генн"
+			}
 		},
 		{
 			"dbf_id": 98726,
-			"short_name": "Teron"
+			"short_name": "Teron",
+			"localized": {
+				"ruRU": "Терон"
+			}
 		},
 		{
 			"dbf_id": 132608,
-			"short_name": "Lord Xavius"
+			"short_name": "Lord Xavius",
+			"localized": {
+				"deDE": "Xavius",
+				"esES": "Xavius",
+				"frFR": "Xavius",
+				"itIT": "Xavius",
+				"plPL": "Xavius",
+				"ptBR": "Xavius",
+				"ruRU": "Ксавий"
+			}
 		},
 		{
 			"dbf_id": 132578,
-			"short_name": "Tras'tath"
+			"short_name": "Tras'tath",
+			"localized": {
+				"deDE": "Tras’tath",
+				"frFR": "Tras’tath",
+				"ruRU": "Трас'тат"
+			}
 		},
 		{
 			"dbf_id": 104567,
-			"short_name": "Nameless One"
+			"short_name": "Nameless One",
+			"localized": {
+				"deDE": "Namenlose",
+				"esES": "Sin Nombre",
+				"esMX": "Incógnito",
+				"frFR": "Sans-Nom",
+				"itIT": "Senzanome",
+				"plPL": null,
+				"ptBR": "Sem Nome",
+				"ruRU": null
+			}
 		}
 	],
 	"battlegrounds_tag_overrides": [],
