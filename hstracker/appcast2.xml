@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.7.2</title>
+            <pubDate>Mon, 26 Oct 2026 20:29:37 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hovering an assembled card in the deck list now shows its assembled text and the related cards of its effect half.&lt;/li&gt;
+&lt;li&gt;Assembled cards in the deck list now show the names of the cards their halves came from.&lt;/li&gt;
+&lt;li&gt;N'Zoth, Dream's End now shows the Deathrattle minions that died as its related cards.&lt;/li&gt;
+&lt;li&gt;The C'Thun, Eye of the Empire counter now shows which abilities were already used.&lt;/li&gt;
+&lt;li&gt;Fixed Incindius's eruption count not showing in the deck list.&lt;/li&gt;
+&lt;li&gt;Excavate cards and their treasures now show related cards.&lt;/li&gt;
+&lt;li&gt;Fixed the Excavate counter not showing its rewards.&lt;/li&gt;
+&lt;li&gt;Fixed Gloomstone Guardian appearing in the opponent's deck list when they forge it.&lt;/li&gt;
+&lt;li&gt;The corpses counter is now set to Auto, Enabled or Disabled for each player at Options &amp;gt; Counters, replacing the checkboxes at Options &amp;gt; Player/Opponent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Maximum Gold is now configured at Options &amp;gt; Counters, replacing its checkbox at Options &amp;gt; Battlegrounds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Arena&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Arenasmith's deck list scores, discard suggestions and synergy markers appearing two cards above the card they belong to.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>3990</sparkle:version>
+            <sparkle:shortVersionString>3.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
+            <enclosure length="70985693" sparkle:dsaSignature="MCwCFDYzX0in6cSBZifgOqCb+2Gax2vIAhQyslL3F2Nv6WhVwm10cEhbolURdw==" sparkle:edSignature="iAZ59WXDO0bx4cycBgMX1qztUqmOC0fcJutump/qSNYLAHOPbFLmsb2sQTWm79yg9Jgbz3qNuPKnCn66w+VTCA==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker-Releases/releases/download/3.7.2/HSTracker.app.zip"/>
+        </item><item>
             <title>3.7.1</title>
             <pubDate>Tue, 20 Oct 2026 21:54:40 -0400</pubDate><description>&lt;h2&gt;New&lt;/h2&gt;
 &lt;ul&gt;
