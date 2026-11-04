@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.7.3</title>
+            <pubDate>Tue, 03 Nov 2026 19:32:42 -0500</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 37.2.0&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bob's Buddy now knows which minions have already been reborn.&lt;/li&gt;
+&lt;li&gt;Bob's Buddy now includes the enchantments on minions saved by Soul Fermenter during combat.&lt;/li&gt;
+&lt;li&gt;Updated the Blood Gem counter's related cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Arena&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Arenasmith's card scores and badges appearing too low during redrafts and late in a draft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Preferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Counter dropdowns for an unsupported side now show &amp;quot;Never show&amp;quot;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>4000</sparkle:version>
+            <sparkle:shortVersionString>3.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
+            <sparkle:tags>
+                 <sparkle:criticalUpdate/>
+            </sparkle:tags>
+            <enclosure length="70996221" sparkle:dsaSignature="MC0CFQCO0R828OQwjNzeFN2E93N6B8WGWQIUDTQWxUWqXaUYvbo2GZOFlJtCw78=" sparkle:edSignature="6YmokoP4CHvgrbY0NKgRxLDPkv6kFstql+/9/eKrG3wW7vLQa9O1y4p1f7KzbT1Ie1cLMfTAIWfamLl+r4AKDw==" type="application/octet-stream" url="https://github.com/HearthSim/HSTracker-Releases/releases/download/3.7.3/HSTracker.app.zip"/>
+        </item><item>
             <title>3.7.2</title>
             <pubDate>Mon, 26 Oct 2026 20:29:37 -0400</pubDate><description>&lt;h2&gt;Hearthstone&lt;/h2&gt;
 &lt;ul&gt;
