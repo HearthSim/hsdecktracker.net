@@ -47,6 +47,9 @@
 	"mulligan_gv2": {
 		"enable_tavern_brawl": false
 	},
+	"velopack": {
+		"rollout": 0.0001
+	},
 	"battlegrounds_short_names": [
 		{
 			"dbf_id": 81569,
