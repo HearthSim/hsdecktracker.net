@@ -48,7 +48,7 @@
 		"enable_tavern_brawl": false
 	},
 	"velopack": {
-		"rollout": 0.001
+		"rollout": 0.01
 	},
 	"battlegrounds_short_names": [
 		{
