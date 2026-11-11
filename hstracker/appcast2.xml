@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel><item>
+            <title>3.7.4</title>
+            <pubDate>Wed, 11 Nov 2026 10:44:43 -0500</pubDate><description>&lt;h2&gt;Battlegrounds&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Gold Next Turn counter now shows its value with a plus sign.&lt;/li&gt;
+&lt;li&gt;The minion browser and session recap now use plural tribe names.&lt;/li&gt;
+&lt;li&gt;Bob's Buddy now calculates the correct combat odds with Jar o'Gems.&lt;/li&gt;
+&lt;li&gt;Fixed a few more incorrect Bob's Buddy combat odds.&lt;/li&gt;
+&lt;li&gt;Hovering your hero power now shows your hero's guide, and hovering a trinket shows its guide, even outside the Trinket shop.&lt;/li&gt;
+&lt;li&gt;Guides now show the name of their author.&lt;/li&gt;
+&lt;li&gt;The Key Minions pin label is now gray instead of red while disabled.&lt;/li&gt;
+&lt;li&gt;Fixed hero picking stats sometimes not loading when the offered heroes took a while to appear.&lt;/li&gt;
+&lt;li&gt;Fixed the turns-dead counts on the leaderboard appearing too high and too far apart when Hearthstone is fullscreen.&lt;/li&gt;
+&lt;li&gt;Fixed heroes showing &amp;quot;No guide available&amp;quot; during the hero pick.&lt;/li&gt;
+&lt;li&gt;Opponent boards, Deities, tier-up turns and triples are now kept after reconnecting mid-match.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hearthstone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the Tier7 and Constructed pre-lobby widgets saying you weren't signed in right after logging in to HSReplay.net, and they now offer to try again when your account can't be loaded.&lt;/li&gt;
+&lt;li&gt;Fixed the Statistics window's content overlapping its tabs.&lt;/li&gt;
+&lt;li&gt;Fixed a crash after deleting a deck.&lt;/li&gt;
+&lt;li&gt;Fixed HSTracker freezing for up to a minute when Hearthstone closes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <sparkle:version>4021</sparkle:version>
+            <sparkle:shortVersionString>3.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HearthSim/HSTracker-Releases/releases/download/3.7.4/HSTracker.app.zip" length="70067491" type="application/octet-stream" sparkle:edSignature="F7QXkbgpld0S7OgjRz2fAjs0pqdUQx+WzMX3nRgqMGhh9OCnejI6tGvoItFPLw6JXlkFhZruNfNPqy0Ja0HEDg==" sparkle:dsaSignature="MC0CFEey763vKfK0llg8k3zKxrW2Co6WAhUAiR7bgQpU5KX52idPtTC0YFHMwuc="/>
+        </item><item>
             <title>3.7.3</title>
             <pubDate>Tue, 03 Nov 2026 19:32:42 -0500</pubDate><description>&lt;p&gt;&lt;strong&gt;Updated for Hearthstone 37.2.0&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Battlegrounds&lt;/h2&gt;
