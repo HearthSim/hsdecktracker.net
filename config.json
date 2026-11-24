@@ -811,6 +811,13 @@
 				"ptBR": "Sem Nome",
 				"ruRU": null
 			}
+		},
+		{
+			"dbf_id": 136099,
+			"short_name": "Vanessa",
+			"localized": {
+				"ruRU": "Ванесса"
+			}
 		}
 	],
 	"battlegrounds_tag_overrides": [],
